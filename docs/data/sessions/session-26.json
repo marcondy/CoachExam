@@ -514,15 +514,15 @@
     },
     {
       "domain": "Exercise Techniques",
-      "question": "Session 26: best study method for this session is:",
+      "question": "When teaching an exercise, a coach should prioritize:",
       "options": [
-        "Active recall + practical application",
-        "One passive skim",
-        "Skipping diagrams",
-        "Avoiding practice"
+        "Max load on the first attempt",
+        "Complex variations before basics",
+        "No demonstration or feedback",
+        "Safety, clear cues, and a regression/progression path"
       ],
-      "answer": 0,
-      "explanation": "",
+      "answer": 3,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

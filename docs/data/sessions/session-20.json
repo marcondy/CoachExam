@@ -514,15 +514,15 @@
     },
     {
       "domain": "Functional Anatomy",
-      "question": "Session 20: best study method for this session is:",
+      "question": "Anatomy knowledge helps a coach primarily to:",
       "options": [
-        "Active recall + practical application",
-        "One passive skim",
-        "Avoiding practice",
-        "Skipping diagrams"
+        "Ignore movement quality",
+        "Select exercises and cues that match joint actions and limitations",
+        "Replace all assessments with guessing",
+        "Prescribe medications"
       ],
-      "answer": 0,
-      "explanation": "",
+      "answer": 1,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

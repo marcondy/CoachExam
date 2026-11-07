@@ -1,7 +1,7 @@
 {
   "meta": {
     "program": "Personal Fitness Coach — Practice Exams",
-    "source": "Course study materials",
+    "source": "Personal fitness coaching practice topics",
     "questionsPerExam": 100,
     "suggestedPassPercent": 70,
     "distribution": {
@@ -18,11 +18,11 @@
     },
     "guidelines": [
       "Each theoretical practice exam contains 100 multiple-choice questions.",
-      "Questions are distributed across the major domains covered in the study sessions.",
+      "Questions focus on coaching practice across major domains (anatomy, training, nutrition guidance within scope, behavior change, assessment, and program design).",
       "Choose one answer per question. You can navigate freely and change answers before submitting.",
       "Treat this like exam conditions: no phones, no notes, focused attempt.",
-      "After submission you will see your score by domain and a review of incorrect answers.",
-      "This is an independent study aid — not an official certification exam."
+      "After submission you will see your score by domain, timing insights, and a review of incorrect answers.",
+      "This is an independent coaching practice aid — not an official certification exam."
     ]
   },
   "exam1": [
@@ -80,15 +80,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Which statement best distinguishes a qualified coach from someone who is only 'certified' on paper?",
+      "question": "Which statement best distinguishes a qualified coach in practice?",
       "options": [
-        "Qualified coaches memorize more exercise names",
-        "Qualified coaches continually apply evidence-based practice, ethics, and professional standards",
-        "Qualified coaches never need continuing education",
-        "Qualified coaches only train advanced athletes"
+        "They memorize more exercise names than others",
+        "They apply evidence, ethics, and professional standards with clients",
+        "They only train advanced athletes",
+        "They never update their methods"
       ],
       "answer": 1,
-      "explanation": "Qualification implies ongoing competence, ethics, and evidence-based practice.",
+      "explanation": "Qualification shows up in how you coach people, not paper alone.",
       "id": 5
     },
     {
@@ -106,15 +106,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "What is a primary purpose of continuing education for certified coaches?",
+      "question": "A coach stays effective over a career mainly by:",
       "options": [
-        "To replace the need for practical experience",
-        "To maintain certification and stay current with evidence and professional standards",
-        "To avoid ever retaking any assessment",
-        "To learn only marketing strategies"
+        "Avoiding all practical experience",
+        "Skipping client assessments forever",
+        "Learning only sales scripts",
+        "Updating knowledge and refining practical coaching skills for clients"
       ],
-      "answer": 1,
-      "explanation": "CE supports certification renewal and lifelong professional development.",
+      "answer": 3,
+      "explanation": "Professional growth serves client outcomes.",
       "id": 7
     },
     {
@@ -1395,15 +1395,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Certification maintenance typically requires:",
+      "question": "To keep coaching quality high over time, a coach should:",
       "options": [
-        "Never studying again",
-        "Continuing education credits/points and upholding standards",
-        "Only buying new shoes",
-        "Retiring the CPR certificate forever"
+        "Never study after the first year",
+        "Only buy new shoes",
+        "Drop emergency-response skills",
+        "Review outcomes, update methods, and uphold professional standards"
       ],
-      "answer": 1,
-      "explanation": "",
+      "answer": 3,
+      "explanation": "Quality coaching requires ongoing skill and standards—not just starting credentials.",
       "id": 6
     },
     {

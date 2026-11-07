@@ -72,15 +72,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Continuing education mainly supports:",
+      "question": "A coach keeps learning after starting practice mainly to:",
       "options": [
-        "Sales only",
-        "Avoiding practice",
-        "Skipping CE forever",
-        "Certification maintenance and currency"
+        "Serve clients with current, safer, more effective methods",
+        "Avoid seeing clients",
+        "Collect course certificates only",
+        "Skip assessments forever"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 0,
+      "explanation": "Ongoing learning supports better coaching decisions for clients.",
       "id": 6
     },
     {
@@ -111,15 +111,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Active exam prep favors:",
+      "question": "Before a client's first loaded squat session, a coach should prioritize:",
       "options": [
-        "Retrieval practice and application",
-        "Ignoring the platform",
-        "Skipping quizzes",
-        "One passive skim only"
+        "Ignoring medical history",
+        "Maximal testing with no warm-up",
+        "Teaching advanced variations first",
+        "Movement quality, screening, and appropriate regressions"
       ],
-      "answer": 0,
-      "explanation": "",
+      "answer": 3,
+      "explanation": "Safe coaching starts with readiness and quality, not ego loading.",
       "id": 9
     },
     {
@@ -202,15 +202,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Qualified vs paper-certified emphasizes:",
+      "question": "A professional coach differs from an unqualified instructor mainly by:",
       "options": [
-        "Ongoing competence and standards",
-        "More exercise names only",
-        "No CE",
-        "Athlete-only coaching"
+        "Using evidence, ethics, and accountability with clients",
+        "Avoiding all referrals",
+        "Speaking louder during cues",
+        "Posting more workouts online"
       ],
       "answer": 0,
-      "explanation": "",
+      "explanation": "Professional coaching is defined by standards of practice, not marketing volume.",
       "id": 16
     },
     {
@@ -254,28 +254,28 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Lifelong learning after certification is:",
+      "question": "Staying current with training research helps a coach:",
       "options": [
-        "A reason to quit practice",
-        "Optional vanity",
-        "Only for managers",
-        "Expected professional behavior"
+        "Replace practical skill",
+        "Avoid ever changing methods",
+        "Update programs when better evidence emerges",
+        "Ignore client preferences"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 2,
+      "explanation": "Client care improves when coaches update practice with good evidence.",
       "id": 20
     },
     {
       "domain": "Professional Practice",
-      "question": "Exam success improves with:",
+      "question": "When a client is unsure about an exercise, the coach should:",
       "options": [
-        "Skipping anatomy",
-        "Spaced practice and active recall",
-        "Cramming once passively",
-        "Avoiding hard topics"
+        "Shame the client",
+        "Skip explanation and load heavier",
+        "Explain the purpose, demonstrate, and confirm understanding",
+        "Refuse all questions"
       ],
-      "answer": 1,
-      "explanation": "",
+      "answer": 2,
+      "explanation": "Clear coaching communication builds competence and safety.",
       "id": 21
     },
     {
@@ -332,15 +332,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Platform quizzes help mainly by:",
+      "question": "A coach evaluating a new training trend should:",
       "options": [
-        "Eliminating practice",
-        "Supporting active learning",
-        "Replacing all coaching",
-        "Avoiding study materials"
+        "Adopt it immediately for all clients",
+        "Judge it against evidence, safety, and client goals",
+        "Ignore it forever without review",
+        "Use it only for social media"
       ],
       "answer": 1,
-      "explanation": "",
+      "explanation": "Critical appraisal protects clients from hype-driven programming.",
       "id": 26
     },
     {
@@ -514,15 +514,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Session 1 consolidation includes:",
+      "question": "Which topic is most essential for day-to-day coaching competence?",
       "options": [
-        "Only calf anatomy",
-        "Only VO2 labs",
-        "Only periodization",
-        "Benefits, scope/ethics, and exam prep awareness"
+        "How to memorize social media trends",
+        "How to edit workout selfies",
+        "How to ignore client goals",
+        "Scope of practice, ethics, and safe program decisions"
       ],
       "answer": 3,
-      "explanation": "",
+      "explanation": "Coaching competence is about client care standards, not course logistics.",
       "id": 40
     },
     {
@@ -543,7 +543,7 @@
       "question": "Using social posts of clients without consent is:",
       "options": [
         "Required marketing",
-        "A CE credit",
+        "A social media trend",
         "Always fine",
         "Unethical"
       ],
@@ -566,15 +566,15 @@
     },
     {
       "domain": "Professional Practice",
-      "question": "Continuing education credits are collected via:",
+      "question": "A coach improves long-term client results mainly by:",
       "options": [
-        "Skipping webinars",
-        "Never studying",
-        "Gym selfies",
-        "Approved learning for renewal"
+        "Collecting attendance certificates",
+        "Progressive, individualized training with good recovery habits",
+        "Changing methods randomly every session",
+        "Avoiding reassessment"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 1,
+      "explanation": "Results come from sound coaching process, not paperwork for its own sake.",
       "id": 44
     },
     {
