@@ -119,7 +119,7 @@ function showHome() {
       <div class="section-head">
         <div>
           <h2>Session exams</h2>
-          <p>50 questions each — drill one guidebook session at a time.</p>
+          <p>50 questions each — drill one study session at a time.</p>
         </div>
         <label class="search-wrap">
           <span class="sr-only">Filter sessions</span>
