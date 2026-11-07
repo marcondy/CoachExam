@@ -272,9 +272,9 @@ function renderExam() {
       </article>
 
       <div class="exam-nav sticky-nav">
-        <button class="btn btn-ghost" id="prev-q" ${state.index === 0 ? "disabled" : ""}>Prev</button>
-        <button class="btn btn-ghost" id="next-q" ${state.index === questions.length - 1 ? "disabled" : ""}>Next</button>
-        <button class="btn btn-primary" id="submit-exam">Submit</button>
+        <button class="btn btn-ghost" id="prev-q" ${state.index === 0 ? "disabled" : ""}>Previous question</button>
+        <button class="btn btn-ghost" id="next-q" ${state.index === questions.length - 1 ? "disabled" : ""}>Next question</button>
+        <button class="btn btn-primary" id="submit-exam">Submit exam</button>
       </div>
 
       <details class="palette-wrap" ${questions.length <= 50 ? "open" : ""}>
