@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate 40 session exams x 50 MCQs for InspireExam."""
+"""Generate 40 session exams x 50 MCQs for Practice Exam."""
 from __future__ import annotations
 
 import json
@@ -1177,8 +1177,8 @@ def main():
 
     index = {
         "meta": {
-            "program": "Inspire Leadership Academy — Personal Fitness Coach",
-            "source": "Guidebook Finale NOV 2025 (Learners version)",
+            "program": "Personal Fitness Coach — Practice Exams",
+            "source": "Course study materials",
             "sessionExamQuestions": 50,
             "fullExamQuestions": 100,
             "suggestedPassPercent": 70,

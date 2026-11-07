@@ -1,6 +1,6 @@
-# InspireExam
+# Practice Exam
 
-Practice theoretical **MCQ exams** for the Inspire Leadership Academy **Personal Fitness Coach** program, based on the Nov 2025 learners guidebook.
+Independent **MCQ practice** for personal fitness coach theory study.
 
 ## What’s included
 
@@ -9,7 +9,7 @@ Practice theoretical **MCQ exams** for the Inspire Leadership Academy **Personal
 - Domain scoring and incorrect-answer review
 
 ### Session exams (50 questions each)
-- **40 session exams** matching the guidebook sessions
+- **40 session exams** aligned to study sessions
 - Filterable session list on the home page
 - Lazy-loaded per session for faster mobile loads
 
@@ -17,7 +17,7 @@ Practice theoretical **MCQ exams** for the Inspire Leadership Academy **Personal
 - Responsive layout, large tap targets, sticky exam controls
 - Collapsible question map, safe-area padding
 
-> Study aid only — not an official Inspire certification exam.
+> Independent study aid only — not an official certification exam and not affiliated with any academy or provider.
 
 ## Full-exam domain distribution
 
@@ -54,7 +54,3 @@ Regenerate session banks (optional):
 ```bash
 python3 scripts/generate_session_exams.py
 ```
-
-## Source material
-
-`HKEYmZPASc6ANKTqBfvH_Inspire Leadership Academy - GUIDEBOOK FINALE - NOV 2025 - Learners version.pdf`

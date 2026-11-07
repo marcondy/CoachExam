@@ -1,7 +1,7 @@
 {
   "meta": {
-    "program": "Inspire Leadership Academy — Personal Fitness Coach",
-    "source": "Guidebook Finale NOV 2025 (Learners version)",
+    "program": "Personal Fitness Coach — Practice Exams",
+    "source": "Course study materials",
     "questionsPerExam": 100,
     "suggestedPassPercent": 70,
     "distribution": {
@@ -18,11 +18,11 @@
     },
     "guidelines": [
       "Each theoretical practice exam contains 100 multiple-choice questions.",
-      "Questions are distributed across the major domains covered in the PFC guidebook sessions.",
+      "Questions are distributed across the major domains covered in the study sessions.",
       "Choose one answer per question. You can navigate freely and change answers before submitting.",
       "Treat this like exam conditions: no phones, no notes, focused attempt.",
       "After submission you will see your score by domain and a review of incorrect answers.",
-      "This is a study aid based on guidebook topics — not an official Inspire certification exam."
+      "This is an independent study aid — not an official certification exam."
     ]
   },
   "exam1": [

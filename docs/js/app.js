@@ -67,10 +67,10 @@ function showHome() {
   app.innerHTML = `
     <section class="hero">
       <div class="hero-copy">
-        <h1>InspireExam<span>PFC practice exams</span></h1>
+        <h1>Practice Exam<span>Fitness coach MCQs</span></h1>
         <p class="hero-lead">
-          Full 100-question papers plus 50-question exams for every guidebook session.
-          Pick a path and study like test day.
+          Full 100-question papers plus 50-question exams for every study session.
+          Pick a path and train like test day.
         </p>
         <div class="cta-row">
           <a class="btn btn-primary" href="#full-exams">Full exams</a>
@@ -84,7 +84,7 @@ function showHome() {
           <li><span>Session exams</span><strong>${sessMeta.sessionCount} × 50</strong></li>
           <li><span>Practice pass mark</span><strong>${meta.suggestedPassPercent}%</strong></li>
         </ul>
-        <p class="panel-note">Questions follow PFC guidebook domains and session topics.</p>
+        <p class="panel-note">Questions follow common personal fitness coach domains and session topics.</p>
       </aside>
     </section>
 
