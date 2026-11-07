@@ -1,0 +1,659 @@
+{
+  "id": "session-23",
+  "sessionNumber": 23,
+  "title": "Exercise Techniques – Lunges",
+  "domain": "Exercise Techniques",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to static lunge coaching?",
+      "options": [
+        "Eyes closed max load day one for all",
+        "Avoid hip flexion entirely",
+        "Controlled step, balance, consistent knee path",
+        "Uncontrolled collapse as standard"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, static lunge coaching matters because the key idea is:",
+      "options": [
+        "Avoid hip flexion entirely",
+        "Uncontrolled collapse as standard",
+        "Controlled step, balance, consistent knee path",
+        "Eyes closed max load day one for all"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about static lunge coaching:",
+      "options": [
+        "Uncontrolled collapse as standard",
+        "Eyes closed max load day one for all",
+        "Controlled step, balance, consistent knee path",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to reverse lunge often?",
+      "options": [
+        "Easier on some knees / teaching option",
+        "Trains only wrists",
+        "Always harder than everything",
+        "Removes balance challenge"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, reverse lunge often matters because the key idea is:",
+      "options": [
+        "Easier on some knees / teaching option",
+        "Removes balance challenge",
+        "Trains only wrists",
+        "Always harder than everything"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about reverse lunge often:",
+      "options": [
+        "Easier on some knees / teaching option",
+        "It is unrelated to exercise techniques",
+        "Always harder than everything",
+        "Trains only wrists"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to walking lunge adds?",
+      "options": [
+        "Only arm isolation",
+        "Zero balance need",
+        "Only neck motion",
+        "Dynamic balance demand"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, walking lunge adds matters because the key idea is:",
+      "options": [
+        "Zero balance need",
+        "Only arm isolation",
+        "Dynamic balance demand",
+        "Only neck motion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about walking lunge adds:",
+      "options": [
+        "Dynamic balance demand",
+        "It is unrelated to exercise techniques",
+        "Only arm isolation",
+        "Zero balance need"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to trunk posture cue?",
+      "options": [
+        "Collapse into flexion every step",
+        "Maintain controlled upright strategy as appropriate",
+        "Hold breath forever",
+        "Lean randomly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, trunk posture cue matters because the key idea is:",
+      "options": [
+        "Hold breath forever",
+        "Maintain controlled upright strategy as appropriate",
+        "Lean randomly",
+        "Collapse into flexion every step"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about trunk posture cue:",
+      "options": [
+        "Collapse into flexion every step",
+        "Maintain controlled upright strategy as appropriate",
+        "Lean randomly",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to step length too long may?",
+      "options": [
+        "Remove all hip demand",
+        "Increase control difficulty / stress",
+        "Eliminate quads",
+        "Always be perfect for all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, step length too long may matters because the key idea is:",
+      "options": [
+        "Remove all hip demand",
+        "Increase control difficulty / stress",
+        "Eliminate quads",
+        "Always be perfect for all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about step length too long may:",
+      "options": [
+        "Always be perfect for all",
+        "Remove all hip demand",
+        "Increase control difficulty / stress",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to step length too short may?",
+      "options": [
+        "Never matter",
+        "Change joint emphasis and balance",
+        "Guarantee hypertrophy",
+        "Fix doping"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, step length too short may matters because the key idea is:",
+      "options": [
+        "Fix doping",
+        "Change joint emphasis and balance",
+        "Never matter",
+        "Guarantee hypertrophy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about step length too short may:",
+      "options": [
+        "Change joint emphasis and balance",
+        "It is unrelated to exercise techniques",
+        "Guarantee hypertrophy",
+        "Never matter"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to practical formative aim?",
+      "options": [
+        "Entertainment only",
+        "Ignore feedback",
+        "Skip safety",
+        "Coach-client demo quality under criteria"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, practical formative aim matters because the key idea is:",
+      "options": [
+        "Entertainment only",
+        "Skip safety",
+        "Ignore feedback",
+        "Coach-client demo quality under criteria"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about practical formative aim:",
+      "options": [
+        "Entertainment only",
+        "Coach-client demo quality under criteria",
+        "It is unrelated to exercise techniques",
+        "Ignore feedback"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to holding DBs in lunges?",
+      "options": [
+        "Removes all challenge",
+        "Is unethical",
+        "Trains only ears",
+        "Increases load and trunk demand"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, holding DBs in lunges matters because the key idea is:",
+      "options": [
+        "Is unethical",
+        "Trains only ears",
+        "Removes all challenge",
+        "Increases load and trunk demand"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about holding DBs in lunges:",
+      "options": [
+        "Increases load and trunk demand",
+        "Trains only ears",
+        "It is unrelated to exercise techniques",
+        "Removes all challenge"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to frontal-plane control watch-for?",
+      "options": [
+        "Only music",
+        "Knee cave / pelvic drop",
+        "Only shoe color",
+        "Perfect tracking always automatic"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, frontal-plane control watch-for matters because the key idea is:",
+      "options": [
+        "Only shoe color",
+        "Knee cave / pelvic drop",
+        "Perfect tracking always automatic",
+        "Only music"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about frontal-plane control watch-for:",
+      "options": [
+        "Perfect tracking always automatic",
+        "Knee cave / pelvic drop",
+        "Only shoe color",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to session 23 takeaway?",
+      "options": [
+        "Ignore balance",
+        "Lunges build single-leg capacity with coaching detail",
+        "Lunges are useless",
+        "Only bilateral forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, session 23 takeaway matters because the key idea is:",
+      "options": [
+        "Lunges are useless",
+        "Ignore balance",
+        "Only bilateral forever",
+        "Lunges build single-leg capacity with coaching detail"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about session 23 takeaway:",
+      "options": [
+        "Lunges are useless",
+        "Lunges build single-leg capacity with coaching detail",
+        "It is unrelated to exercise techniques",
+        "Only bilateral forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Improve safe, effective exercise decisions",
+        "Avoid assessments",
+        "Ignore client anatomy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Individualize technique",
+        "Apply one cue to every body identically",
+        "Progress gradually"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: evidence-informed coaches should:",
+      "options": [
+        "Avoid measuring progress",
+        "Ignore feedback",
+        "Copy trends blindly",
+        "Combine principles with client context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: before loading advanced variations, first ensure:",
+      "options": [
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics",
+        "Pain racing",
+        "Max instability"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Client improves",
+        "Warm-up feels good",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: progress an exercise when:",
+      "options": [
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Pain is sharp",
+        "Screening failed"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: documentation helps:",
+      "options": [
+        "Create gossip",
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: client education should be:",
+      "options": [
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Unintelligible jargon only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Sweat appears",
+        "Red-flag symptoms appear",
+        "Shoes are new"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 23: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Skipping diagrams",
+        "Avoiding practice",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 41: reverse lunge often — correct concept?",
+      "options": [
+        "Easier on some knees / teaching option",
+        "Trains only wrists",
+        "Always harder than everything",
+        "Removes balance challenge"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 42: walking lunge adds — correct concept?",
+      "options": [
+        "Zero balance need",
+        "Only arm isolation",
+        "Only neck motion",
+        "Dynamic balance demand"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 43: trunk posture cue — correct concept?",
+      "options": [
+        "Lean randomly",
+        "Hold breath forever",
+        "Collapse into flexion every step",
+        "Maintain controlled upright strategy as appropriate"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 44: step length too long may — correct concept?",
+      "options": [
+        "Always be perfect for all",
+        "Eliminate quads",
+        "Remove all hip demand",
+        "Increase control difficulty / stress"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 45: step length too short may — correct concept?",
+      "options": [
+        "Change joint emphasis and balance",
+        "Never matter",
+        "Guarantee hypertrophy",
+        "Fix doping"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 46: practical formative aim — correct concept?",
+      "options": [
+        "Skip safety",
+        "Entertainment only",
+        "Ignore feedback",
+        "Coach-client demo quality under criteria"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 47: holding DBs in lunges — correct concept?",
+      "options": [
+        "Trains only ears",
+        "Removes all challenge",
+        "Increases load and trunk demand",
+        "Is unethical"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 48: frontal-plane control watch-for — correct concept?",
+      "options": [
+        "Only music",
+        "Knee cave / pelvic drop",
+        "Only shoe color",
+        "Perfect tracking always automatic"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 49: session 23 takeaway — correct concept?",
+      "options": [
+        "Ignore balance",
+        "Lunges are useless",
+        "Lunges build single-leg capacity with coaching detail",
+        "Only bilateral forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 50: static lunge coaching — correct concept?",
+      "options": [
+        "Avoid hip flexion entirely",
+        "Eyes closed max load day one for all",
+        "Controlled step, balance, consistent knee path",
+        "Uncontrolled collapse as standard"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

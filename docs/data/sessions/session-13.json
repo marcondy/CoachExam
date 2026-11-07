@@ -1,0 +1,659 @@
+{
+  "id": "session-13",
+  "sessionNumber": 13,
+  "title": "Nutrition – Macronutrients",
+  "domain": "Nutrition",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to carb AMDR?",
+      "options": [
+        "5–10%",
+        "0% if training",
+        "80–90% mandatory",
+        "About 45–65% of calories for many adults"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, carb AMDR matters because the key idea is:",
+      "options": [
+        "80–90% mandatory",
+        "0% if training",
+        "About 45–65% of calories for many adults",
+        "5–10%"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about carb AMDR:",
+      "options": [
+        "5–10%",
+        "80–90% mandatory",
+        "About 45–65% of calories for many adults",
+        "It is unrelated to nutrition"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to protein kcal/g?",
+      "options": [
+        "2",
+        "9",
+        "7",
+        "4 kcal/g"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, protein kcal/g matters because the key idea is:",
+      "options": [
+        "4 kcal/g",
+        "2",
+        "7",
+        "9"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about protein kcal/g:",
+      "options": [
+        "4 kcal/g",
+        "9",
+        "7",
+        "It is unrelated to nutrition"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to carb kcal/g?",
+      "options": [
+        "7",
+        "0",
+        "4 kcal/g",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, carb kcal/g matters because the key idea is:",
+      "options": [
+        "9",
+        "0",
+        "7",
+        "4 kcal/g"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about carb kcal/g:",
+      "options": [
+        "7",
+        "9",
+        "It is unrelated to nutrition",
+        "4 kcal/g"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to fat kcal/g?",
+      "options": [
+        "4",
+        "7",
+        "0",
+        "9 kcal/g"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, fat kcal/g matters because the key idea is:",
+      "options": [
+        "7",
+        "0",
+        "4",
+        "9 kcal/g"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about fat kcal/g:",
+      "options": [
+        "7",
+        "9 kcal/g",
+        "It is unrelated to nutrition",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to hypertrophy protein range often cited?",
+      "options": [
+        "Protein unnecessary",
+        "0.2–0.4 g/kg",
+        "5–6 g/kg for everyone",
+        "~1.6–2.2 g/kg/day"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, hypertrophy protein range often cited matters because the key idea is:",
+      "options": [
+        "~1.6–2.2 g/kg/day",
+        "0.2–0.4 g/kg",
+        "Protein unnecessary",
+        "5–6 g/kg for everyone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about hypertrophy protein range often cited:",
+      "options": [
+        "0.2–0.4 g/kg",
+        "~1.6–2.2 g/kg/day",
+        "It is unrelated to nutrition",
+        "5–6 g/kg for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to anabolic window myth?",
+      "options": [
+        "Window is broader; daily intake/distribution matter more",
+        "Exactly 1 hour only always",
+        "Skip all protein",
+        "Protein only at night forbidden"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, anabolic window myth matters because the key idea is:",
+      "options": [
+        "Window is broader; daily intake/distribution matter more",
+        "Protein only at night forbidden",
+        "Skip all protein",
+        "Exactly 1 hour only always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about anabolic window myth:",
+      "options": [
+        "Skip all protein",
+        "It is unrelated to nutrition",
+        "Exactly 1 hour only always",
+        "Window is broader; daily intake/distribution matter more"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to during long exercise carbs?",
+      "options": [
+        "Only protein gels",
+        "About 30–60 g/hour often useful (>60–90 min)",
+        "0 g always",
+        "500 g/hour for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, during long exercise carbs matters because the key idea is:",
+      "options": [
+        "Only protein gels",
+        "About 30–60 g/hour often useful (>60–90 min)",
+        "0 g always",
+        "500 g/hour for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about during long exercise carbs:",
+      "options": [
+        "About 30–60 g/hour often useful (>60–90 min)",
+        "It is unrelated to nutrition",
+        "500 g/hour for everyone",
+        "0 g always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to glycogen importance?",
+      "options": [
+        "Only in hair",
+        "Limited store; depletion hurts high-intensity performance",
+        "Irrelevant to training",
+        "Unlimited forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, glycogen importance matters because the key idea is:",
+      "options": [
+        "Unlimited forever",
+        "Limited store; depletion hurts high-intensity performance",
+        "Only in hair",
+        "Irrelevant to training"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about glycogen importance:",
+      "options": [
+        "Unlimited forever",
+        "Irrelevant to training",
+        "It is unrelated to nutrition",
+        "Limited store; depletion hurts high-intensity performance"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to leucine role?",
+      "options": [
+        "A fat only",
+        "A carb only",
+        "Key amino acid trigger related to MPS",
+        "A vitamin"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, leucine role matters because the key idea is:",
+      "options": [
+        "A vitamin",
+        "Key amino acid trigger related to MPS",
+        "A carb only",
+        "A fat only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about leucine role:",
+      "options": [
+        "Key amino acid trigger related to MPS",
+        "A carb only",
+        "It is unrelated to nutrition",
+        "A vitamin"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to hydration basic?",
+      "options": [
+        "Ignore thirst always",
+        "Never drink around training",
+        "Monitor urine color/thirst and training losses",
+        "Athletes need less than sedentary"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, hydration basic matters because the key idea is:",
+      "options": [
+        "Athletes need less than sedentary",
+        "Ignore thirst always",
+        "Never drink around training",
+        "Monitor urine color/thirst and training losses"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about hydration basic:",
+      "options": [
+        "Ignore thirst always",
+        "Monitor urine color/thirst and training losses",
+        "It is unrelated to nutrition",
+        "Never drink around training"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: primary coaching application of this topic is to:",
+      "options": [
+        "Avoid assessments",
+        "Replace medical care",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Screen for red flags",
+        "Individualize technique",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly",
+        "Combine principles with client context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Pain racing"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Warm-up feels good",
+        "Client improves",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: progress an exercise when:",
+      "options": [
+        "Quality is stable and ready for more challenge",
+        "Screening failed",
+        "Client is dizzy",
+        "Pain is sharp"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Avoid planning"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: client education should be:",
+      "options": [
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Shoes are new",
+        "Red-flag symptoms appear",
+        "Sweat appears"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 13: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Active recall + practical application",
+        "Skipping diagrams",
+        "Avoiding practice"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 41: protein kcal/g — correct concept?",
+      "options": [
+        "2",
+        "4 kcal/g",
+        "9",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 42: carb kcal/g — correct concept?",
+      "options": [
+        "0",
+        "4 kcal/g",
+        "9",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 43: fat kcal/g — correct concept?",
+      "options": [
+        "0",
+        "9 kcal/g",
+        "7",
+        "4"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 44: hypertrophy protein range often cited — correct concept?",
+      "options": [
+        "~1.6–2.2 g/kg/day",
+        "0.2–0.4 g/kg",
+        "Protein unnecessary",
+        "5–6 g/kg for everyone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 45: anabolic window myth — correct concept?",
+      "options": [
+        "Protein only at night forbidden",
+        "Skip all protein",
+        "Exactly 1 hour only always",
+        "Window is broader; daily intake/distribution matter more"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 46: during long exercise carbs — correct concept?",
+      "options": [
+        "500 g/hour for everyone",
+        "About 30–60 g/hour often useful (>60–90 min)",
+        "0 g always",
+        "Only protein gels"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 47: glycogen importance — correct concept?",
+      "options": [
+        "Limited store; depletion hurts high-intensity performance",
+        "Only in hair",
+        "Unlimited forever",
+        "Irrelevant to training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 48: leucine role — correct concept?",
+      "options": [
+        "Key amino acid trigger related to MPS",
+        "A fat only",
+        "A carb only",
+        "A vitamin"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 49: hydration basic — correct concept?",
+      "options": [
+        "Athletes need less than sedentary",
+        "Monitor urine color/thirst and training losses",
+        "Never drink around training",
+        "Ignore thirst always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 50: carb AMDR — correct concept?",
+      "options": [
+        "5–10%",
+        "About 45–65% of calories for many adults",
+        "80–90% mandatory",
+        "0% if training"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

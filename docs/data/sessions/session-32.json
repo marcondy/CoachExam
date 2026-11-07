@@ -1,0 +1,659 @@
+{
+  "id": "session-32",
+  "sessionNumber": 32,
+  "title": "Fitness Assessment – Body Comp, Strength & Endurance",
+  "domain": "Fitness Assessment",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to body composition estimates?",
+      "options": [
+        "Only height",
+        "Fat vs lean components",
+        "IQ",
+        "Shoe size"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, body composition estimates matters because the key idea is:",
+      "options": [
+        "Fat vs lean components",
+        "IQ",
+        "Only height",
+        "Shoe size"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about body composition estimates:",
+      "options": [
+        "Only height",
+        "It is unrelated to fitness assessment",
+        "Fat vs lean components",
+        "IQ"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to essential fat context?",
+      "options": [
+        "0% for all athletes",
+        "Very low levels are risky; essential ranges differ by sex as taught",
+        "30% men / 40% women essential",
+        "50% for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, essential fat context matters because the key idea is:",
+      "options": [
+        "Very low levels are risky; essential ranges differ by sex as taught",
+        "30% men / 40% women essential",
+        "0% for all athletes",
+        "50% for everyone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about essential fat context:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Very low levels are risky; essential ranges differ by sex as taught",
+        "30% men / 40% women essential",
+        "0% for all athletes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to skinfold equations example?",
+      "options": [
+        "1RM from height alone",
+        "Flexibility from age only",
+        "Jackson–Pollock style estimates",
+        "VO2 from push-ups only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, skinfold equations example matters because the key idea is:",
+      "options": [
+        "Flexibility from age only",
+        "VO2 from push-ups only",
+        "Jackson–Pollock style estimates",
+        "1RM from height alone"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about skinfold equations example:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "1RM from height alone",
+        "VO2 from push-ups only",
+        "Jackson–Pollock style estimates"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to strength testing often uses?",
+      "options": [
+        "1RM or estimated 1RM with progressive warm-ups",
+        "Only skinfold",
+        "Only sit-and-reach",
+        "Only resting HR"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, strength testing often uses matters because the key idea is:",
+      "options": [
+        "Only sit-and-reach",
+        "Only resting HR",
+        "1RM or estimated 1RM with progressive warm-ups",
+        "Only skinfold"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about strength testing often uses:",
+      "options": [
+        "Only sit-and-reach",
+        "Only resting HR",
+        "It is unrelated to fitness assessment",
+        "1RM or estimated 1RM with progressive warm-ups"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to warm-up before 1RM?",
+      "options": [
+        "Start at 100% cold",
+        "Sprint first always",
+        "Gradual load increases toward expected max",
+        "Only stretch 1 hour"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, warm-up before 1RM matters because the key idea is:",
+      "options": [
+        "Gradual load increases toward expected max",
+        "Start at 100% cold",
+        "Sprint first always",
+        "Only stretch 1 hour"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about warm-up before 1RM:",
+      "options": [
+        "Start at 100% cold",
+        "Gradual load increases toward expected max",
+        "It is unrelated to fitness assessment",
+        "Only stretch 1 hour"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to muscular endurance tests?",
+      "options": [
+        "Only DEXA",
+        "One max lift only",
+        "Only resting BP",
+        "Repeated/sustained efforts (e.g., push-up variations)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, muscular endurance tests matters because the key idea is:",
+      "options": [
+        "One max lift only",
+        "Only DEXA",
+        "Only resting BP",
+        "Repeated/sustained efforts (e.g., push-up variations)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about muscular endurance tests:",
+      "options": [
+        "One max lift only",
+        "Repeated/sustained efforts (e.g., push-up variations)",
+        "It is unrelated to fitness assessment",
+        "Only DEXA"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to interpret body-comp carefully?",
+      "options": [
+        "Ignore protocol",
+        "Error, context, and trends matter",
+        "Ignore hydration",
+        "Single number defines worth"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, interpret body-comp carefully matters because the key idea is:",
+      "options": [
+        "Error, context, and trends matter",
+        "Ignore protocol",
+        "Ignore hydration",
+        "Single number defines worth"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about interpret body-comp carefully:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Single number defines worth",
+        "Error, context, and trends matter",
+        "Ignore hydration"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to stop testing if?",
+      "options": [
+        "Pain/red flags appear",
+        "Client sweats",
+        "Music changes",
+        "Shoes are new"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, stop testing if matters because the key idea is:",
+      "options": [
+        "Music changes",
+        "Client sweats",
+        "Pain/red flags appear",
+        "Shoes are new"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about stop testing if:",
+      "options": [
+        "Client sweats",
+        "It is unrelated to fitness assessment",
+        "Pain/red flags appear",
+        "Music changes"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to use results to?",
+      "options": [
+        "Ignore programming",
+        "Individualize program variables",
+        "Shame clients",
+        "Post without consent"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, use results to matters because the key idea is:",
+      "options": [
+        "Individualize program variables",
+        "Ignore programming",
+        "Shame clients",
+        "Post without consent"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about use results to:",
+      "options": [
+        "Shame clients",
+        "It is unrelated to fitness assessment",
+        "Individualize program variables",
+        "Ignore programming"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to session 32 takeaway?",
+      "options": [
+        "Max everything cold",
+        "Skip warm-ups",
+        "Strength/endurance/body-comp tests guide training decisions",
+        "Collect numbers only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, session 32 takeaway matters because the key idea is:",
+      "options": [
+        "Max everything cold",
+        "Strength/endurance/body-comp tests guide training decisions",
+        "Skip warm-ups",
+        "Collect numbers only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about session 32 takeaway:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Collect numbers only",
+        "Strength/endurance/body-comp tests guide training decisions",
+        "Skip warm-ups"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy",
+        "Replace medical care",
+        "Avoid assessments"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: a common error is to:",
+      "options": [
+        "Apply one cue to every body identically",
+        "Progress gradually",
+        "Individualize technique",
+        "Screen for red flags"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Ignore feedback",
+        "Copy trends blindly",
+        "Avoid measuring progress"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Max instability",
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Client improves",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Screening failed",
+        "Client is dizzy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Hide errors",
+        "Create gossip",
+        "Track decisions and outcomes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: client education should be:",
+      "options": [
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: safety stop is required when:",
+      "options": [
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Sweat appears",
+        "Music changes"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 32: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "One passive skim",
+        "Skipping diagrams",
+        "Avoiding practice"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 41: essential fat context — correct concept?",
+      "options": [
+        "Very low levels are risky; essential ranges differ by sex as taught",
+        "0% for all athletes",
+        "30% men / 40% women essential",
+        "50% for everyone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 42: skinfold equations example — correct concept?",
+      "options": [
+        "1RM from height alone",
+        "VO2 from push-ups only",
+        "Jackson–Pollock style estimates",
+        "Flexibility from age only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 43: strength testing often uses — correct concept?",
+      "options": [
+        "Only sit-and-reach",
+        "1RM or estimated 1RM with progressive warm-ups",
+        "Only resting HR",
+        "Only skinfold"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 44: warm-up before 1RM — correct concept?",
+      "options": [
+        "Start at 100% cold",
+        "Gradual load increases toward expected max",
+        "Only stretch 1 hour",
+        "Sprint first always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 45: muscular endurance tests — correct concept?",
+      "options": [
+        "Repeated/sustained efforts (e.g., push-up variations)",
+        "One max lift only",
+        "Only DEXA",
+        "Only resting BP"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 46: interpret body-comp carefully — correct concept?",
+      "options": [
+        "Ignore protocol",
+        "Ignore hydration",
+        "Single number defines worth",
+        "Error, context, and trends matter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 47: stop testing if — correct concept?",
+      "options": [
+        "Client sweats",
+        "Pain/red flags appear",
+        "Shoes are new",
+        "Music changes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 48: use results to — correct concept?",
+      "options": [
+        "Ignore programming",
+        "Shame clients",
+        "Individualize program variables",
+        "Post without consent"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 49: session 32 takeaway — correct concept?",
+      "options": [
+        "Collect numbers only",
+        "Skip warm-ups",
+        "Max everything cold",
+        "Strength/endurance/body-comp tests guide training decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 50: body composition estimates — correct concept?",
+      "options": [
+        "IQ",
+        "Fat vs lean components",
+        "Only height",
+        "Shoe size"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

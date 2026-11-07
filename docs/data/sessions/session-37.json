@@ -1,0 +1,659 @@
+{
+  "id": "session-37",
+  "sessionNumber": 37,
+  "title": "Program Design – Frequency & Cases",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to frequency means?",
+      "options": [
+        "How often a stimulus occurs per week",
+        "Only tempo",
+        "Only footwear",
+        "Only caffeine timing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, frequency means matters because the key idea is:",
+      "options": [
+        "How often a stimulus occurs per week",
+        "Only tempo",
+        "Only caffeine timing",
+        "Only footwear"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about frequency means:",
+      "options": [
+        "Only tempo",
+        "It is unrelated to program design",
+        "How often a stimulus occurs per week",
+        "Only footwear"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to higher frequency can help?",
+      "options": [
+        "Skill practice and volume distribution",
+        "Replace sleep",
+        "Eliminate need for progression",
+        "Always guarantee better gains regardless of recovery"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, higher frequency can help matters because the key idea is:",
+      "options": [
+        "Eliminate need for progression",
+        "Replace sleep",
+        "Always guarantee better gains regardless of recovery",
+        "Skill practice and volume distribution"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about higher frequency can help:",
+      "options": [
+        "Replace sleep",
+        "Skill practice and volume distribution",
+        "Always guarantee better gains regardless of recovery",
+        "It is unrelated to program design"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to lower frequency may suit?",
+      "options": [
+        "Recovery limits / life constraints",
+        "Never beginners",
+        "Only laziness",
+        "Never advanced"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, lower frequency may suit matters because the key idea is:",
+      "options": [
+        "Never advanced",
+        "Never beginners",
+        "Recovery limits / life constraints",
+        "Only laziness"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about lower frequency may suit:",
+      "options": [
+        "It is unrelated to program design",
+        "Never beginners",
+        "Recovery limits / life constraints",
+        "Only laziness"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to split design should?",
+      "options": [
+        "Ignore equipment",
+        "Ignore schedule",
+        "Fit recovery and goals",
+        "Copy random influencer split blindly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, split design should matters because the key idea is:",
+      "options": [
+        "Copy random influencer split blindly",
+        "Fit recovery and goals",
+        "Ignore schedule",
+        "Ignore equipment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about split design should:",
+      "options": [
+        "Copy random influencer split blindly",
+        "Ignore equipment",
+        "Fit recovery and goals",
+        "It is unrelated to program design"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to case study programming?",
+      "options": [
+        "Use one template forever",
+        "Apply variables to a specific client story",
+        "Ignore the story",
+        "Max test only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, case study programming matters because the key idea is:",
+      "options": [
+        "Ignore the story",
+        "Max test only",
+        "Apply variables to a specific client story",
+        "Use one template forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about case study programming:",
+      "options": [
+        "Ignore the story",
+        "Use one template forever",
+        "It is unrelated to program design",
+        "Apply variables to a specific client story"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to weekly muscle dose?",
+      "options": [
+        "One annual set",
+        "Distribute hard sets across sessions",
+        "No tracking",
+        "Infinite sets daily"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, weekly muscle dose matters because the key idea is:",
+      "options": [
+        "No tracking",
+        "Infinite sets daily",
+        "Distribute hard sets across sessions",
+        "One annual set"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about weekly muscle dose:",
+      "options": [
+        "One annual set",
+        "Distribute hard sets across sessions",
+        "Infinite sets daily",
+        "It is unrelated to program design"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to missed sessions — adjust by?",
+      "options": [
+        "Quit",
+        "Double next day always",
+        "Max failure revenge",
+        "Re-plan rather than guilt-spiral"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, missed sessions — adjust by matters because the key idea is:",
+      "options": [
+        "Double next day always",
+        "Re-plan rather than guilt-spiral",
+        "Quit",
+        "Max failure revenge"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about missed sessions — adjust by:",
+      "options": [
+        "Re-plan rather than guilt-spiral",
+        "Quit",
+        "Double next day always",
+        "It is unrelated to program design"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to frequency interacts with?",
+      "options": [
+        "Only shoe brand",
+        "Only playlist",
+        "Only mirror",
+        "Volume, intensity, and recovery"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, frequency interacts with matters because the key idea is:",
+      "options": [
+        "Only playlist",
+        "Only mirror",
+        "Only shoe brand",
+        "Volume, intensity, and recovery"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about frequency interacts with:",
+      "options": [
+        "It is unrelated to program design",
+        "Only shoe brand",
+        "Only playlist",
+        "Volume, intensity, and recovery"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to novices often do well with?",
+      "options": [
+        "One lift per month",
+        "Advanced bro-split day one mandatory",
+        "Full-body or simple splits practiced often",
+        "No practice"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, novices often do well with matters because the key idea is:",
+      "options": [
+        "Full-body or simple splits practiced often",
+        "One lift per month",
+        "Advanced bro-split day one mandatory",
+        "No practice"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about novices often do well with:",
+      "options": [
+        "Advanced bro-split day one mandatory",
+        "Full-body or simple splits practiced often",
+        "It is unrelated to program design",
+        "One lift per month"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 37 takeaway?",
+      "options": [
+        "Train randomly",
+        "Copy schedules blindly",
+        "Ignore recovery",
+        "Frequency is a tool to distribute effective dose"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 37 takeaway matters because the key idea is:",
+      "options": [
+        "Frequency is a tool to distribute effective dose",
+        "Copy schedules blindly",
+        "Ignore recovery",
+        "Train randomly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 37 takeaway:",
+      "options": [
+        "Train randomly",
+        "It is unrelated to program design",
+        "Frequency is a tool to distribute effective dose",
+        "Ignore recovery"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Ignore client anatomy",
+        "Improve safe, effective exercise decisions",
+        "Avoid assessments"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: a common error is to:",
+      "options": [
+        "Apply one cue to every body identically",
+        "Individualize technique",
+        "Progress gradually",
+        "Screen for red flags"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly",
+        "Combine principles with client context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: before loading advanced variations, first ensure:",
+      "options": [
+        "Sleep deprivation",
+        "Pain racing",
+        "Max instability",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: regress an exercise when:",
+      "options": [
+        "Form breaks or risk rises",
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Client improves"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Screening failed",
+        "Client is dizzy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Avoid planning",
+        "Create gossip",
+        "Track decisions and outcomes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: client education should be:",
+      "options": [
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Unintelligible jargon only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: safety stop is required when:",
+      "options": [
+        "Sweat appears",
+        "Red-flag symptoms appear",
+        "Music changes",
+        "Shoes are new"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 37: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Avoiding practice",
+        "Skipping diagrams",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: higher frequency can help — correct concept?",
+      "options": [
+        "Skill practice and volume distribution",
+        "Eliminate need for progression",
+        "Always guarantee better gains regardless of recovery",
+        "Replace sleep"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: lower frequency may suit — correct concept?",
+      "options": [
+        "Recovery limits / life constraints",
+        "Never advanced",
+        "Only laziness",
+        "Never beginners"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: split design should — correct concept?",
+      "options": [
+        "Ignore schedule",
+        "Ignore equipment",
+        "Fit recovery and goals",
+        "Copy random influencer split blindly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: case study programming — correct concept?",
+      "options": [
+        "Use one template forever",
+        "Ignore the story",
+        "Apply variables to a specific client story",
+        "Max test only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: weekly muscle dose — correct concept?",
+      "options": [
+        "Infinite sets daily",
+        "No tracking",
+        "Distribute hard sets across sessions",
+        "One annual set"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: missed sessions — adjust by — correct concept?",
+      "options": [
+        "Re-plan rather than guilt-spiral",
+        "Quit",
+        "Double next day always",
+        "Max failure revenge"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: frequency interacts with — correct concept?",
+      "options": [
+        "Only shoe brand",
+        "Only playlist",
+        "Volume, intensity, and recovery",
+        "Only mirror"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: novices often do well with — correct concept?",
+      "options": [
+        "One lift per month",
+        "No practice",
+        "Advanced bro-split day one mandatory",
+        "Full-body or simple splits practiced often"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 37 takeaway — correct concept?",
+      "options": [
+        "Copy schedules blindly",
+        "Train randomly",
+        "Ignore recovery",
+        "Frequency is a tool to distribute effective dose"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: frequency means — correct concept?",
+      "options": [
+        "Only footwear",
+        "Only caffeine timing",
+        "How often a stimulus occurs per week",
+        "Only tempo"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

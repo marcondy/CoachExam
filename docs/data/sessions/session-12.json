@@ -1,0 +1,659 @@
+{
+  "id": "session-12",
+  "sessionNumber": 12,
+  "title": "Cardiorespiratory Response & Nutrition Intro",
+  "domain": "Exercise Physiology",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to acute cardio response?",
+      "options": [
+        "HR, SV, and cardiac output typically rise",
+        "No metabolic demand change",
+        "All fall during hard aerobic work",
+        "Breathing unchanged"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, acute cardio response matters because the key idea is:",
+      "options": [
+        "All fall during hard aerobic work",
+        "No metabolic demand change",
+        "Breathing unchanged",
+        "HR, SV, and cardiac output typically rise"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about acute cardio response:",
+      "options": [
+        "HR, SV, and cardiac output typically rise",
+        "Breathing unchanged",
+        "It is unrelated to exercise physiology",
+        "All fall during hard aerobic work"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to chronic aerobic adaptation?",
+      "options": [
+        "Loss of mitochondria",
+        "Higher resting HR always as the goal",
+        "Improved endurance capacity and efficiency",
+        "Worse fat oxidation always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, chronic aerobic adaptation matters because the key idea is:",
+      "options": [
+        "Improved endurance capacity and efficiency",
+        "Higher resting HR always as the goal",
+        "Worse fat oxidation always",
+        "Loss of mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about chronic aerobic adaptation:",
+      "options": [
+        "Worse fat oxidation always",
+        "Improved endurance capacity and efficiency",
+        "Loss of mitochondria",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to ventilatory threshold?",
+      "options": [
+        "1RM squat only",
+        "Max bone density point",
+        "Resting metabolic rate exclusively",
+        "Ventilation rises disproportionately with intensity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, ventilatory threshold matters because the key idea is:",
+      "options": [
+        "Max bone density point",
+        "1RM squat only",
+        "Ventilation rises disproportionately with intensity",
+        "Resting metabolic rate exclusively"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about ventilatory threshold:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "1RM squat only",
+        "Max bone density point",
+        "Ventilation rises disproportionately with intensity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to fuel at higher intensities?",
+      "options": [
+        "Greater carbohydrate reliance",
+        "Only protein always",
+        "Only fat at 100% effort",
+        "No fuel used"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, fuel at higher intensities matters because the key idea is:",
+      "options": [
+        "Only fat at 100% effort",
+        "No fuel used",
+        "Greater carbohydrate reliance",
+        "Only protein always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about fuel at higher intensities:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Greater carbohydrate reliance",
+        "Only protein always",
+        "Only fat at 100% effort"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to fuel at lower intensities?",
+      "options": [
+        "Only carbs always",
+        "Only vitamins",
+        "Greater relative fat contribution possible",
+        "Only creatine"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, fuel at lower intensities matters because the key idea is:",
+      "options": [
+        "Only vitamins",
+        "Only creatine",
+        "Greater relative fat contribution possible",
+        "Only carbs always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about fuel at lower intensities:",
+      "options": [
+        "Greater relative fat contribution possible",
+        "Only creatine",
+        "Only carbs always",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to cardio programming start?",
+      "options": [
+        "Ignore breathlessness red flags",
+        "Build sustainable duration/intensity progressively",
+        "No warm-up",
+        "Max intervals day one for all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, cardio programming start matters because the key idea is:",
+      "options": [
+        "Build sustainable duration/intensity progressively",
+        "Max intervals day one for all",
+        "Ignore breathlessness red flags",
+        "No warm-up"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about cardio programming start:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Max intervals day one for all",
+        "No warm-up",
+        "Build sustainable duration/intensity progressively"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to general nutrition link?",
+      "options": [
+        "Fueling supports training quality and recovery",
+        "Water optional",
+        "Only supplements matter",
+        "Food irrelevant to cardio"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, general nutrition link matters because the key idea is:",
+      "options": [
+        "Water optional",
+        "Fueling supports training quality and recovery",
+        "Food irrelevant to cardio",
+        "Only supplements matter"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about general nutrition link:",
+      "options": [
+        "Food irrelevant to cardio",
+        "Fueling supports training quality and recovery",
+        "It is unrelated to exercise physiology",
+        "Only supplements matter"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to steady-state vs intervals?",
+      "options": [
+        "One is unethical",
+        "Different stress/adaptation profiles",
+        "Neither uses energy",
+        "Identical always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, steady-state vs intervals matters because the key idea is:",
+      "options": [
+        "Different stress/adaptation profiles",
+        "One is unethical",
+        "Identical always",
+        "Neither uses energy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about steady-state vs intervals:",
+      "options": [
+        "One is unethical",
+        "Identical always",
+        "It is unrelated to exercise physiology",
+        "Different stress/adaptation profiles"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to monitoring intensity via?",
+      "options": [
+        "HR, RPE, talk test, pace",
+        "Only zodiac",
+        "Only shoe brand",
+        "Only mirror"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, monitoring intensity via matters because the key idea is:",
+      "options": [
+        "Only mirror",
+        "Only shoe brand",
+        "Only zodiac",
+        "HR, RPE, talk test, pace"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about monitoring intensity via:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Only zodiac",
+        "HR, RPE, talk test, pace",
+        "Only shoe brand"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to session takeaway?",
+      "options": [
+        "Ignore goals",
+        "Copy influencers blindly",
+        "Avoid progression",
+        "Match cardio dose to goal and recovery"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, session takeaway matters because the key idea is:",
+      "options": [
+        "Match cardio dose to goal and recovery",
+        "Ignore goals",
+        "Avoid progression",
+        "Copy influencers blindly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about session takeaway:",
+      "options": [
+        "Copy influencers blindly",
+        "Match cardio dose to goal and recovery",
+        "It is unrelated to exercise physiology",
+        "Ignore goals"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Avoid assessments",
+        "Ignore client anatomy",
+        "Replace medical care"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: a common error is to:",
+      "options": [
+        "Individualize technique",
+        "Progress gradually",
+        "Screen for red flags",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Combine principles with client context",
+        "Copy trends blindly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Pain racing"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "Client improves",
+        "Form breaks or risk rises",
+        "RPE is appropriate"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Client is dizzy",
+        "Quality is stable and ready for more challenge",
+        "Screening failed"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Hide errors",
+        "Create gossip",
+        "Track decisions and outcomes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: client education should be:",
+      "options": [
+        "Unintelligible jargon only",
+        "Fear-based only",
+        "Clear, realistic, and actionable",
+        "Overpromising"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Shoes are new",
+        "Sweat appears",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 12: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "Avoiding practice",
+        "Skipping diagrams",
+        "One passive skim"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 41: chronic aerobic adaptation — correct concept?",
+      "options": [
+        "Improved endurance capacity and efficiency",
+        "Worse fat oxidation always",
+        "Higher resting HR always as the goal",
+        "Loss of mitochondria"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 42: ventilatory threshold — correct concept?",
+      "options": [
+        "Max bone density point",
+        "Resting metabolic rate exclusively",
+        "1RM squat only",
+        "Ventilation rises disproportionately with intensity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 43: fuel at higher intensities — correct concept?",
+      "options": [
+        "Greater carbohydrate reliance",
+        "Only protein always",
+        "Only fat at 100% effort",
+        "No fuel used"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 44: fuel at lower intensities — correct concept?",
+      "options": [
+        "Greater relative fat contribution possible",
+        "Only vitamins",
+        "Only creatine",
+        "Only carbs always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 45: cardio programming start — correct concept?",
+      "options": [
+        "Build sustainable duration/intensity progressively",
+        "No warm-up",
+        "Max intervals day one for all",
+        "Ignore breathlessness red flags"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 46: general nutrition link — correct concept?",
+      "options": [
+        "Fueling supports training quality and recovery",
+        "Only supplements matter",
+        "Water optional",
+        "Food irrelevant to cardio"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 47: steady-state vs intervals — correct concept?",
+      "options": [
+        "Identical always",
+        "Different stress/adaptation profiles",
+        "Neither uses energy",
+        "One is unethical"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 48: monitoring intensity via — correct concept?",
+      "options": [
+        "Only zodiac",
+        "Only mirror",
+        "Only shoe brand",
+        "HR, RPE, talk test, pace"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 49: session takeaway — correct concept?",
+      "options": [
+        "Copy influencers blindly",
+        "Avoid progression",
+        "Match cardio dose to goal and recovery",
+        "Ignore goals"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 50: acute cardio response — correct concept?",
+      "options": [
+        "No metabolic demand change",
+        "Breathing unchanged",
+        "HR, SV, and cardiac output typically rise",
+        "All fall during hard aerobic work"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

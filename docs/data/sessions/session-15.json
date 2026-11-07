@@ -1,0 +1,659 @@
+{
+  "id": "session-15",
+  "sessionNumber": 15,
+  "title": "Nutrition – Supplements & Doping",
+  "domain": "Nutrition",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to whey protein?",
+      "options": [
+        "Slow with no leucine",
+        "Replaces training",
+        "Unsafe for all healthy adults by default",
+        "Fast-digesting high-quality protein rich in EAAs/leucine"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, whey protein matters because the key idea is:",
+      "options": [
+        "Replaces training",
+        "Fast-digesting high-quality protein rich in EAAs/leucine",
+        "Slow with no leucine",
+        "Unsafe for all healthy adults by default"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about whey protein:",
+      "options": [
+        "It is unrelated to nutrition",
+        "Replaces training",
+        "Slow with no leucine",
+        "Fast-digesting high-quality protein rich in EAAs/leucine"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to creatine monohydrate?",
+      "options": [
+        "Supports high-intensity performance/strength in many people",
+        "A vitamin",
+        "Replaces all training",
+        "Removes all body water permanently as goal"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, creatine monohydrate matters because the key idea is:",
+      "options": [
+        "Removes all body water permanently as goal",
+        "Replaces all training",
+        "Supports high-intensity performance/strength in many people",
+        "A vitamin"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about creatine monohydrate:",
+      "options": [
+        "It is unrelated to nutrition",
+        "Supports high-intensity performance/strength in many people",
+        "Replaces all training",
+        "A vitamin"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to supplement hierarchy?",
+      "options": [
+        "Food irrelevant",
+        "Training optional",
+        "Supplements first always",
+        "Food/training first; supplements as adjuncts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, supplement hierarchy matters because the key idea is:",
+      "options": [
+        "Food irrelevant",
+        "Food/training first; supplements as adjuncts",
+        "Supplements first always",
+        "Training optional"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about supplement hierarchy:",
+      "options": [
+        "Food irrelevant",
+        "Food/training first; supplements as adjuncts",
+        "It is unrelated to nutrition",
+        "Supplements first always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to caffeine can?",
+      "options": [
+        "Build maximal muscle alone",
+        "Replace sleep forever",
+        "Hydrate better than water always",
+        "Acutely aid performance/alertness for some"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, caffeine can matters because the key idea is:",
+      "options": [
+        "Replace sleep forever",
+        "Hydrate better than water always",
+        "Build maximal muscle alone",
+        "Acutely aid performance/alertness for some"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about caffeine can:",
+      "options": [
+        "Acutely aid performance/alertness for some",
+        "Replace sleep forever",
+        "It is unrelated to nutrition",
+        "Build maximal muscle alone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to doping education goal?",
+      "options": [
+        "Protect health and integrity; know banned risks",
+        "Ignore regulations",
+        "Prescribe cycles",
+        "Encourage hidden drug use"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, doping education goal matters because the key idea is:",
+      "options": [
+        "Protect health and integrity; know banned risks",
+        "Encourage hidden drug use",
+        "Prescribe cycles",
+        "Ignore regulations"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about doping education goal:",
+      "options": [
+        "It is unrelated to nutrition",
+        "Protect health and integrity; know banned risks",
+        "Encourage hidden drug use",
+        "Ignore regulations"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to third-party tested products?",
+      "options": [
+        "Guarantee perfection",
+        "Are unnecessary always",
+        "Reduce contamination risk vs untested sources",
+        "Are illegal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, third-party tested products matters because the key idea is:",
+      "options": [
+        "Are illegal",
+        "Guarantee perfection",
+        "Reduce contamination risk vs untested sources",
+        "Are unnecessary always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about third-party tested products:",
+      "options": [
+        "It is unrelated to nutrition",
+        "Are illegal",
+        "Reduce contamination risk vs untested sources",
+        "Guarantee perfection"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to more than ~1.6 g/kg protein?",
+      "options": [
+        "Infinite linear returns always",
+        "Often diminishing hypertrophy returns",
+        "Toxic instantly for all",
+        "Stops MPS"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, more than ~1.6 g/kg protein matters because the key idea is:",
+      "options": [
+        "Stops MPS",
+        "Often diminishing hypertrophy returns",
+        "Infinite linear returns always",
+        "Toxic instantly for all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about more than ~1.6 g/kg protein:",
+      "options": [
+        "Infinite linear returns always",
+        "Toxic instantly for all",
+        "Often diminishing hypertrophy returns",
+        "It is unrelated to nutrition"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to casein vs whey (general)?",
+      "options": [
+        "Neither has amino acids",
+        "Only casein has leucine",
+        "Identical always",
+        "Slower vs faster digestion profiles"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, casein vs whey (general) matters because the key idea is:",
+      "options": [
+        "Only casein has leucine",
+        "Identical always",
+        "Slower vs faster digestion profiles",
+        "Neither has amino acids"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about casein vs whey (general):",
+      "options": [
+        "Neither has amino acids",
+        "Slower vs faster digestion profiles",
+        "It is unrelated to nutrition",
+        "Identical always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to supplement red flag?",
+      "options": [
+        "Protein dosing education",
+        "Hydration education",
+        "Basic creatine monohydrate education",
+        "Medical-cure claims and secret proprietary steroids vibes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, supplement red flag matters because the key idea is:",
+      "options": [
+        "Medical-cure claims and secret proprietary steroids vibes",
+        "Protein dosing education",
+        "Hydration education",
+        "Basic creatine monohydrate education"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about supplement red flag:",
+      "options": [
+        "Basic creatine monohydrate education",
+        "It is unrelated to nutrition",
+        "Protein dosing education",
+        "Medical-cure claims and secret proprietary steroids vibes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which best defines/relates to coach role with supplements?",
+      "options": [
+        "Evidence-based guidance within scope; no medical prescribing overreach",
+        "Design drug cycles",
+        "Ignore safety",
+        "Diagnose deficiencies as MD"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Nutrition",
+      "question": "In coaching practice, coach role with supplements matters because the key idea is:",
+      "options": [
+        "Diagnose deficiencies as MD",
+        "Ignore safety",
+        "Evidence-based guidance within scope; no medical prescribing overreach",
+        "Design drug cycles"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Select the correct statement about coach role with supplements:",
+      "options": [
+        "Evidence-based guidance within scope; no medical prescribing overreach",
+        "It is unrelated to nutrition",
+        "Diagnose deficiencies as MD",
+        "Design drug cycles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: primary coaching application of this topic is to:",
+      "options": [
+        "Avoid assessments",
+        "Ignore client anatomy",
+        "Improve safe, effective exercise decisions",
+        "Replace medical care"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Screen for red flags",
+        "Individualize technique",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: evidence-informed coaches should:",
+      "options": [
+        "Avoid measuring progress",
+        "Combine principles with client context",
+        "Ignore feedback",
+        "Copy trends blindly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: before loading advanced variations, first ensure:",
+      "options": [
+        "Sleep deprivation",
+        "Pain racing",
+        "Max instability",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: regress an exercise when:",
+      "options": [
+        "Form breaks or risk rises",
+        "RPE is appropriate",
+        "Warm-up feels good",
+        "Client improves"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: progress an exercise when:",
+      "options": [
+        "Client is dizzy",
+        "Screening failed",
+        "Quality is stable and ready for more challenge",
+        "Pain is sharp"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Avoid planning",
+        "Create gossip",
+        "Track decisions and outcomes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: client education should be:",
+      "options": [
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Fear-based only",
+        "Clear, realistic, and actionable"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Shoes are new",
+        "Red-flag symptoms appear",
+        "Sweat appears"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Session 15: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "One passive skim",
+        "Avoiding practice",
+        "Skipping diagrams"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 41: creatine monohydrate — correct concept?",
+      "options": [
+        "Replaces all training",
+        "A vitamin",
+        "Removes all body water permanently as goal",
+        "Supports high-intensity performance/strength in many people"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 42: supplement hierarchy — correct concept?",
+      "options": [
+        "Food/training first; supplements as adjuncts",
+        "Food irrelevant",
+        "Supplements first always",
+        "Training optional"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 43: caffeine can — correct concept?",
+      "options": [
+        "Build maximal muscle alone",
+        "Acutely aid performance/alertness for some",
+        "Replace sleep forever",
+        "Hydrate better than water always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 44: doping education goal — correct concept?",
+      "options": [
+        "Prescribe cycles",
+        "Protect health and integrity; know banned risks",
+        "Encourage hidden drug use",
+        "Ignore regulations"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 45: third-party tested products — correct concept?",
+      "options": [
+        "Guarantee perfection",
+        "Reduce contamination risk vs untested sources",
+        "Are illegal",
+        "Are unnecessary always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 46: more than ~1.6 g/kg protein — correct concept?",
+      "options": [
+        "Stops MPS",
+        "Toxic instantly for all",
+        "Infinite linear returns always",
+        "Often diminishing hypertrophy returns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 47: casein vs whey (general) — correct concept?",
+      "options": [
+        "Identical always",
+        "Slower vs faster digestion profiles",
+        "Only casein has leucine",
+        "Neither has amino acids"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 48: supplement red flag — correct concept?",
+      "options": [
+        "Hydration education",
+        "Basic creatine monohydrate education",
+        "Medical-cure claims and secret proprietary steroids vibes",
+        "Protein dosing education"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 49: coach role with supplements — correct concept?",
+      "options": [
+        "Evidence-based guidance within scope; no medical prescribing overreach",
+        "Design drug cycles",
+        "Diagnose deficiencies as MD",
+        "Ignore safety"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Quick check 50: whey protein — correct concept?",
+      "options": [
+        "Fast-digesting high-quality protein rich in EAAs/leucine",
+        "Slow with no leucine",
+        "Unsafe for all healthy adults by default",
+        "Replaces training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "session-20",
+  "sessionNumber": 20,
+  "title": "Intro to Functional Anatomy Review",
+  "domain": "Functional Anatomy",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to anterior?",
+      "options": [
+        "Toward midline",
+        "Front of the body",
+        "Away from head",
+        "Plantar only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, anterior matters because the key idea is:",
+      "options": [
+        "Toward midline",
+        "Plantar only",
+        "Front of the body",
+        "Away from head"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about anterior:",
+      "options": [
+        "Toward midline",
+        "Front of the body",
+        "Away from head",
+        "It is unrelated to functional anatomy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to posterior?",
+      "options": [
+        "Superior",
+        "Front",
+        "Medial",
+        "Back of the body"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, posterior matters because the key idea is:",
+      "options": [
+        "Superior",
+        "Medial",
+        "Front",
+        "Back of the body"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about posterior:",
+      "options": [
+        "Front",
+        "Back of the body",
+        "It is unrelated to functional anatomy",
+        "Medial"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to sagittal plane example?",
+      "options": [
+        "Jumping-jack abduction only",
+        "Side bend only",
+        "Squat / curl flexion-extension patterns",
+        "Pure rotation only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, sagittal plane example matters because the key idea is:",
+      "options": [
+        "Side bend only",
+        "Squat / curl flexion-extension patterns",
+        "Jumping-jack abduction only",
+        "Pure rotation only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about sagittal plane example:",
+      "options": [
+        "Side bend only",
+        "Squat / curl flexion-extension patterns",
+        "It is unrelated to functional anatomy",
+        "Jumping-jack abduction only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to frontal plane example?",
+      "options": [
+        "Biceps curl only",
+        "Side bend / abduction patterns",
+        "Nodding only",
+        "Spinal flexion only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, frontal plane example matters because the key idea is:",
+      "options": [
+        "Biceps curl only",
+        "Nodding only",
+        "Spinal flexion only",
+        "Side bend / abduction patterns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about frontal plane example:",
+      "options": [
+        "Side bend / abduction patterns",
+        "Nodding only",
+        "Biceps curl only",
+        "It is unrelated to functional anatomy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to synovial joints?",
+      "options": [
+        "No movement",
+        "Greatest ROM generally",
+        "Fibrous only",
+        "Suture only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, synovial joints matters because the key idea is:",
+      "options": [
+        "Fibrous only",
+        "Greatest ROM generally",
+        "No movement",
+        "Suture only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about synovial joints:",
+      "options": [
+        "Greatest ROM generally",
+        "It is unrelated to functional anatomy",
+        "No movement",
+        "Fibrous only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to agonist?",
+      "options": [
+        "Only bone",
+        "Only nerve",
+        "Prime mover",
+        "Only antagonist"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, agonist matters because the key idea is:",
+      "options": [
+        "Prime mover",
+        "Only nerve",
+        "Only bone",
+        "Only antagonist"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about agonist:",
+      "options": [
+        "Prime mover",
+        "Only antagonist",
+        "Only bone",
+        "It is unrelated to functional anatomy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to glute max action?",
+      "options": [
+        "Wrist flexion",
+        "Ankle DF",
+        "Hip extension",
+        "Scapular elevation"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, glute max action matters because the key idea is:",
+      "options": [
+        "Ankle DF",
+        "Wrist flexion",
+        "Scapular elevation",
+        "Hip extension"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about glute max action:",
+      "options": [
+        "Wrist flexion",
+        "It is unrelated to functional anatomy",
+        "Ankle DF",
+        "Hip extension"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to quad action?",
+      "options": [
+        "Knee extension",
+        "Elbow flexion",
+        "Knee flexion as prime",
+        "Plantarflexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, quad action matters because the key idea is:",
+      "options": [
+        "Knee flexion as prime",
+        "Plantarflexion",
+        "Knee extension",
+        "Elbow flexion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about quad action:",
+      "options": [
+        "Knee extension",
+        "Knee flexion as prime",
+        "It is unrelated to functional anatomy",
+        "Elbow flexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to cuff role?",
+      "options": [
+        "Knee extension",
+        "Wrist RD",
+        "Plantarflexion",
+        "GH stability/control"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, cuff role matters because the key idea is:",
+      "options": [
+        "Plantarflexion",
+        "Knee extension",
+        "GH stability/control",
+        "Wrist RD"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about cuff role:",
+      "options": [
+        "Plantarflexion",
+        "It is unrelated to functional anatomy",
+        "GH stability/control",
+        "Knee extension"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which best defines/relates to anatomy review purpose?",
+      "options": [
+        "Skip technique",
+        "Replace all practice",
+        "Ignore clients",
+        "Reconnect terms to coaching decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In coaching practice, anatomy review purpose matters because the key idea is:",
+      "options": [
+        "Skip technique",
+        "Replace all practice",
+        "Reconnect terms to coaching decisions",
+        "Ignore clients"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Select the correct statement about anatomy review purpose:",
+      "options": [
+        "It is unrelated to functional anatomy",
+        "Replace all practice",
+        "Skip technique",
+        "Reconnect terms to coaching decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: primary coaching application of this topic is to:",
+      "options": [
+        "Ignore client anatomy",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Replace medical care"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Individualize technique",
+        "Apply one cue to every body identically",
+        "Progress gradually"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: evidence-informed coaches should:",
+      "options": [
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Combine principles with client context",
+        "Avoid measuring progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: before loading advanced variations, first ensure:",
+      "options": [
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics",
+        "Pain racing",
+        "Max instability"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "RPE is appropriate",
+        "Form breaks or risk rises",
+        "Warm-up feels good"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: progress an exercise when:",
+      "options": [
+        "Client is dizzy",
+        "Pain is sharp",
+        "Screening failed",
+        "Quality is stable and ready for more challenge"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Create gossip",
+        "Track decisions and outcomes",
+        "Hide errors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Unintelligible jargon only",
+        "Fear-based only",
+        "Overpromising"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: safety stop is required when:",
+      "options": [
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Music changes",
+        "Sweat appears"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Session 20: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "One passive skim",
+        "Avoiding practice",
+        "Skipping diagrams"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 41: posterior — correct concept?",
+      "options": [
+        "Superior",
+        "Back of the body",
+        "Front",
+        "Medial"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 42: sagittal plane example — correct concept?",
+      "options": [
+        "Jumping-jack abduction only",
+        "Squat / curl flexion-extension patterns",
+        "Side bend only",
+        "Pure rotation only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 43: frontal plane example — correct concept?",
+      "options": [
+        "Biceps curl only",
+        "Spinal flexion only",
+        "Nodding only",
+        "Side bend / abduction patterns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 44: synovial joints — correct concept?",
+      "options": [
+        "Fibrous only",
+        "Greatest ROM generally",
+        "No movement",
+        "Suture only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 45: agonist — correct concept?",
+      "options": [
+        "Only antagonist",
+        "Prime mover",
+        "Only bone",
+        "Only nerve"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 46: glute max action — correct concept?",
+      "options": [
+        "Hip extension",
+        "Ankle DF",
+        "Wrist flexion",
+        "Scapular elevation"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 47: quad action — correct concept?",
+      "options": [
+        "Knee extension",
+        "Elbow flexion",
+        "Knee flexion as prime",
+        "Plantarflexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 48: cuff role — correct concept?",
+      "options": [
+        "Knee extension",
+        "Plantarflexion",
+        "GH stability/control",
+        "Wrist RD"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 49: anatomy review purpose — correct concept?",
+      "options": [
+        "Skip technique",
+        "Reconnect terms to coaching decisions",
+        "Replace all practice",
+        "Ignore clients"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quick check 50: anterior — correct concept?",
+      "options": [
+        "Away from head",
+        "Plantar only",
+        "Toward midline",
+        "Front of the body"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

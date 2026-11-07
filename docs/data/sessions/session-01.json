@@ -1,0 +1,659 @@
+{
+  "id": "session-1",
+  "sessionNumber": 1,
+  "title": "Intro to Professional Personal Fitness Coaching",
+  "domain": "Professional Practice",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Professional Practice",
+      "question": "Qualified coaches integrate which pillars?",
+      "options": [
+        "Supplements only",
+        "Aesthetics only",
+        "Evidence, ethics, and accountability",
+        "Marketing, hype, and intensity"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Sharp joint pain mid-exercise — best action?",
+      "options": [
+        "Ignore",
+        "Push through",
+        "Add load",
+        "Stop and refer appropriately"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Medical nutrition therapy for diabetes is:",
+      "options": [
+        "Handled with fat burners",
+        "Outside typical PT scope; refer",
+        "Fixed by zero carbs only",
+        "Required in every session"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Client confidentiality should be:",
+      "options": [
+        "Shared with members",
+        "Maintained with limited legal/safety exceptions",
+        "Optional",
+        "Posted anonymously"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Promising 5 kg fat loss in 5 days is unethical because it:",
+      "options": [
+        "Uses free weights",
+        "Is too cheap",
+        "Needs cardio",
+        "Misleads and is unrealistic"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Continuing education mainly supports:",
+      "options": [
+        "Sales only",
+        "Avoiding practice",
+        "Skipping CE forever",
+        "Certification maintenance and currency"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Scope of practice means:",
+      "options": [
+        "Do surgery",
+        "Stay within competence and refer when needed",
+        "Prescribe drugs",
+        "Diagnose freely"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Professionalism includes:",
+      "options": [
+        "Guessing medical plans",
+        "Preparation, punctuality, respectful communication",
+        "Canceling often",
+        "Oversharing photos without consent"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Active exam prep favors:",
+      "options": [
+        "Retrieval practice and application",
+        "Ignoring the platform",
+        "Skipping quizzes",
+        "One passive skim only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A boundary violation example is:",
+      "options": [
+        "Spotting bench",
+        "Logging RPE",
+        "Giving clinical diagnoses without credentials",
+        "Cueing a squat"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "If a client discusses severe personal distress, coach should:",
+      "options": [
+        "Post online",
+        "Listen empathetically and refer as needed",
+        "Give legal counsel",
+        "Prescribe meds"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Technology trends should be:",
+      "options": [
+        "Critically evaluated",
+        "Always ignored",
+        "Used to replace ethics",
+        "Blindly adopted"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Consistent billing exceptions only for favorites violate:",
+      "options": [
+        "Fairness/accountability",
+        "Planes of motion",
+        "SAID",
+        "Tempo"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Physical activity benefits include:",
+      "options": [
+        "Health, function, and mood improvements beyond aesthetics",
+        "Guaranteed trophies",
+        "No mental effects",
+        "Only temporary sweat"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Code of ethics prioritizes:",
+      "options": [
+        "Training through red-flag pain",
+        "Client best interest and integrity",
+        "Virality",
+        "Guaranteed abs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Qualified vs paper-certified emphasizes:",
+      "options": [
+        "Ongoing competence and standards",
+        "More exercise names only",
+        "No CE",
+        "Athlete-only coaching"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "When uncertain about pain, first step is:",
+      "options": [
+        "Load heavier",
+        "Stretch into sharp pain",
+        "Stop aggravating work and refer",
+        "Diagnose online"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Documenting sessions supports:",
+      "options": [
+        "Accountability and continuity",
+        "Avoiding progress checks",
+        "Random programming",
+        "Gossip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Illegal performance-drug advice should be:",
+      "options": [
+        "Provided freely",
+        "Refused within ethical/anti-doping boundaries",
+        "Ignored as harmless",
+        "Sourced by coach"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Lifelong learning after certification is:",
+      "options": [
+        "A reason to quit practice",
+        "Optional vanity",
+        "Only for managers",
+        "Expected professional behavior"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Exam success improves with:",
+      "options": [
+        "Skipping anatomy",
+        "Spaced practice and active recall",
+        "Cramming once passively",
+        "Avoiding hard topics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Respecting client boundaries is part of:",
+      "options": [
+        "Ethical coaching",
+        "Online-only rules",
+        "Strength science only",
+        "Optional manners"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Sales-first approaches that ignore safety are:",
+      "options": [
+        "Evidence-based",
+        "Ideal",
+        "Required",
+        "Unprofessional/unethical"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Referring out protects:",
+      "options": [
+        "Nobody",
+        "Only gym revenue",
+        "Client safety and professional limits",
+        "Ego"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A realistic fat-loss conversation should:",
+      "options": [
+        "Guarantee outcomes",
+        "Hide deficits",
+        "Promise extreme cuts",
+        "Explain sustainable diet and training habits"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Platform quizzes help mainly by:",
+      "options": [
+        "Eliminating practice",
+        "Supporting active learning",
+        "Replacing all coaching",
+        "Avoiding guidebook use"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Honesty about limitations is:",
+      "options": [
+        "Unprofessional",
+        "Ethical practice",
+        "Unnecessary",
+        "Weak marketing only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "First-aid/AED awareness in facilities supports:",
+      "options": [
+        "Emergency readiness culture",
+        "Phone bans alone",
+        "Only parking rules",
+        "Marketing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "No phone use during key learning/exam contexts supports:",
+      "options": [
+        "Better cheating",
+        "Less professionalism",
+        "Focus and integrity",
+        "Worse learning"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Becoming a professional starts with:",
+      "options": [
+        "No screening",
+        "Role clarity, ethics, and client-centered practice",
+        "Max testing day one always",
+        "Extreme diets"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Accountability means:",
+      "options": [
+        "Never reviewing outcomes",
+        "Owning decisions and standards",
+        "Hiding errors",
+        "Blaming clients always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Evidence-informed practice integrates:",
+      "options": [
+        "Trends only",
+        "Intuition only",
+        "Research, expertise, and client values/context",
+        "Sales scripts only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Client requests beyond competence require:",
+      "options": [
+        "Ignoring risk",
+        "Guessing",
+        "Referral/collaboration",
+        "Immediate max loads"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Confidentiality exceptions may include:",
+      "options": [
+        "Peer curiosity",
+        "Boredom",
+        "Marketing needs",
+        "Serious safety/legal duties"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Prepared session delivery demonstrates:",
+      "options": [
+        "Professionalism",
+        "Weakness",
+        "Optional flair",
+        "Wasted time"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Industry change should lead to:",
+      "options": [
+        "Ignoring clients",
+        "Fearful quitting",
+        "Blind hype",
+        "Critical appraisal and CE"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Unethical guarantee example:",
+      "options": [
+        "Explaining overload",
+        "Offering packages",
+        "Teaching bracing",
+        "Promising medical cure from training alone"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Scope limits exist to:",
+      "options": [
+        "Eliminate referrals",
+        "Protect clients and coaches",
+        "Reduce ethics",
+        "Block learning"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Coach vs unqualified instructor distinction emphasizes:",
+      "options": [
+        "Education, standards, responsibility",
+        "More supplements",
+        "Louder cues only",
+        "Heavier loads only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Session 1 consolidation includes:",
+      "options": [
+        "Only calf anatomy",
+        "Only VO2 labs",
+        "Only periodization",
+        "Benefits, scope/ethics, and exam prep awareness"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Fair policies across clients support:",
+      "options": [
+        "Favoritism",
+        "Scope creep",
+        "Chaos",
+        "Professional consistency"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Using social posts of clients without consent is:",
+      "options": [
+        "Required marketing",
+        "A CE credit",
+        "Always fine",
+        "Unethical"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Safe progressive coaching requires:",
+      "options": [
+        "One-size maximalism",
+        "Pain racing",
+        "Screening and appropriate progression",
+        "Ignoring history"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Continuing education credits are collected via:",
+      "options": [
+        "Skipping webinars",
+        "Never studying",
+        "Gym selfies",
+        "Approved learning for renewal"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Empathic listening without overstepping is:",
+      "options": [
+        "A diagnosis",
+        "A prescription",
+        "A breach always",
+        "Within supportive coaching role"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Exam conditions practice should include:",
+      "options": [
+        "Group answer sharing",
+        "Focused attempts without notes/phones",
+        "Skipping review",
+        "Open-book scrolling always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Professional 'why' statements help:",
+      "options": [
+        "Avoid CE",
+        "Replace programming",
+        "Skip ethics",
+        "Anchor purpose and behavior"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Overpromising transformations mainly harms:",
+      "options": [
+        "Only SEO",
+        "Anatomy terms",
+        "Trust and ethical standards",
+        "Only shoe sales"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Health & safety facility awareness (AED/first aid) matters because:",
+      "options": [
+        "It is only decorative",
+        "It replaces coaching skill",
+        "It removes ethics",
+        "Emergencies can occur in training environments"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Best response to scope questions is:",
+      "options": [
+        "Clarify what coaches can/can't do and refer",
+        "Invent diagnoses",
+        "Avoid answering",
+        "Claim unlimited authority"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

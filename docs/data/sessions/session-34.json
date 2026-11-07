@@ -1,0 +1,659 @@
+{
+  "id": "session-34",
+  "sessionNumber": 34,
+  "title": "Introduction to Strength & Conditioning",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to S&C intro purpose?",
+      "options": [
+        "Only yoga forever",
+        "Bridge fitness qualities into structured training",
+        "Only bodybuilding posing",
+        "Only rehab diagnosis"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, S&C intro purpose matters because the key idea is:",
+      "options": [
+        "Bridge fitness qualities into structured training",
+        "Only yoga forever",
+        "Only rehab diagnosis",
+        "Only bodybuilding posing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about S&C intro purpose:",
+      "options": [
+        "Bridge fitness qualities into structured training",
+        "It is unrelated to program design",
+        "Only yoga forever",
+        "Only bodybuilding posing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to components of fitness include?",
+      "options": [
+        "Only flexibility",
+        "Only one max squat",
+        "Multiple physical qualities beyond one lift",
+        "Only step count"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, components of fitness include matters because the key idea is:",
+      "options": [
+        "Multiple physical qualities beyond one lift",
+        "Only step count",
+        "Only flexibility",
+        "Only one max squat"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about components of fitness include:",
+      "options": [
+        "It is unrelated to program design",
+        "Multiple physical qualities beyond one lift",
+        "Only one max squat",
+        "Only step count"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to drills practice builds?",
+      "options": [
+        "Chaos first",
+        "No coaching",
+        "Skill before loading complexity",
+        "Max load first always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, drills practice builds matters because the key idea is:",
+      "options": [
+        "Chaos first",
+        "Skill before loading complexity",
+        "No coaching",
+        "Max load first always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about drills practice builds:",
+      "options": [
+        "It is unrelated to program design",
+        "Skill before loading complexity",
+        "Chaos first",
+        "Max load first always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to program design starts with?",
+      "options": [
+        "Random exercises list",
+        "Ignoring recovery",
+        "Goals, constraints, and assessment",
+        "Copying celebrities blindly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, program design starts with matters because the key idea is:",
+      "options": [
+        "Goals, constraints, and assessment",
+        "Copying celebrities blindly",
+        "Random exercises list",
+        "Ignoring recovery"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about program design starts with:",
+      "options": [
+        "Copying celebrities blindly",
+        "It is unrelated to program design",
+        "Random exercises list",
+        "Goals, constraints, and assessment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to terms & definitions matter because?",
+      "options": [
+        "Definitions useless",
+        "Shared language improves coaching",
+        "Only slang",
+        "Jargon confuses on purpose"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, terms & definitions matter because matters because the key idea is:",
+      "options": [
+        "Jargon confuses on purpose",
+        "Only slang",
+        "Shared language improves coaching",
+        "Definitions useless"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about terms & definitions matter because:",
+      "options": [
+        "Shared language improves coaching",
+        "Jargon confuses on purpose",
+        "It is unrelated to program design",
+        "Definitions useless"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to general prep often precedes?",
+      "options": [
+        "Only isolation forever",
+        "No foundations",
+        "Specific intensive qualities",
+        "Max peaking day one for novices"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, general prep often precedes matters because the key idea is:",
+      "options": [
+        "Specific intensive qualities",
+        "No foundations",
+        "Only isolation forever",
+        "Max peaking day one for novices"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about general prep often precedes:",
+      "options": [
+        "It is unrelated to program design",
+        "Specific intensive qualities",
+        "Max peaking day one for novices",
+        "No foundations"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to conditioning drill selection?",
+      "options": [
+        "Random suffering",
+        "Match energy/movement demands",
+        "Only curls",
+        "Only planks forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, conditioning drill selection matters because the key idea is:",
+      "options": [
+        "Match energy/movement demands",
+        "Only planks forever",
+        "Only curls",
+        "Random suffering"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about conditioning drill selection:",
+      "options": [
+        "Match energy/movement demands",
+        "It is unrelated to program design",
+        "Random suffering",
+        "Only planks forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to safety in S&C?",
+      "options": [
+        "Pain competition",
+        "Progress skill and load intelligently",
+        "Sleep optional",
+        "Ignore screens"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, safety in S&C matters because the key idea is:",
+      "options": [
+        "Ignore screens",
+        "Sleep optional",
+        "Progress skill and load intelligently",
+        "Pain competition"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about safety in S&C:",
+      "options": [
+        "Sleep optional",
+        "Pain competition",
+        "It is unrelated to program design",
+        "Progress skill and load intelligently"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session structure usually has?",
+      "options": [
+        "No warm-up",
+        "Warm-up, main work, accessory/cool-down as appropriate",
+        "Max sets cold",
+        "Finish with new 1RM always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session structure usually has matters because the key idea is:",
+      "options": [
+        "Finish with new 1RM always",
+        "Warm-up, main work, accessory/cool-down as appropriate",
+        "Max sets cold",
+        "No warm-up"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session structure usually has:",
+      "options": [
+        "Max sets cold",
+        "No warm-up",
+        "It is unrelated to program design",
+        "Warm-up, main work, accessory/cool-down as appropriate"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 34 takeaway?",
+      "options": [
+        "Ignore definitions",
+        "Skip planning",
+        "Harder is always smarter",
+        "S&C is systematic, not random hard work"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 34 takeaway matters because the key idea is:",
+      "options": [
+        "Harder is always smarter",
+        "Ignore definitions",
+        "Skip planning",
+        "S&C is systematic, not random hard work"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 34 takeaway:",
+      "options": [
+        "Harder is always smarter",
+        "Skip planning",
+        "It is unrelated to program design",
+        "S&C is systematic, not random hard work"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: primary coaching application of this topic is to:",
+      "options": [
+        "Ignore client anatomy",
+        "Improve safe, effective exercise decisions",
+        "Replace medical care",
+        "Avoid assessments"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Screen for red flags",
+        "Apply one cue to every body identically",
+        "Individualize technique"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Copy trends blindly",
+        "Combine principles with client context",
+        "Avoid measuring progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Sleep deprivation",
+        "Pain racing",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "Form breaks or risk rises",
+        "RPE is appropriate",
+        "Client improves"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Client is dizzy",
+        "Quality is stable and ready for more challenge",
+        "Pain is sharp"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: documentation helps:",
+      "options": [
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Avoid planning",
+        "Hide errors"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: client education should be:",
+      "options": [
+        "Fear-based only",
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Overpromising"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Sweat appears",
+        "Music changes",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 34: best study method for this session is:",
+      "options": [
+        "Skipping diagrams",
+        "One passive skim",
+        "Active recall + practical application",
+        "Avoiding practice"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: components of fitness include — correct concept?",
+      "options": [
+        "Only one max squat",
+        "Multiple physical qualities beyond one lift",
+        "Only flexibility",
+        "Only step count"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: drills practice builds — correct concept?",
+      "options": [
+        "Max load first always",
+        "No coaching",
+        "Chaos first",
+        "Skill before loading complexity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: program design starts with — correct concept?",
+      "options": [
+        "Random exercises list",
+        "Goals, constraints, and assessment",
+        "Ignoring recovery",
+        "Copying celebrities blindly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: terms & definitions matter because — correct concept?",
+      "options": [
+        "Shared language improves coaching",
+        "Jargon confuses on purpose",
+        "Definitions useless",
+        "Only slang"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: general prep often precedes — correct concept?",
+      "options": [
+        "Max peaking day one for novices",
+        "Specific intensive qualities",
+        "Only isolation forever",
+        "No foundations"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: conditioning drill selection — correct concept?",
+      "options": [
+        "Match energy/movement demands",
+        "Random suffering",
+        "Only curls",
+        "Only planks forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: safety in S&C — correct concept?",
+      "options": [
+        "Progress skill and load intelligently",
+        "Pain competition",
+        "Ignore screens",
+        "Sleep optional"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: session structure usually has — correct concept?",
+      "options": [
+        "Finish with new 1RM always",
+        "Max sets cold",
+        "Warm-up, main work, accessory/cool-down as appropriate",
+        "No warm-up"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 34 takeaway — correct concept?",
+      "options": [
+        "S&C is systematic, not random hard work",
+        "Ignore definitions",
+        "Harder is always smarter",
+        "Skip planning"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: S&C intro purpose — correct concept?",
+      "options": [
+        "Bridge fitness qualities into structured training",
+        "Only bodybuilding posing",
+        "Only rehab diagnosis",
+        "Only yoga forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

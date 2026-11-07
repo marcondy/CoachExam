@@ -1,0 +1,659 @@
+{
+  "id": "session-18",
+  "sessionNumber": 18,
+  "title": "Coaching for Behavior Change – Models & MI",
+  "domain": "Coaching & Behavior Change",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to TTM precontemplation?",
+      "options": [
+        "Not considering change yet",
+        "Termination only",
+        "Maintenance",
+        "Action"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, TTM precontemplation matters because the key idea is:",
+      "options": [
+        "Action",
+        "Maintenance",
+        "Not considering change yet",
+        "Termination only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about TTM precontemplation:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Not considering change yet",
+        "Action",
+        "Maintenance"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to TTM preparation?",
+      "options": [
+        "Relapse only",
+        "No awareness",
+        "Years of maintenance already",
+        "Planning to act soon / early steps"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, TTM preparation matters because the key idea is:",
+      "options": [
+        "Relapse only",
+        "Years of maintenance already",
+        "No awareness",
+        "Planning to act soon / early steps"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about TTM preparation:",
+      "options": [
+        "Planning to act soon / early steps",
+        "Years of maintenance already",
+        "It is unrelated to coaching & behavior change",
+        "No awareness"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to TTM action?",
+      "options": [
+        "Actively modifying behavior",
+        "Precontemplation speeches",
+        "Refusing all change",
+        "Only thinking next year"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, TTM action matters because the key idea is:",
+      "options": [
+        "Only thinking next year",
+        "Refusing all change",
+        "Precontemplation speeches",
+        "Actively modifying behavior"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about TTM action:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Only thinking next year",
+        "Refusing all change",
+        "Actively modifying behavior"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to TTM maintenance?",
+      "options": [
+        "No habits yet",
+        "Never started",
+        "Only day-one curiosity",
+        "Sustaining change over time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, TTM maintenance matters because the key idea is:",
+      "options": [
+        "No habits yet",
+        "Only day-one curiosity",
+        "Never started",
+        "Sustaining change over time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about TTM maintenance:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Never started",
+        "Sustaining change over time",
+        "Only day-one curiosity"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to motivational interviewing?",
+      "options": [
+        "Confront until comply",
+        "Ignore ambivalence",
+        "Collaborative, evocative, autonomy-supportive",
+        "Only closed questions"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, motivational interviewing matters because the key idea is:",
+      "options": [
+        "Confront until comply",
+        "Ignore ambivalence",
+        "Only closed questions",
+        "Collaborative, evocative, autonomy-supportive"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about motivational interviewing:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Confront until comply",
+        "Only closed questions",
+        "Collaborative, evocative, autonomy-supportive"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to OARS?",
+      "options": [
+        "Open questions, Affirmations, Reflections, Summaries",
+        "Only macros",
+        "Orders, Arguments, Reprimands, Sarcasm",
+        "Only closed questions"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, OARS matters because the key idea is:",
+      "options": [
+        "Only closed questions",
+        "Orders, Arguments, Reprimands, Sarcasm",
+        "Only macros",
+        "Open questions, Affirmations, Reflections, Summaries"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about OARS:",
+      "options": [
+        "Orders, Arguments, Reprimands, Sarcasm",
+        "It is unrelated to coaching & behavior change",
+        "Open questions, Affirmations, Reflections, Summaries",
+        "Only macros"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to self-efficacy?",
+      "options": [
+        "Bone density",
+        "Confidence in performing a specific behavior",
+        "Max HR",
+        "A protein powder"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, self-efficacy matters because the key idea is:",
+      "options": [
+        "A protein powder",
+        "Max HR",
+        "Confidence in performing a specific behavior",
+        "Bone density"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about self-efficacy:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Confidence in performing a specific behavior",
+        "A protein powder",
+        "Max HR"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to relapse handling?",
+      "options": [
+        "Proof client is hopeless",
+        "Trainer diagnoses disease",
+        "Common; learn and re-plan",
+        "Abandon goals forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, relapse handling matters because the key idea is:",
+      "options": [
+        "Proof client is hopeless",
+        "Common; learn and re-plan",
+        "Trainer diagnoses disease",
+        "Abandon goals forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about relapse handling:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Proof client is hopeless",
+        "Common; learn and re-plan",
+        "Abandon goals forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to autonomy support?",
+      "options": [
+        "Obey without questions",
+        "Help clients choose in line with values",
+        "Never discuss goals",
+        "Coach decides everything"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, autonomy support matters because the key idea is:",
+      "options": [
+        "Help clients choose in line with values",
+        "Obey without questions",
+        "Coach decides everything",
+        "Never discuss goals"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about autonomy support:",
+      "options": [
+        "Help clients choose in line with values",
+        "Obey without questions",
+        "Coach decides everything",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to stage-matched coaching?",
+      "options": [
+        "Only punish",
+        "Tailor strategies to readiness",
+        "Ignore readiness",
+        "Same lecture for all stages"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, stage-matched coaching matters because the key idea is:",
+      "options": [
+        "Tailor strategies to readiness",
+        "Ignore readiness",
+        "Same lecture for all stages",
+        "Only punish"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about stage-matched coaching:",
+      "options": [
+        "Same lecture for all stages",
+        "It is unrelated to coaching & behavior change",
+        "Ignore readiness",
+        "Tailor strategies to readiness"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: a common error is to:",
+      "options": [
+        "Individualize technique",
+        "Screen for red flags",
+        "Apply one cue to every body identically",
+        "Progress gradually"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Ignore feedback",
+        "Copy trends blindly",
+        "Avoid measuring progress"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: before loading advanced variations, first ensure:",
+      "options": [
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Pain racing",
+        "Max instability"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: regress an exercise when:",
+      "options": [
+        "Form breaks or risk rises",
+        "Warm-up feels good",
+        "Client improves",
+        "RPE is appropriate"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Pain is sharp",
+        "Client is dizzy",
+        "Quality is stable and ready for more challenge"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors",
+        "Create gossip"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Fear-based only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Music changes",
+        "Sweat appears",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 18: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Active recall + practical application",
+        "Skipping diagrams",
+        "One passive skim"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 41: TTM preparation — correct concept?",
+      "options": [
+        "Relapse only",
+        "No awareness",
+        "Planning to act soon / early steps",
+        "Years of maintenance already"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 42: TTM action — correct concept?",
+      "options": [
+        "Precontemplation speeches",
+        "Refusing all change",
+        "Actively modifying behavior",
+        "Only thinking next year"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 43: TTM maintenance — correct concept?",
+      "options": [
+        "Only day-one curiosity",
+        "Sustaining change over time",
+        "No habits yet",
+        "Never started"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 44: motivational interviewing — correct concept?",
+      "options": [
+        "Collaborative, evocative, autonomy-supportive",
+        "Confront until comply",
+        "Only closed questions",
+        "Ignore ambivalence"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 45: OARS — correct concept?",
+      "options": [
+        "Only macros",
+        "Only closed questions",
+        "Orders, Arguments, Reprimands, Sarcasm",
+        "Open questions, Affirmations, Reflections, Summaries"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 46: self-efficacy — correct concept?",
+      "options": [
+        "A protein powder",
+        "Confidence in performing a specific behavior",
+        "Bone density",
+        "Max HR"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 47: relapse handling — correct concept?",
+      "options": [
+        "Trainer diagnoses disease",
+        "Proof client is hopeless",
+        "Abandon goals forever",
+        "Common; learn and re-plan"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 48: autonomy support — correct concept?",
+      "options": [
+        "Help clients choose in line with values",
+        "Coach decides everything",
+        "Never discuss goals",
+        "Obey without questions"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 49: stage-matched coaching — correct concept?",
+      "options": [
+        "Only punish",
+        "Ignore readiness",
+        "Tailor strategies to readiness",
+        "Same lecture for all stages"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 50: TTM precontemplation — correct concept?",
+      "options": [
+        "Termination only",
+        "Action",
+        "Not considering change yet",
+        "Maintenance"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

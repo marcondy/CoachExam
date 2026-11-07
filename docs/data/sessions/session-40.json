@@ -1,0 +1,659 @@
+{
+  "id": "session-40",
+  "sessionNumber": 40,
+  "title": "Program Design – Cardiovascular Training",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to aerobic mode choice?",
+      "options": [
+        "Match preference, joints, and goal",
+        "Only one machine forever for all",
+        "Ignore orthopedic limits",
+        "Most painful = best"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, aerobic mode choice matters because the key idea is:",
+      "options": [
+        "Only one machine forever for all",
+        "Match preference, joints, and goal",
+        "Ignore orthopedic limits",
+        "Most painful = best"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about aerobic mode choice:",
+      "options": [
+        "It is unrelated to program design",
+        "Only one machine forever for all",
+        "Match preference, joints, and goal",
+        "Ignore orthopedic limits"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to cardio variables include?",
+      "options": [
+        "Only shoe color",
+        "Frequency, intensity, time, type (FITT-style)",
+        "Only playlist",
+        "Only mirror"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, cardio variables include matters because the key idea is:",
+      "options": [
+        "Only playlist",
+        "Frequency, intensity, time, type (FITT-style)",
+        "Only shoe color",
+        "Only mirror"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about cardio variables include:",
+      "options": [
+        "Frequency, intensity, time, type (FITT-style)",
+        "Only playlist",
+        "Only shoe color",
+        "It is unrelated to program design"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to adult moderate activity guideline often?",
+      "options": [
+        "No activity if lifting",
+        "1500 hours",
+        "~150 minutes/week",
+        "15 minutes total"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, adult moderate activity guideline often matters because the key idea is:",
+      "options": [
+        "~150 minutes/week",
+        "15 minutes total",
+        "No activity if lifting",
+        "1500 hours"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about adult moderate activity guideline often:",
+      "options": [
+        "1500 hours",
+        "15 minutes total",
+        "It is unrelated to program design",
+        "~150 minutes/week"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to after ~30 min continuous base?",
+      "options": [
+        "Remove warm-ups",
+        "Stop all cardio forever",
+        "Progress duration/intensity/intervals by goal",
+        "Only maximal lifts"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, after ~30 min continuous base matters because the key idea is:",
+      "options": [
+        "Progress duration/intensity/intervals by goal",
+        "Remove warm-ups",
+        "Stop all cardio forever",
+        "Only maximal lifts"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about after ~30 min continuous base:",
+      "options": [
+        "It is unrelated to program design",
+        "Only maximal lifts",
+        "Progress duration/intensity/intervals by goal",
+        "Stop all cardio forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to intervals vs steady state?",
+      "options": [
+        "Neither uses energy",
+        "Identical adaptations always",
+        "One is always unethical",
+        "Different stress; both can be useful"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, intervals vs steady state matters because the key idea is:",
+      "options": [
+        "Different stress; both can be useful",
+        "Identical adaptations always",
+        "Neither uses energy",
+        "One is always unethical"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about intervals vs steady state:",
+      "options": [
+        "One is always unethical",
+        "Different stress; both can be useful",
+        "It is unrelated to program design",
+        "Identical adaptations always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to interference effect concerns?",
+      "options": [
+        "Sleep only",
+        "Supplement timing only",
+        "Strength + endurance combo may blunt some adaptations if poorly managed",
+        "Only flexibility work"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, interference effect concerns matters because the key idea is:",
+      "options": [
+        "Only flexibility work",
+        "Supplement timing only",
+        "Sleep only",
+        "Strength + endurance combo may blunt some adaptations if poorly managed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about interference effect concerns:",
+      "options": [
+        "It is unrelated to program design",
+        "Strength + endurance combo may blunt some adaptations if poorly managed",
+        "Sleep only",
+        "Only flexibility work"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to concurrent training tip?",
+      "options": [
+        "Eliminate all cardio forever for everyone",
+        "Do random order exhausted always",
+        "Ignore priorities",
+        "Organize sessions/priorities to manage interference"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, concurrent training tip matters because the key idea is:",
+      "options": [
+        "Do random order exhausted always",
+        "Organize sessions/priorities to manage interference",
+        "Ignore priorities",
+        "Eliminate all cardio forever for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about concurrent training tip:",
+      "options": [
+        "Ignore priorities",
+        "Do random order exhausted always",
+        "It is unrelated to program design",
+        "Organize sessions/priorities to manage interference"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to HR zones help?",
+      "options": [
+        "Replace all thinking",
+        "Set protein",
+        "Diagnose disease",
+        "Target intended intensity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, HR zones help matters because the key idea is:",
+      "options": [
+        "Diagnose disease",
+        "Set protein",
+        "Target intended intensity",
+        "Replace all thinking"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about HR zones help:",
+      "options": [
+        "It is unrelated to program design",
+        "Replace all thinking",
+        "Target intended intensity",
+        "Diagnose disease"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to case study cardio plan?",
+      "options": [
+        "Individualize mode and dose",
+        "Ignore meds/history",
+        "Max HIIT day one post-illness",
+        "Copy pro athlete week blindly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, case study cardio plan matters because the key idea is:",
+      "options": [
+        "Copy pro athlete week blindly",
+        "Individualize mode and dose",
+        "Ignore meds/history",
+        "Max HIIT day one post-illness"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about case study cardio plan:",
+      "options": [
+        "Ignore meds/history",
+        "It is unrelated to program design",
+        "Copy pro athlete week blindly",
+        "Individualize mode and dose"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 40 takeaway?",
+      "options": [
+        "No progression",
+        "Ignore recovery",
+        "Cardio is filler only",
+        "Program cardio with the same rigor as lifting"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 40 takeaway matters because the key idea is:",
+      "options": [
+        "Cardio is filler only",
+        "Program cardio with the same rigor as lifting",
+        "Ignore recovery",
+        "No progression"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 40 takeaway:",
+      "options": [
+        "Cardio is filler only",
+        "No progression",
+        "It is unrelated to program design",
+        "Program cardio with the same rigor as lifting"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: primary coaching application of this topic is to:",
+      "options": [
+        "Ignore client anatomy",
+        "Avoid assessments",
+        "Replace medical care",
+        "Improve safe, effective exercise decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Individualize technique",
+        "Screen for red flags",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Avoid measuring progress"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: before loading advanced variations, first ensure:",
+      "options": [
+        "Technique and tissue tolerance basics",
+        "Max instability",
+        "Sleep deprivation",
+        "Pain racing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Form breaks or risk rises",
+        "Client improves",
+        "Warm-up feels good"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: progress an exercise when:",
+      "options": [
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Screening failed",
+        "Pain is sharp"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: documentation helps:",
+      "options": [
+        "Create gossip",
+        "Hide errors",
+        "Avoid planning",
+        "Track decisions and outcomes"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: client education should be:",
+      "options": [
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Overpromising"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: safety stop is required when:",
+      "options": [
+        "Red-flag symptoms appear",
+        "Sweat appears",
+        "Music changes",
+        "Shoes are new"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 40: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "Avoiding practice",
+        "One passive skim",
+        "Skipping diagrams"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: cardio variables include — correct concept?",
+      "options": [
+        "Only playlist",
+        "Only mirror",
+        "Only shoe color",
+        "Frequency, intensity, time, type (FITT-style)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: adult moderate activity guideline often — correct concept?",
+      "options": [
+        "~150 minutes/week",
+        "15 minutes total",
+        "1500 hours",
+        "No activity if lifting"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: after ~30 min continuous base — correct concept?",
+      "options": [
+        "Only maximal lifts",
+        "Stop all cardio forever",
+        "Progress duration/intensity/intervals by goal",
+        "Remove warm-ups"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: intervals vs steady state — correct concept?",
+      "options": [
+        "Different stress; both can be useful",
+        "Neither uses energy",
+        "Identical adaptations always",
+        "One is always unethical"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: interference effect concerns — correct concept?",
+      "options": [
+        "Only flexibility work",
+        "Sleep only",
+        "Supplement timing only",
+        "Strength + endurance combo may blunt some adaptations if poorly managed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: concurrent training tip — correct concept?",
+      "options": [
+        "Do random order exhausted always",
+        "Ignore priorities",
+        "Organize sessions/priorities to manage interference",
+        "Eliminate all cardio forever for everyone"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: HR zones help — correct concept?",
+      "options": [
+        "Target intended intensity",
+        "Set protein",
+        "Diagnose disease",
+        "Replace all thinking"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: case study cardio plan — correct concept?",
+      "options": [
+        "Individualize mode and dose",
+        "Copy pro athlete week blindly",
+        "Max HIIT day one post-illness",
+        "Ignore meds/history"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 40 takeaway — correct concept?",
+      "options": [
+        "Cardio is filler only",
+        "Program cardio with the same rigor as lifting",
+        "Ignore recovery",
+        "No progression"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: aerobic mode choice — correct concept?",
+      "options": [
+        "Ignore orthopedic limits",
+        "Match preference, joints, and goal",
+        "Only one machine forever for all",
+        "Most painful = best"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

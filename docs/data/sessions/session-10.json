@@ -1,0 +1,659 @@
+{
+  "id": "session-10",
+  "sessionNumber": 10,
+  "title": "Endocrine System & Types of Hypertrophy",
+  "domain": "Exercise Physiology",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to myofibrillar hypertrophy?",
+      "options": [
+        "Only sarcoplasm increase with no contractile change",
+        "Lung volume only",
+        "Bone lengthening only",
+        "More contractile protein / force capacity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, myofibrillar hypertrophy matters because the key idea is:",
+      "options": [
+        "Bone lengthening only",
+        "Only sarcoplasm increase with no contractile change",
+        "More contractile protein / force capacity",
+        "Lung volume only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about myofibrillar hypertrophy:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Bone lengthening only",
+        "Only sarcoplasm increase with no contractile change",
+        "More contractile protein / force capacity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to sarcoplasmic hypertrophy?",
+      "options": [
+        "Tooth enamel growth",
+        "More non-contractile sarcoplasmic volume emphasis",
+        "Tendon rupture as the goal",
+        "Neuron lengthening only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, sarcoplasmic hypertrophy matters because the key idea is:",
+      "options": [
+        "More non-contractile sarcoplasmic volume emphasis",
+        "Neuron lengthening only",
+        "Tendon rupture as the goal",
+        "Tooth enamel growth"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about sarcoplasmic hypertrophy:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "More non-contractile sarcoplasmic volume emphasis",
+        "Neuron lengthening only",
+        "Tendon rupture as the goal"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to longitudinal hypertrophy?",
+      "options": [
+        "Sarcomeres added in series → longer fibers",
+        "Only fat cell hyperplasia as definition",
+        "Only parallel addition",
+        "Only bone widening"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, longitudinal hypertrophy matters because the key idea is:",
+      "options": [
+        "Only parallel addition",
+        "Only fat cell hyperplasia as definition",
+        "Only bone widening",
+        "Sarcomeres added in series → longer fibers"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about longitudinal hypertrophy:",
+      "options": [
+        "Sarcomeres added in series → longer fibers",
+        "Only bone widening",
+        "Only parallel addition",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to transverse hypertrophy?",
+      "options": [
+        "Only shorter tendons",
+        "Only taller bones",
+        "Only series addition",
+        "Sarcomeres added in parallel → larger diameter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, transverse hypertrophy matters because the key idea is:",
+      "options": [
+        "Only taller bones",
+        "Only shorter tendons",
+        "Sarcomeres added in parallel → larger diameter",
+        "Only series addition"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about transverse hypertrophy:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Only series addition",
+        "Only taller bones",
+        "Sarcomeres added in parallel → larger diameter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to endocrine signaling relevance?",
+      "options": [
+        "Only music matters",
+        "Hormones irrelevant to training",
+        "Only shoes matter",
+        "Hormones influence training adaptation environment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, endocrine signaling relevance matters because the key idea is:",
+      "options": [
+        "Only shoes matter",
+        "Only music matters",
+        "Hormones irrelevant to training",
+        "Hormones influence training adaptation environment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about endocrine signaling relevance:",
+      "options": [
+        "Hormones influence training adaptation environment",
+        "It is unrelated to exercise physiology",
+        "Only shoes matter",
+        "Hormones irrelevant to training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to mechanical tension?",
+      "options": [
+        "Only a nutrition myth",
+        "Key driver for hypertrophy adaptations",
+        "Only a cardio zone",
+        "Irrelevant to growth"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, mechanical tension matters because the key idea is:",
+      "options": [
+        "Only a cardio zone",
+        "Only a nutrition myth",
+        "Irrelevant to growth",
+        "Key driver for hypertrophy adaptations"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about mechanical tension:",
+      "options": [
+        "Irrelevant to growth",
+        "Only a nutrition myth",
+        "Key driver for hypertrophy adaptations",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to stretch-mediated ideas?",
+      "options": [
+        "Loaded lengthened positions can influence adaptation",
+        "Only shortened positions matter",
+        "Length never matters",
+        "ROM should always be tiny"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, stretch-mediated ideas matters because the key idea is:",
+      "options": [
+        "Loaded lengthened positions can influence adaptation",
+        "Only shortened positions matter",
+        "ROM should always be tiny",
+        "Length never matters"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about stretch-mediated ideas:",
+      "options": [
+        "Only shortened positions matter",
+        "It is unrelated to exercise physiology",
+        "Loaded lengthened positions can influence adaptation",
+        "Length never matters"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to training mode bias?",
+      "options": [
+        "All modes identical always",
+        "Mode never matters",
+        "Different emphases can favor different adaptation qualities",
+        "Only supplements decide"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, training mode bias matters because the key idea is:",
+      "options": [
+        "Mode never matters",
+        "Only supplements decide",
+        "All modes identical always",
+        "Different emphases can favor different adaptation qualities"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about training mode bias:",
+      "options": [
+        "Different emphases can favor different adaptation qualities",
+        "It is unrelated to exercise physiology",
+        "Mode never matters",
+        "All modes identical always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to diminishing returns?",
+      "options": [
+        "Progress accelerates forever linearly",
+        "Deloads ruin all gains",
+        "Progress slows over time without smart progression",
+        "Beginners never progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, diminishing returns matters because the key idea is:",
+      "options": [
+        "Deloads ruin all gains",
+        "Beginners never progress",
+        "Progress accelerates forever linearly",
+        "Progress slows over time without smart progression"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about diminishing returns:",
+      "options": [
+        "Beginners never progress",
+        "Progress accelerates forever linearly",
+        "Progress slows over time without smart progression",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to practical hypertrophy coaching?",
+      "options": [
+        "Only sweat volume",
+        "Hard sets, progressive overload, enough protein/sleep",
+        "Only vibes",
+        "Only mirror selfies"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, practical hypertrophy coaching matters because the key idea is:",
+      "options": [
+        "Only mirror selfies",
+        "Hard sets, progressive overload, enough protein/sleep",
+        "Only sweat volume",
+        "Only vibes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about practical hypertrophy coaching:",
+      "options": [
+        "Only vibes",
+        "Hard sets, progressive overload, enough protein/sleep",
+        "It is unrelated to exercise physiology",
+        "Only sweat volume"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: primary coaching application of this topic is to:",
+      "options": [
+        "Avoid assessments",
+        "Ignore client anatomy",
+        "Replace medical care",
+        "Improve safe, effective exercise decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Individualize technique",
+        "Progress gradually",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly",
+        "Combine principles with client context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Pain racing",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Form breaks or risk rises",
+        "Warm-up feels good",
+        "Client improves"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: documentation helps:",
+      "options": [
+        "Track decisions and outcomes",
+        "Avoid planning",
+        "Hide errors",
+        "Create gossip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Unintelligible jargon only",
+        "Overpromising",
+        "Fear-based only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Music changes",
+        "Red-flag symptoms appear",
+        "Sweat appears"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 10: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Skipping diagrams",
+        "Avoiding practice",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 41: sarcoplasmic hypertrophy — correct concept?",
+      "options": [
+        "More non-contractile sarcoplasmic volume emphasis",
+        "Neuron lengthening only",
+        "Tendon rupture as the goal",
+        "Tooth enamel growth"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 42: longitudinal hypertrophy — correct concept?",
+      "options": [
+        "Only fat cell hyperplasia as definition",
+        "Sarcomeres added in series → longer fibers",
+        "Only bone widening",
+        "Only parallel addition"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 43: transverse hypertrophy — correct concept?",
+      "options": [
+        "Only shorter tendons",
+        "Sarcomeres added in parallel → larger diameter",
+        "Only taller bones",
+        "Only series addition"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 44: endocrine signaling relevance — correct concept?",
+      "options": [
+        "Hormones irrelevant to training",
+        "Hormones influence training adaptation environment",
+        "Only shoes matter",
+        "Only music matters"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 45: mechanical tension — correct concept?",
+      "options": [
+        "Irrelevant to growth",
+        "Only a cardio zone",
+        "Only a nutrition myth",
+        "Key driver for hypertrophy adaptations"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 46: stretch-mediated ideas — correct concept?",
+      "options": [
+        "Loaded lengthened positions can influence adaptation",
+        "ROM should always be tiny",
+        "Length never matters",
+        "Only shortened positions matter"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 47: training mode bias — correct concept?",
+      "options": [
+        "Different emphases can favor different adaptation qualities",
+        "Mode never matters",
+        "All modes identical always",
+        "Only supplements decide"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 48: diminishing returns — correct concept?",
+      "options": [
+        "Progress slows over time without smart progression",
+        "Beginners never progress",
+        "Progress accelerates forever linearly",
+        "Deloads ruin all gains"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 49: practical hypertrophy coaching — correct concept?",
+      "options": [
+        "Hard sets, progressive overload, enough protein/sleep",
+        "Only sweat volume",
+        "Only vibes",
+        "Only mirror selfies"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 50: myofibrillar hypertrophy — correct concept?",
+      "options": [
+        "More contractile protein / force capacity",
+        "Lung volume only",
+        "Bone lengthening only",
+        "Only sarcoplasm increase with no contractile change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "session-38",
+  "sessionNumber": 38,
+  "title": "Program Design – Selection, Reps, Rest & Tempo",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to exercise order often?",
+      "options": [
+        "Higher-skill/compound/heavier work earlier while fresh",
+        "Machines only at end forever",
+        "Isolation first always for everyone",
+        "Random order"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, exercise order often matters because the key idea is:",
+      "options": [
+        "Random order",
+        "Higher-skill/compound/heavier work earlier while fresh",
+        "Machines only at end forever",
+        "Isolation first always for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about exercise order often:",
+      "options": [
+        "It is unrelated to program design",
+        "Higher-skill/compound/heavier work earlier while fresh",
+        "Isolation first always for everyone",
+        "Random order"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to rep ranges should match?",
+      "options": [
+        "Ignore proximity to failure",
+        "Goal and load",
+        "Only 100-rep sets",
+        "One range for all goals forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, rep ranges should match matters because the key idea is:",
+      "options": [
+        "One range for all goals forever",
+        "Only 100-rep sets",
+        "Goal and load",
+        "Ignore proximity to failure"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about rep ranges should match:",
+      "options": [
+        "One range for all goals forever",
+        "It is unrelated to program design",
+        "Goal and load",
+        "Ignore proximity to failure"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to rest for heavy strength?",
+      "options": [
+        "Often longer (~2–5+ min)",
+        "Only for yoga",
+        "Always 5 seconds",
+        "Unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, rest for heavy strength matters because the key idea is:",
+      "options": [
+        "Unnecessary",
+        "Only for yoga",
+        "Always 5 seconds",
+        "Often longer (~2–5+ min)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about rest for heavy strength:",
+      "options": [
+        "Always 5 seconds",
+        "Unnecessary",
+        "It is unrelated to program design",
+        "Often longer (~2–5+ min)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to tempo describes?",
+      "options": [
+        "Supplement brand",
+        "Weekly frequency",
+        "Music genre",
+        "Eccentric/pause/concentric timing"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, tempo describes matters because the key idea is:",
+      "options": [
+        "Music genre",
+        "Supplement brand",
+        "Eccentric/pause/concentric timing",
+        "Weekly frequency"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about tempo describes:",
+      "options": [
+        "Eccentric/pause/concentric timing",
+        "Weekly frequency",
+        "It is unrelated to program design",
+        "Music genre"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to variation useful to?",
+      "options": [
+        "Manage fatigue and emphasize qualities",
+        "Collect random moves",
+        "Confuse without plan",
+        "Avoid progressive overload"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, variation useful to matters because the key idea is:",
+      "options": [
+        "Avoid progressive overload",
+        "Manage fatigue and emphasize qualities",
+        "Confuse without plan",
+        "Collect random moves"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about variation useful to:",
+      "options": [
+        "Collect random moves",
+        "Avoid progressive overload",
+        "Manage fatigue and emphasize qualities",
+        "It is unrelated to program design"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to selection prioritizes?",
+      "options": [
+        "Only novelty",
+        "Only virality",
+        "Only pain",
+        "Effective, safe, available movements"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, selection prioritizes matters because the key idea is:",
+      "options": [
+        "Only pain",
+        "Only novelty",
+        "Only virality",
+        "Effective, safe, available movements"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about selection prioritizes:",
+      "options": [
+        "Only novelty",
+        "Only pain",
+        "Effective, safe, available movements",
+        "It is unrelated to program design"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to too little rest between heavy sets?",
+      "options": [
+        "Is required",
+        "Replaces warm-up",
+        "Always improves 1RM acutely",
+        "Can reduce performance quality"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, too little rest between heavy sets matters because the key idea is:",
+      "options": [
+        "Can reduce performance quality",
+        "Always improves 1RM acutely",
+        "Replaces warm-up",
+        "Is required"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about too little rest between heavy sets:",
+      "options": [
+        "Always improves 1RM acutely",
+        "Is required",
+        "It is unrelated to program design",
+        "Can reduce performance quality"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to isolation work often?",
+      "options": [
+        "Always before all compounds for max strength peaking",
+        "Replaces all compounds always",
+        "Is unethical",
+        "Accessories after primaries"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, isolation work often matters because the key idea is:",
+      "options": [
+        "Is unethical",
+        "Accessories after primaries",
+        "Always before all compounds for max strength peaking",
+        "Replaces all compounds always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about isolation work often:",
+      "options": [
+        "Accessories after primaries",
+        "It is unrelated to program design",
+        "Always before all compounds for max strength peaking",
+        "Replaces all compounds always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to unilateral work helps?",
+      "options": [
+        "Address asymmetries/control",
+        "Ignore balance",
+        "Only waste time",
+        "Replace all bilateral forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, unilateral work helps matters because the key idea is:",
+      "options": [
+        "Address asymmetries/control",
+        "Replace all bilateral forever",
+        "Ignore balance",
+        "Only waste time"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about unilateral work helps:",
+      "options": [
+        "Address asymmetries/control",
+        "It is unrelated to program design",
+        "Only waste time",
+        "Replace all bilateral forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 38 takeaway?",
+      "options": [
+        "Guess each session",
+        "Order, reps, rest, tempo are programmable levers",
+        "Ignore goals",
+        "Copy random tempos"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 38 takeaway matters because the key idea is:",
+      "options": [
+        "Copy random tempos",
+        "Guess each session",
+        "Order, reps, rest, tempo are programmable levers",
+        "Ignore goals"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 38 takeaway:",
+      "options": [
+        "Guess each session",
+        "Order, reps, rest, tempo are programmable levers",
+        "Ignore goals",
+        "It is unrelated to program design"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: primary coaching application of this topic is to:",
+      "options": [
+        "Ignore client anatomy",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Replace medical care"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: a common error is to:",
+      "options": [
+        "Individualize technique",
+        "Progress gradually",
+        "Apply one cue to every body identically",
+        "Screen for red flags"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Copy trends blindly",
+        "Combine principles with client context",
+        "Avoid measuring progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Pain racing",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "Client improves",
+        "RPE is appropriate",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Client is dizzy",
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Hide errors"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: client education should be:",
+      "options": [
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Unintelligible jargon only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Sweat appears"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 38: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Avoiding practice",
+        "Skipping diagrams",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: rep ranges should match — correct concept?",
+      "options": [
+        "Ignore proximity to failure",
+        "Only 100-rep sets",
+        "One range for all goals forever",
+        "Goal and load"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: rest for heavy strength — correct concept?",
+      "options": [
+        "Unnecessary",
+        "Only for yoga",
+        "Always 5 seconds",
+        "Often longer (~2–5+ min)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: tempo describes — correct concept?",
+      "options": [
+        "Supplement brand",
+        "Music genre",
+        "Eccentric/pause/concentric timing",
+        "Weekly frequency"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: variation useful to — correct concept?",
+      "options": [
+        "Manage fatigue and emphasize qualities",
+        "Confuse without plan",
+        "Avoid progressive overload",
+        "Collect random moves"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: selection prioritizes — correct concept?",
+      "options": [
+        "Only pain",
+        "Effective, safe, available movements",
+        "Only virality",
+        "Only novelty"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: too little rest between heavy sets — correct concept?",
+      "options": [
+        "Is required",
+        "Can reduce performance quality",
+        "Replaces warm-up",
+        "Always improves 1RM acutely"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: isolation work often — correct concept?",
+      "options": [
+        "Is unethical",
+        "Replaces all compounds always",
+        "Always before all compounds for max strength peaking",
+        "Accessories after primaries"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: unilateral work helps — correct concept?",
+      "options": [
+        "Replace all bilateral forever",
+        "Only waste time",
+        "Ignore balance",
+        "Address asymmetries/control"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 38 takeaway — correct concept?",
+      "options": [
+        "Ignore goals",
+        "Order, reps, rest, tempo are programmable levers",
+        "Guess each session",
+        "Copy random tempos"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: exercise order often — correct concept?",
+      "options": [
+        "Higher-skill/compound/heavier work earlier while fresh",
+        "Machines only at end forever",
+        "Random order",
+        "Isolation first always for everyone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

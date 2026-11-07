@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "program": "Inspire Leadership Academy — Personal Fitness Coach",
+    "source": "Guidebook Finale NOV 2025 (Learners version)",
+    "sessionExamQuestions": 50,
+    "fullExamQuestions": 100,
+    "suggestedPassPercent": 70,
+    "sessionCount": 40
+  },
+  "sessions": [
+    {
+      "id": "session-1",
+      "sessionNumber": 1,
+      "title": "Intro to Professional Personal Fitness Coaching",
+      "domain": "Professional Practice",
+      "questionCount": 50,
+      "file": "sessions/session-01.json"
+    },
+    {
+      "id": "session-2",
+      "sessionNumber": 2,
+      "title": "Functional Anatomy – Skeletal System",
+      "domain": "Functional Anatomy",
+      "questionCount": 50,
+      "file": "sessions/session-02.json"
+    },
+    {
+      "id": "session-3",
+      "sessionNumber": 3,
+      "title": "Functional Anatomy – Articular System",
+      "domain": "Functional Anatomy",
+      "questionCount": 50,
+      "file": "sessions/session-03.json"
+    },
+    {
+      "id": "session-4",
+      "sessionNumber": 4,
+      "title": "Functional Anatomy – Muscular System (Upper)",
+      "domain": "Functional Anatomy",
+      "questionCount": 50,
+      "file": "sessions/session-04.json"
+    },
+    {
+      "id": "session-5",
+      "sessionNumber": 5,
+      "title": "Functional Anatomy – Muscular System (Mid & Lower)",
+      "domain": "Functional Anatomy",
+      "questionCount": 50,
+      "file": "sessions/session-05.json"
+    },
+    {
+      "id": "session-6",
+      "sessionNumber": 6,
+      "title": "Biomechanics",
+      "domain": "Biomechanics",
+      "questionCount": 50,
+      "file": "sessions/session-06.json"
+    },
+    {
+      "id": "session-7",
+      "sessionNumber": 7,
+      "title": "Biomechanics – Continued",
+      "domain": "Biomechanics",
+      "questionCount": 50,
+      "file": "sessions/session-07.json"
+    },
+    {
+      "id": "session-8",
+      "sessionNumber": 8,
+      "title": "Physiology of the Muscular System",
+      "domain": "Exercise Physiology",
+      "questionCount": 50,
+      "file": "sessions/session-08.json"
+    },
+    {
+      "id": "session-9",
+      "sessionNumber": 9,
+      "title": "Physiology of CV, Respiratory & Nervous Systems",
+      "domain": "Exercise Physiology",
+      "questionCount": 50,
+      "file": "sessions/session-09.json"
+    },
+    {
+      "id": "session-10",
+      "sessionNumber": 10,
+      "title": "Endocrine System & Types of Hypertrophy",
+      "domain": "Exercise Physiology",
+      "questionCount": 50,
+      "file": "sessions/session-10.json"
+    },
+    {
+      "id": "session-11",
+      "sessionNumber": 11,
+      "title": "Fatigue, Hypertrophy & Strength Principles",
+      "domain": "Exercise Physiology",
+      "questionCount": 50,
+      "file": "sessions/session-11.json"
+    },
+    {
+      "id": "session-12",
+      "sessionNumber": 12,
+      "title": "Cardiorespiratory Response & Nutrition Intro",
+      "domain": "Exercise Physiology",
+      "questionCount": 50,
+      "file": "sessions/session-12.json"
+    },
+    {
+      "id": "session-13",
+      "sessionNumber": 13,
+      "title": "Nutrition – Macronutrients",
+      "domain": "Nutrition",
+      "questionCount": 50,
+      "file": "sessions/session-13.json"
+    },
+    {
+      "id": "session-14",
+      "sessionNumber": 14,
+      "title": "Nutrition – Micronutrients, Energy Balance & Body Comp",
+      "domain": "Nutrition",
+      "questionCount": 50,
+      "file": "sessions/session-14.json"
+    },
+    {
+      "id": "session-15",
+      "sessionNumber": 15,
+      "title": "Nutrition – Supplements & Doping",
+      "domain": "Nutrition",
+      "questionCount": 50,
+      "file": "sessions/session-15.json"
+    },
+    {
+      "id": "session-16",
+      "sessionNumber": 16,
+      "title": "Evidence-Based Practice",
+      "domain": "Evidence-Based Practice",
+      "questionCount": 50,
+      "file": "sessions/session-16.json"
+    },
+    {
+      "id": "session-17",
+      "sessionNumber": 17,
+      "title": "Coaching for Behavior Change – Foundations",
+      "domain": "Coaching & Behavior Change",
+      "questionCount": 50,
+      "file": "sessions/session-17.json"
+    },
+    {
+      "id": "session-18",
+      "sessionNumber": 18,
+      "title": "Coaching for Behavior Change – Models & MI",
+      "domain": "Coaching & Behavior Change",
+      "questionCount": 50,
+      "file": "sessions/session-18.json"
+    },
+    {
+      "id": "session-19",
+      "sessionNumber": 19,
+      "title": "The Coaching Process in Personal Training",
+      "domain": "Coaching & Behavior Change",
+      "questionCount": 50,
+      "file": "sessions/session-19.json"
+    },
+    {
+      "id": "session-20",
+      "sessionNumber": 20,
+      "title": "Intro to Functional Anatomy Review",
+      "domain": "Functional Anatomy",
+      "questionCount": 50,
+      "file": "sessions/session-20.json"
+    },
+    {
+      "id": "session-21",
+      "sessionNumber": 21,
+      "title": "Exercise Techniques – Squats",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-21.json"
+    },
+    {
+      "id": "session-22",
+      "sessionNumber": 22,
+      "title": "Exercise Techniques – Squat Variations",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-22.json"
+    },
+    {
+      "id": "session-23",
+      "sessionNumber": 23,
+      "title": "Exercise Techniques – Lunges",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-23.json"
+    },
+    {
+      "id": "session-24",
+      "sessionNumber": 24,
+      "title": "Exercise Techniques – Deadlifts",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-24.json"
+    },
+    {
+      "id": "session-25",
+      "sessionNumber": 25,
+      "title": "Exercise Techniques – Hips, Adductors/Abductors & Calves",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-25.json"
+    },
+    {
+      "id": "session-26",
+      "sessionNumber": 26,
+      "title": "Exercise Techniques – Chest",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-26.json"
+    },
+    {
+      "id": "session-27",
+      "sessionNumber": 27,
+      "title": "Exercise Techniques – Shoulders & Triceps",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-27.json"
+    },
+    {
+      "id": "session-28",
+      "sessionNumber": 28,
+      "title": "Exercise Techniques – Back",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-28.json"
+    },
+    {
+      "id": "session-29",
+      "sessionNumber": 29,
+      "title": "Exercise Techniques – Elbow Flexors & Core",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-29.json"
+    },
+    {
+      "id": "session-30",
+      "sessionNumber": 30,
+      "title": "Flexibility Training",
+      "domain": "Exercise Techniques",
+      "questionCount": 50,
+      "file": "sessions/session-30.json"
+    },
+    {
+      "id": "session-31",
+      "sessionNumber": 31,
+      "title": "Fitness Assessment – Foundations",
+      "domain": "Fitness Assessment",
+      "questionCount": 50,
+      "file": "sessions/session-31.json"
+    },
+    {
+      "id": "session-32",
+      "sessionNumber": 32,
+      "title": "Fitness Assessment – Body Comp, Strength & Endurance",
+      "domain": "Fitness Assessment",
+      "questionCount": 50,
+      "file": "sessions/session-32.json"
+    },
+    {
+      "id": "session-33",
+      "sessionNumber": 33,
+      "title": "Fitness Assessment – Cardio & Case Applications",
+      "domain": "Fitness Assessment",
+      "questionCount": 50,
+      "file": "sessions/session-33.json"
+    },
+    {
+      "id": "session-34",
+      "sessionNumber": 34,
+      "title": "Introduction to Strength & Conditioning",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-34.json"
+    },
+    {
+      "id": "session-35",
+      "sessionNumber": 35,
+      "title": "Program Design – Training Principles",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-35.json"
+    },
+    {
+      "id": "session-36",
+      "sessionNumber": 36,
+      "title": "Program Design – Intensity & Volume",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-36.json"
+    },
+    {
+      "id": "session-37",
+      "sessionNumber": 37,
+      "title": "Program Design – Frequency & Cases",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-37.json"
+    },
+    {
+      "id": "session-38",
+      "sessionNumber": 38,
+      "title": "Program Design – Selection, Reps, Rest & Tempo",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-38.json"
+    },
+    {
+      "id": "session-39",
+      "sessionNumber": 39,
+      "title": "Program Design – Periodization & Systems",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-39.json"
+    },
+    {
+      "id": "session-40",
+      "sessionNumber": 40,
+      "title": "Program Design – Cardiovascular Training",
+      "domain": "Program Design",
+      "questionCount": 50,
+      "file": "sessions/session-40.json"
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "session-30",
+  "sessionNumber": 30,
+  "title": "Flexibility Training",
+  "domain": "Exercise Techniques",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to static stretching best used?",
+      "options": [
+        "When flexibility is a goal; often after warm-up/training as appropriate",
+        "Replaces all strength training",
+        "Only underwater breath-holds",
+        "Only pre-max power as sole warm-up"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, static stretching best used matters because the key idea is:",
+      "options": [
+        "When flexibility is a goal; often after warm-up/training as appropriate",
+        "Only underwater breath-holds",
+        "Replaces all strength training",
+        "Only pre-max power as sole warm-up"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about static stretching best used:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "When flexibility is a goal; often after warm-up/training as appropriate",
+        "Replaces all strength training",
+        "Only pre-max power as sole warm-up"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to dynamic stretching useful?",
+      "options": [
+        "Instead of all protein",
+        "Only during sleep",
+        "As warm-up movement prep",
+        "As only max strength method"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, dynamic stretching useful matters because the key idea is:",
+      "options": [
+        "Instead of all protein",
+        "As warm-up movement prep",
+        "As only max strength method",
+        "Only during sleep"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about dynamic stretching useful:",
+      "options": [
+        "As only max strength method",
+        "As warm-up movement prep",
+        "Instead of all protein",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to PNF concepts involve?",
+      "options": [
+        "Only bouncing ballistic always for novices into pain",
+        "No client communication",
+        "Ignoring tolerance",
+        "Contract-relax style ROM strategies (as taught)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, PNF concepts involve matters because the key idea is:",
+      "options": [
+        "No client communication",
+        "Only bouncing ballistic always for novices into pain",
+        "Contract-relax style ROM strategies (as taught)",
+        "Ignoring tolerance"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about PNF concepts involve:",
+      "options": [
+        "No client communication",
+        "Contract-relax style ROM strategies (as taught)",
+        "It is unrelated to exercise techniques",
+        "Only bouncing ballistic always for novices into pain"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to flexibility benefits may include?",
+      "options": [
+        "Curing all disease",
+        "Guaranteed hypertrophy alone",
+        "Replacing sleep",
+        "Access to needed ROM for tasks/lifts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, flexibility benefits may include matters because the key idea is:",
+      "options": [
+        "Access to needed ROM for tasks/lifts",
+        "Guaranteed hypertrophy alone",
+        "Curing all disease",
+        "Replacing sleep"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about flexibility benefits may include:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Replacing sleep",
+        "Guaranteed hypertrophy alone",
+        "Access to needed ROM for tasks/lifts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to stretch intensity should be?",
+      "options": [
+        "Zero sensation always",
+        "Random max force",
+        "Into sharp joint pain always",
+        "Challenging but not sharp-pain forcing"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, stretch intensity should be matters because the key idea is:",
+      "options": [
+        "Into sharp joint pain always",
+        "Zero sensation always",
+        "Random max force",
+        "Challenging but not sharp-pain forcing"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about stretch intensity should be:",
+      "options": [
+        "Zero sensation always",
+        "Into sharp joint pain always",
+        "It is unrelated to exercise techniques",
+        "Challenging but not sharp-pain forcing"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to breathing during stretches?",
+      "options": [
+        "Irrelevant",
+        "Must be apnea only",
+        "Causes bone growth instantly",
+        "Helps relaxation and tolerance"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, breathing during stretches matters because the key idea is:",
+      "options": [
+        "Causes bone growth instantly",
+        "Helps relaxation and tolerance",
+        "Must be apnea only",
+        "Irrelevant"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about breathing during stretches:",
+      "options": [
+        "Irrelevant",
+        "It is unrelated to exercise techniques",
+        "Helps relaxation and tolerance",
+        "Must be apnea only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to mobility vs long passive holds?",
+      "options": [
+        "Neither exists",
+        "One forbids the other forever",
+        "Identical always",
+        "Different tools for different needs"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, mobility vs long passive holds matters because the key idea is:",
+      "options": [
+        "One forbids the other forever",
+        "Identical always",
+        "Neither exists",
+        "Different tools for different needs"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about mobility vs long passive holds:",
+      "options": [
+        "Identical always",
+        "One forbids the other forever",
+        "Different tools for different needs",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to pre-power caution?",
+      "options": [
+        "Long static holds may reduce acute power for some tasks",
+        "Static always boosts 1RM instantly",
+        "Always stretch 30 min pre-max",
+        "Never warm up"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, pre-power caution matters because the key idea is:",
+      "options": [
+        "Long static holds may reduce acute power for some tasks",
+        "Never warm up",
+        "Static always boosts 1RM instantly",
+        "Always stretch 30 min pre-max"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about pre-power caution:",
+      "options": [
+        "Never warm up",
+        "Long static holds may reduce acute power for some tasks",
+        "It is unrelated to exercise techniques",
+        "Static always boosts 1RM instantly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to program flexibility when?",
+      "options": [
+        "Never",
+        "Only if bored",
+        "Instead of all training",
+        "Assessment shows need or sport/task demands it"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, program flexibility when matters because the key idea is:",
+      "options": [
+        "Assessment shows need or sport/task demands it",
+        "Never",
+        "Instead of all training",
+        "Only if bored"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about program flexibility when:",
+      "options": [
+        "Assessment shows need or sport/task demands it",
+        "Never",
+        "It is unrelated to exercise techniques",
+        "Only if bored"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to session 30 takeaway?",
+      "options": [
+        "Replace strength with only stretching",
+        "Stretch with purpose, timing, and technique",
+        "Random painful yanking",
+        "Skip all ROM work always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, session 30 takeaway matters because the key idea is:",
+      "options": [
+        "Stretch with purpose, timing, and technique",
+        "Replace strength with only stretching",
+        "Skip all ROM work always",
+        "Random painful yanking"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about session 30 takeaway:",
+      "options": [
+        "Stretch with purpose, timing, and technique",
+        "Skip all ROM work always",
+        "Random painful yanking",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: primary coaching application of this topic is to:",
+      "options": [
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Replace medical care",
+        "Ignore client anatomy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Progress gradually",
+        "Apply one cue to every body identically",
+        "Individualize technique"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: evidence-informed coaches should:",
+      "options": [
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Combine principles with client context",
+        "Avoid measuring progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Pain racing",
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: regress an exercise when:",
+      "options": [
+        "Form breaks or risk rises",
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Client improves"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Screening failed"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Avoid planning"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: client education should be:",
+      "options": [
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Overpromising"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: safety stop is required when:",
+      "options": [
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Sweat appears",
+        "Music changes"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 30: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Skipping diagrams",
+        "One passive skim",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 41: dynamic stretching useful — correct concept?",
+      "options": [
+        "Instead of all protein",
+        "As warm-up movement prep",
+        "As only max strength method",
+        "Only during sleep"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 42: PNF concepts involve — correct concept?",
+      "options": [
+        "No client communication",
+        "Contract-relax style ROM strategies (as taught)",
+        "Ignoring tolerance",
+        "Only bouncing ballistic always for novices into pain"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 43: flexibility benefits may include — correct concept?",
+      "options": [
+        "Replacing sleep",
+        "Access to needed ROM for tasks/lifts",
+        "Guaranteed hypertrophy alone",
+        "Curing all disease"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 44: stretch intensity should be — correct concept?",
+      "options": [
+        "Into sharp joint pain always",
+        "Random max force",
+        "Challenging but not sharp-pain forcing",
+        "Zero sensation always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 45: breathing during stretches — correct concept?",
+      "options": [
+        "Helps relaxation and tolerance",
+        "Must be apnea only",
+        "Causes bone growth instantly",
+        "Irrelevant"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 46: mobility vs long passive holds — correct concept?",
+      "options": [
+        "One forbids the other forever",
+        "Neither exists",
+        "Identical always",
+        "Different tools for different needs"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 47: pre-power caution — correct concept?",
+      "options": [
+        "Always stretch 30 min pre-max",
+        "Never warm up",
+        "Long static holds may reduce acute power for some tasks",
+        "Static always boosts 1RM instantly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 48: program flexibility when — correct concept?",
+      "options": [
+        "Only if bored",
+        "Instead of all training",
+        "Never",
+        "Assessment shows need or sport/task demands it"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 49: session 30 takeaway — correct concept?",
+      "options": [
+        "Random painful yanking",
+        "Replace strength with only stretching",
+        "Skip all ROM work always",
+        "Stretch with purpose, timing, and technique"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 50: static stretching best used — correct concept?",
+      "options": [
+        "Only underwater breath-holds",
+        "Only pre-max power as sole warm-up",
+        "Replaces all strength training",
+        "When flexibility is a goal; often after warm-up/training as appropriate"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

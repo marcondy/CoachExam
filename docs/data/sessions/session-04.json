@@ -1,0 +1,659 @@
+{
+  "id": "session-4",
+  "sessionNumber": 4,
+  "title": "Functional Anatomy – Muscular System (Upper)",
+  "domain": "Functional Anatomy",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Functional Anatomy",
+      "question": "Origin is typically:",
+      "options": [
+        "More distal/mobile always",
+        "Only on feet",
+        "Identical to insertion",
+        "More proximal/stable attachment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Insertion is typically:",
+      "options": [
+        "Same as origin always",
+        "Always axial only",
+        "Never on limbs",
+        "More distal/mobile attachment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Agonist is the:",
+      "options": [
+        "Only nerve",
+        "Prime mover",
+        "Only antagonist",
+        "Only bone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Antagonist:",
+      "options": [
+        "Is a plane",
+        "Always the agonist",
+        "Is a vitamin",
+        "Opposes the agonist"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Synergist:",
+      "options": [
+        "Only inhibits all motion",
+        "Assists the agonist",
+        "Is %1RM",
+        "Is a skinfold site"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Fixator/stabilizer:",
+      "options": [
+        "Supports a segment so movers can work",
+        "Stores fat only",
+        "Only shortens bone",
+        "Measures RPE"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pectoralis major contributes to:",
+      "options": [
+        "Knee flexion",
+        "Horizontal adduction/pressing",
+        "Wrist extension only",
+        "Plantarflexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Deltoid contributes to:",
+      "options": [
+        "Finger flexion",
+        "Spinal flexion only",
+        "Ankle eversion only",
+        "Shoulder abduction and fiber-specific actions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Rotator cuff mainly:",
+      "options": [
+        "Flexes knee",
+        "Plantarflexes",
+        "Extends lumbar spine",
+        "Stabilizes GH and controls humeral head"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Latissimus dorsi contributes to:",
+      "options": [
+        "Only neck protraction",
+        "Only ankle DF",
+        "Only wrist RD",
+        "Shoulder extension/adduction (pull patterns)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Trapezius assists:",
+      "options": [
+        "Only chewing",
+        "Only toe flexion",
+        "Only hip IR",
+        "Scapular positioning/upper-back actions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Rhomboids mainly:",
+      "options": [
+        "Plantarflex",
+        "Flex the elbow as prime",
+        "Retract/stabilize scapula",
+        "Extend the knee"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Serratus anterior helps:",
+      "options": [
+        "Only knee extension",
+        "Scapular protraction/upward rotation support",
+        "Only plantarflexion",
+        "Only wrist flexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pectoralis minor can:",
+      "options": [
+        "Be a hamstring",
+        "Be a wrist-extensor prime",
+        "Influence scapular position",
+        "Be a calf"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Triceps brachii primarily:",
+      "options": [
+        "Flexes hip",
+        "Dorsiflexes",
+        "Extends the elbow",
+        "Flexes the elbow as prime"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Biceps brachii primarily:",
+      "options": [
+        "Plantarflexes",
+        "Flexes elbow and contributes to supination",
+        "Extends elbow as prime",
+        "Abducts hip"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Brachialis is a strong:",
+      "options": [
+        "Knee extensor",
+        "Ankle everter",
+        "Elbow flexor",
+        "Wrist ulnar-deviator only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Levator scapulae mainly:",
+      "options": [
+        "Extends knee",
+        "Elevates scapula / contributes cervically",
+        "Plantarflexes",
+        "Flexes hip"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Teres major assists:",
+      "options": [
+        "Only finger abduction",
+        "Only ankle PF",
+        "Only jaw close",
+        "Shoulder extension/adduction/IR patterns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Concentric action means:",
+      "options": [
+        "Muscle shortens under tension",
+        "No tension",
+        "Bone shortens",
+        "Only lengthens"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Eccentric action means:",
+      "options": [
+        "Only isometric",
+        "No control",
+        "Muscle lengthens under tension",
+        "Only shortens"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Isometric means:",
+      "options": [
+        "No neural drive",
+        "Always shortening",
+        "Tension without length change",
+        "Always lengthening"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Upper-trap dominance often relates to:",
+      "options": [
+        "Only skinfolds",
+        "Scapular control imbalances",
+        "Only calf tightness",
+        "Only macros"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Cuff endurance matters because:",
+      "options": [
+        "GH needs dynamic stability under load",
+        "It sets BMR alone",
+        "It replaces legs",
+        "It measures VO2 alone"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pressing without scapular control may:",
+      "options": [
+        "Set CE credits",
+        "Increase shoulder stress",
+        "Fix doping",
+        "Improve ethics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Horizontal pulls train:",
+      "options": [
+        "Only wrist extensors",
+        "Only plantarflexors",
+        "Upper-back retractors and related musculature",
+        "Only hip flexors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Vertical pulls emphasize:",
+      "options": [
+        "Lat-dominant extension/adduction patterns",
+        "Only ankle DF",
+        "Only knee extension",
+        "Only neck flexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Fly patterns emphasize:",
+      "options": [
+        "Only plantarflexion",
+        "Horizontal adduction demands",
+        "Only finger flexion",
+        "Only lumbar extension"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Elbow-flexor strength supports:",
+      "options": [
+        "Only ankle stability",
+        "Only hearing",
+        "Pulling and carrying tasks",
+        "Only vision"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Elbow-extensor strength supports:",
+      "options": [
+        "Only toe spread",
+        "Only jaw open",
+        "Only blinking",
+        "Pressing lockout and pushing tasks"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Scapular upward rotation supports:",
+      "options": [
+        "Overhead arm elevation",
+        "Only plantarflexion",
+        "Only knee valgus",
+        "Only wrist flexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Scapular downward rotation accompanies:",
+      "options": [
+        "Only sweating",
+        "Only smiling",
+        "Arm lowering / certain pull patterns",
+        "Only digestion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Anterior delt often assists:",
+      "options": [
+        "Only hip extension",
+        "Only knee flexion",
+        "Only ankle PF",
+        "Flexion/pressing components"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Posterior delt often assists:",
+      "options": [
+        "Only wrist curls",
+        "Only crunching",
+        "Horizontal abduction / row finishes",
+        "Only calf raise"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Medial delt is key in:",
+      "options": [
+        "Only biting",
+        "Abduction / lateral-raise patterns",
+        "Only ankle inversion",
+        "Only hip adduction"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Subscapularis mainly supports:",
+      "options": [
+        "Internal rotation / GH stability",
+        "Plantarflexion",
+        "Knee extension",
+        "Wrist RD"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Infraspinatus/teres minor contribute to:",
+      "options": [
+        "Ankle eversion only",
+        "Finger abduction only",
+        "Hip flexion only",
+        "External rotation / GH support"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Supraspinatus assists:",
+      "options": [
+        "Only lumbar flexion",
+        "Only plantarflexion",
+        "Only jaw motion",
+        "Early abduction / GH support"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Muscle roles can change with:",
+      "options": [
+        "Only music tempo",
+        "Only shoe color",
+        "Exercise variation and intent",
+        "Never changing"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Origin/insertion knowledge helps:",
+      "options": [
+        "Set tax rates",
+        "Predict action and coach form",
+        "Prescribe drugs",
+        "Read labs as an MD"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "A synergist in elbow flexion can be:",
+      "options": [
+        "Brachioradialis assisting biceps/brachialis",
+        "Tibialis anterior",
+        "Glute max as elbow flexor",
+        "Soleus"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Antagonist to elbow flexion is primarily:",
+      "options": [
+        "Gastrocnemius",
+        "Rhomboids",
+        "Triceps",
+        "Iliopsoas"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Shoulder-extension agonists include:",
+      "options": [
+        "Latissimus/teres major patterns",
+        "Tibialis anterior only",
+        "Vastus medialis only",
+        "Opponens pollicis only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Scapular retractors include:",
+      "options": [
+        "Masseter only",
+        "Iliacus only",
+        "Peroneals only",
+        "Rhomboids/mid-trap contributions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Upper-body pressing needs:",
+      "options": [
+        "Only finger flexion",
+        "Only neck protraction",
+        "Only ankle DF",
+        "Trunk/scapular support as well as prime movers"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Overhead positions demand:",
+      "options": [
+        "Only max bouncing",
+        "Zero control",
+        "No warm-up ever",
+        "Mobility plus stability through the shoulder complex"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Row cue 'pack the shoulder' aims at:",
+      "options": [
+        "Wrist flop",
+        "Elbow hyperextension only",
+        "Controlled scapular mechanics",
+        "Knee valgus"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Chest vs shoulder emphasis changes with:",
+      "options": [
+        "Only sock height",
+        "Only mirror size",
+        "Elbow path/angle and setup",
+        "Only protein brand"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Learning upper-muscle actions supports:",
+      "options": [
+        "Random pain chasing",
+        "Skipping anatomy",
+        "Ignoring technique",
+        "Exercise selection and cueing"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Best upper-body anatomy takeaway:",
+      "options": [
+        "Link attachments to joint actions for coaching",
+        "Skip platform videos",
+        "Memorize only jokes",
+        "Avoid all diagrams"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "id": "session-5",
+  "sessionNumber": 5,
+  "title": "Functional Anatomy – Muscular System (Mid & Lower)",
+  "domain": "Functional Anatomy",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Functional Anatomy",
+      "question": "Gluteus maximus primarily:",
+      "options": [
+        "Elevates scapula",
+        "Flexes wrist",
+        "Extends the hip",
+        "Dorsiflexes ankle"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Iliopsoas primarily:",
+      "options": [
+        "Plantarflexes",
+        "Extends the knee as sole action",
+        "Flexes the hip",
+        "Retracts scapula"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quadriceps primarily:",
+      "options": [
+        "Ulnar deviate",
+        "Plantarflex",
+        "Extend the knee",
+        "Flex the knee as prime movers"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hamstrings primarily:",
+      "options": [
+        "Only shrug",
+        "Only extend the wrist",
+        "Only dorsiflex",
+        "Flex the knee and extend the hip"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Adductors primarily:",
+      "options": [
+        "Flex the neck only",
+        "Adduct the hip",
+        "Abduct the shoulder",
+        "Extend the elbow"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Glute medius contributes to:",
+      "options": [
+        "Jaw closing",
+        "Wrist flexion",
+        "Hip abduction / pelvic control in stance",
+        "Elbow extension"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Piriformis relates to:",
+      "options": [
+        "Wrist RD as prime",
+        "Ankle DF as prime",
+        "Finger abduction as prime",
+        "Deep hip external-rotation region"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Gastrocnemius:",
+      "options": [
+        "Only shrugs",
+        "Only flexes the elbow",
+        "Only dorsiflexes",
+        "Plantarflexes and crosses the knee"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Soleus:",
+      "options": [
+        "Plantarflexes; more emphasized knee-flexed",
+        "Only extends the knee",
+        "Only retracts scapula",
+        "Only flexes the hip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Tibialis anterior:",
+      "options": [
+        "Dorsiflexes the ankle",
+        "Plantarflexes as prime",
+        "Flexes the elbow",
+        "Extends the hip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Peroneus longus assists:",
+      "options": [
+        "Eversion / lateral foot control",
+        "Only shoulder press",
+        "Only neck flexion",
+        "Only hip flexion"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Rectus abdominis:",
+      "options": [
+        "Flexes the trunk",
+        "Extends the trunk as prime",
+        "Plantarflexes",
+        "Abducts the hip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Transverse abdominis:",
+      "options": [
+        "Primes ankle PF",
+        "Primes knee extension",
+        "Primes wrist extension",
+        "Provides deep corset-like stabilization"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Obliques contribute to:",
+      "options": [
+        "Only jaw opening",
+        "Only finger flexion",
+        "Rotation/side-bend and trunk control",
+        "Only plantarflexion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Erector spinae:",
+      "options": [
+        "Only dorsiflex",
+        "Only shrug as sole role",
+        "Extend/stabilize the spine",
+        "Only flex the wrist"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Quadratus lumborum contributes to:",
+      "options": [
+        "Only ankle DF",
+        "Only biting",
+        "Frontal-plane trunk/pelvic control",
+        "Only elbow flexion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "TFL relates to:",
+      "options": [
+        "Only wrist RD",
+        "Only eye tracking",
+        "Only finger opposition",
+        "Hip region / IT-band force-couple contexts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Sartorius is:",
+      "options": [
+        "A rotator cuff only",
+        "A wrist extensor only",
+        "A long multi-joint thigh muscle",
+        "A calf only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Gracilis is:",
+      "options": [
+        "Only a cuff IR",
+        "An adductor/medial thigh contributor",
+        "The sole plantarflexor",
+        "An upper-trap prime"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pectineus contributes to:",
+      "options": [
+        "Only elbow extension",
+        "Hip flexion/adduction region",
+        "Only scapular upward rotation",
+        "Only ankle eversion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip-extension training often uses:",
+      "options": [
+        "Only wrist curls",
+        "Only neck bridges",
+        "Only finger spreads",
+        "Hinge/thrust patterns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Knee-extension training often uses:",
+      "options": [
+        "Only calf raises",
+        "Squat/lunge/leg-extension patterns",
+        "Only curls",
+        "Only shrugs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Knee-flexion training often uses:",
+      "options": [
+        "Only lateral raises",
+        "Only flyes",
+        "Only neck flexion",
+        "Leg-curl/hinge accessories"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Anti-extension core work resists:",
+      "options": [
+        "Only ankle DF",
+        "Only smiling",
+        "Only wrist flexion",
+        "Lumbar extension collapse"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Anti-rotation core work resists:",
+      "options": [
+        "Only chewing",
+        "Only plantarflexion",
+        "Twisting",
+        "Only knee extension"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Single-leg stance needs:",
+      "options": [
+        "Lateral hip complex support",
+        "Only biceps",
+        "Only wrist extensors",
+        "Only masseter"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Nordic curls challenge:",
+      "options": [
+        "Only easy concentric calves",
+        "Hamstrings eccentrically",
+        "Only neck",
+        "Only wrists"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Calf raises emphasize:",
+      "options": [
+        "Elbow flexors only",
+        "Plantarflexors",
+        "Hip flexors only",
+        "Rhomboids only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip-abduction work trains:",
+      "options": [
+        "Only jaw",
+        "Only deep neck flexors",
+        "Lateral hip musculature",
+        "Only finger flexors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip-adduction work targets:",
+      "options": [
+        "Only upper traps",
+        "Medial thigh adductors",
+        "Only plantarflexors",
+        "Only wrist UD"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lower-body O/I knowledge helps:",
+      "options": [
+        "Read MRIs as radiologist",
+        "Prescribe meds",
+        "Set taxes",
+        "Predict action and exercise bias"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Rectus femoris is unique among quads because it:",
+      "options": [
+        "Does nothing at the knee",
+        "Only plantarflexes",
+        "Only shrugs",
+        "Also crosses the hip"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Vastus muscles primarily:",
+      "options": [
+        "Flex the elbow",
+        "Retract scapula",
+        "Extend the knee",
+        "Dorsiflex ankle"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Biceps femoris is a:",
+      "options": [
+        "Wrist extensor",
+        "Deep neck flexor",
+        "Hamstring contributor",
+        "Rotator cuff muscle"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Semitendinosus/semimembranosus are:",
+      "options": [
+        "Cuff only",
+        "Medial hamstrings",
+        "Calves only",
+        "Forearm only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Adductor magnus can contribute to:",
+      "options": [
+        "Only eye blink",
+        "Adduction and some extension roles",
+        "Only scapular tilt",
+        "Only wrist flexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Foot intrinsics matter for:",
+      "options": [
+        "Bench lockout only",
+        "Local foot control/arch support contexts",
+        "Neck flexion only",
+        "Jaw power only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Tibialis posterior supports:",
+      "options": [
+        "Elbow extension only",
+        "Medial foot control / inversion contributions",
+        "Hip abduction only",
+        "Shoulder ER only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lower-body coaching should connect:",
+      "options": [
+        "Only brand → ROM",
+        "Only music → sweat",
+        "Anatomy → joint action → technique",
+        "Only color → load"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Trunk stiffness under load aids:",
+      "options": [
+        "Finger abduction only",
+        "Ear mobility only",
+        "Taste acuity",
+        "Force transfer and spinal support"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip-hinge pattern trains:",
+      "options": [
+        "Only neck",
+        "Only wrist",
+        "Posterior-chain emphasis",
+        "Only anterior tibialis"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Squat pattern trains:",
+      "options": [
+        "Only eye muscles",
+        "Only jaw",
+        "Only finger flexors",
+        "Coordinated knee/hip extensors"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lunge pattern challenges:",
+      "options": [
+        "Only typing speed",
+        "Only smelling",
+        "Only singing",
+        "Single-leg strength and frontal control"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bridge vs thrust often differs by:",
+      "options": [
+        "ROM/setup (floor vs bench-supported)",
+        "Only neck focus",
+        "No glute involvement",
+        "Identical setups always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Deep core vs superficial abs:",
+      "options": [
+        "Different stabilization vs motion roles",
+        "Only calves",
+        "Neither exists",
+        "Identical always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Erector fatigue in hinges can limit:",
+      "options": [
+        "Hair length",
+        "Shoe size",
+        "Eye color",
+        "Safe set quality"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Adductor strength supports:",
+      "options": [
+        "Only wrist RD",
+        "Only neck protraction",
+        "Only snatch grip width forever",
+        "Change-of-direction and stance stability"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Calf training may use:",
+      "options": [
+        "Straight-knee vs bent-knee emphasis shifts",
+        "Only shrugs",
+        "Only jaw clenches",
+        "Only arm circles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lower-limb anatomy literacy improves:",
+      "options": [
+        "Surgical decisions",
+        "Regression/progression choices",
+        "Drug prescriptions",
+        "Tax filings"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Best mid/lower takeaway:",
+      "options": [
+        "Memorize jokes only",
+        "Skip all diagrams",
+        "Map muscles to hip/knee/ankle/trunk actions",
+        "Avoid practicals"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

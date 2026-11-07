@@ -1,0 +1,659 @@
+{
+  "id": "session-28",
+  "sessionNumber": 28,
+  "title": "Exercise Techniques – Back",
+  "domain": "Exercise Techniques",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to lat pulldown pattern?",
+      "options": [
+        "Wrist RD exclusively",
+        "Shoulder extension/adduction involving lats",
+        "Only gastroc",
+        "Ankle invertors"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, lat pulldown pattern matters because the key idea is:",
+      "options": [
+        "Only gastroc",
+        "Ankle invertors",
+        "Wrist RD exclusively",
+        "Shoulder extension/adduction involving lats"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about lat pulldown pattern:",
+      "options": [
+        "Shoulder extension/adduction involving lats",
+        "Only gastroc",
+        "It is unrelated to exercise techniques",
+        "Ankle invertors"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to row pattern?",
+      "options": [
+        "Spinal hyperflexion under max load for beginners",
+        "Only ankle inversion",
+        "Horizontal pull / scapular retraction emphasis",
+        "Finger abduction only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, row pattern matters because the key idea is:",
+      "options": [
+        "Spinal hyperflexion under max load for beginners",
+        "Only ankle inversion",
+        "Finger abduction only",
+        "Horizontal pull / scapular retraction emphasis"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about row pattern:",
+      "options": [
+        "Only ankle inversion",
+        "Horizontal pull / scapular retraction emphasis",
+        "It is unrelated to exercise techniques",
+        "Spinal hyperflexion under max load for beginners"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to neutral spine in pulls?",
+      "options": [
+        "Round hard under max as standard for novices",
+        "Ignore trunk",
+        "Hold breath forever",
+        "Protects and transfers force"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, neutral spine in pulls matters because the key idea is:",
+      "options": [
+        "Round hard under max as standard for novices",
+        "Protects and transfers force",
+        "Ignore trunk",
+        "Hold breath forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about neutral spine in pulls:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Protects and transfers force",
+        "Round hard under max as standard for novices",
+        "Ignore trunk"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to elbow flexors assist?",
+      "options": [
+        "Only calf raises",
+        "Only jaw",
+        "Many pulling variations",
+        "Only neck flexion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, elbow flexors assist matters because the key idea is:",
+      "options": [
+        "Only jaw",
+        "Many pulling variations",
+        "Only calf raises",
+        "Only neck flexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about elbow flexors assist:",
+      "options": [
+        "Many pulling variations",
+        "Only neck flexion",
+        "Only calf raises",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to grip width changes?",
+      "options": [
+        "Lat vs upper-back emphasis trends",
+        "Ethics",
+        "Nothing",
+        "Blood type"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, grip width changes matters because the key idea is:",
+      "options": [
+        "Blood type",
+        "Ethics",
+        "Nothing",
+        "Lat vs upper-back emphasis trends"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about grip width changes:",
+      "options": [
+        "Lat vs upper-back emphasis trends",
+        "Nothing",
+        "Ethics",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to scapular depression/pack cues?",
+      "options": [
+        "Improve control in pulldowns/rows",
+        "No cues",
+        "Loose shoulders always",
+        "Shrug into ears every rep as goal"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, scapular depression/pack cues matters because the key idea is:",
+      "options": [
+        "Loose shoulders always",
+        "Shrug into ears every rep as goal",
+        "Improve control in pulldowns/rows",
+        "No cues"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about scapular depression/pack cues:",
+      "options": [
+        "Shrug into ears every rep as goal",
+        "Loose shoulders always",
+        "It is unrelated to exercise techniques",
+        "Improve control in pulldowns/rows"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to chest-supported row helps?",
+      "options": [
+        "Reduce cheating via momentum/torso swing",
+        "Increase lumbar yanking",
+        "Train only wrists",
+        "Remove back training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, chest-supported row helps matters because the key idea is:",
+      "options": [
+        "Reduce cheating via momentum/torso swing",
+        "Train only wrists",
+        "Increase lumbar yanking",
+        "Remove back training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about chest-supported row helps:",
+      "options": [
+        "Increase lumbar yanking",
+        "Remove back training",
+        "Reduce cheating via momentum/torso swing",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to formative review focus?",
+      "options": [
+        "Max swing",
+        "Ignore safety",
+        "Prior upper-body press quality + back coaching",
+        "Filters only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, formative review focus matters because the key idea is:",
+      "options": [
+        "Prior upper-body press quality + back coaching",
+        "Ignore safety",
+        "Filters only",
+        "Max swing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about formative review focus:",
+      "options": [
+        "Ignore safety",
+        "Filters only",
+        "Prior upper-body press quality + back coaching",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to pulling balance vs pressing?",
+      "options": [
+        "Program both for shoulder health/performance",
+        "Only pull forever",
+        "Neither needed",
+        "Only press forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, pulling balance vs pressing matters because the key idea is:",
+      "options": [
+        "Only pull forever",
+        "Neither needed",
+        "Only press forever",
+        "Program both for shoulder health/performance"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about pulling balance vs pressing:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Only pull forever",
+        "Program both for shoulder health/performance",
+        "Only press forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to session 28 takeaway?",
+      "options": [
+        "Ignore scapula",
+        "Back training blends vertical/horizontal pulls with control",
+        "Max momentum",
+        "Skip elbow flexors"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, session 28 takeaway matters because the key idea is:",
+      "options": [
+        "Max momentum",
+        "Back training blends vertical/horizontal pulls with control",
+        "Skip elbow flexors",
+        "Ignore scapula"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about session 28 takeaway:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Back training blends vertical/horizontal pulls with control",
+        "Ignore scapula",
+        "Max momentum"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Apply one cue to every body identically",
+        "Individualize technique",
+        "Screen for red flags"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Avoid measuring progress",
+        "Ignore feedback",
+        "Copy trends blindly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: before loading advanced variations, first ensure:",
+      "options": [
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics",
+        "Max instability",
+        "Pain racing"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: documentation helps:",
+      "options": [
+        "Create gossip",
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: client education should be:",
+      "options": [
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Overpromising"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Red-flag symptoms appear",
+        "Sweat appears",
+        "Music changes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 28: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Skipping diagrams",
+        "One passive skim",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 41: row pattern — correct concept?",
+      "options": [
+        "Spinal hyperflexion under max load for beginners",
+        "Finger abduction only",
+        "Only ankle inversion",
+        "Horizontal pull / scapular retraction emphasis"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 42: neutral spine in pulls — correct concept?",
+      "options": [
+        "Protects and transfers force",
+        "Round hard under max as standard for novices",
+        "Ignore trunk",
+        "Hold breath forever"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 43: elbow flexors assist — correct concept?",
+      "options": [
+        "Only neck flexion",
+        "Many pulling variations",
+        "Only calf raises",
+        "Only jaw"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 44: grip width changes — correct concept?",
+      "options": [
+        "Nothing",
+        "Lat vs upper-back emphasis trends",
+        "Blood type",
+        "Ethics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 45: scapular depression/pack cues — correct concept?",
+      "options": [
+        "Shrug into ears every rep as goal",
+        "No cues",
+        "Improve control in pulldowns/rows",
+        "Loose shoulders always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 46: chest-supported row helps — correct concept?",
+      "options": [
+        "Remove back training",
+        "Train only wrists",
+        "Reduce cheating via momentum/torso swing",
+        "Increase lumbar yanking"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 47: formative review focus — correct concept?",
+      "options": [
+        "Max swing",
+        "Ignore safety",
+        "Prior upper-body press quality + back coaching",
+        "Filters only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 48: pulling balance vs pressing — correct concept?",
+      "options": [
+        "Program both for shoulder health/performance",
+        "Only pull forever",
+        "Only press forever",
+        "Neither needed"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 49: session 28 takeaway — correct concept?",
+      "options": [
+        "Max momentum",
+        "Ignore scapula",
+        "Back training blends vertical/horizontal pulls with control",
+        "Skip elbow flexors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 50: lat pulldown pattern — correct concept?",
+      "options": [
+        "Shoulder extension/adduction involving lats",
+        "Wrist RD exclusively",
+        "Only gastroc",
+        "Ankle invertors"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

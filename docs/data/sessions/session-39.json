@@ -1,0 +1,659 @@
+{
+  "id": "session-39",
+  "sessionNumber": 39,
+  "title": "Program Design – Periodization & Systems",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to periodization is?",
+      "options": [
+        "Eating only periodically",
+        "Planned variation of variables across time",
+        "Avoiding all deloads",
+        "Ignoring recovery"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, periodization is matters because the key idea is:",
+      "options": [
+        "Ignoring recovery",
+        "Avoiding all deloads",
+        "Eating only periodically",
+        "Planned variation of variables across time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about periodization is:",
+      "options": [
+        "Eating only periodically",
+        "Planned variation of variables across time",
+        "It is unrelated to program design",
+        "Ignoring recovery"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to deload used to?",
+      "options": [
+        "Maximize junk volume",
+        "Reduce fatigue while retaining adaptations",
+        "Remove all protein",
+        "Permanently stop progress"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, deload used to matters because the key idea is:",
+      "options": [
+        "Reduce fatigue while retaining adaptations",
+        "Maximize junk volume",
+        "Permanently stop progress",
+        "Remove all protein"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about deload used to:",
+      "options": [
+        "Maximize junk volume",
+        "Permanently stop progress",
+        "Reduce fatigue while retaining adaptations",
+        "It is unrelated to program design"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to training systems examples?",
+      "options": [
+        "Only one system forever for all",
+        "Systems replace principles",
+        "Random suffering names only",
+        "Supersets, circuits, drop sets, etc., used purposefully"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, training systems examples matters because the key idea is:",
+      "options": [
+        "Only one system forever for all",
+        "Supersets, circuits, drop sets, etc., used purposefully",
+        "Systems replace principles",
+        "Random suffering names only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about training systems examples:",
+      "options": [
+        "It is unrelated to program design",
+        "Systems replace principles",
+        "Random suffering names only",
+        "Supersets, circuits, drop sets, etc., used purposefully"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to resistance session structure?",
+      "options": [
+        "Finish with new injury",
+        "Warm-up → main lifts → accessories → finishers as needed",
+        "No plan",
+        "Max cold"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, resistance session structure matters because the key idea is:",
+      "options": [
+        "Finish with new injury",
+        "No plan",
+        "Max cold",
+        "Warm-up → main lifts → accessories → finishers as needed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about resistance session structure:",
+      "options": [
+        "Max cold",
+        "No plan",
+        "It is unrelated to program design",
+        "Warm-up → main lifts → accessories → finishers as needed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to block focus might emphasize?",
+      "options": [
+        "Only abs",
+        "No focus",
+        "Everything maximal daily forever",
+        "Hypertrophy, strength, power, or peaking phases"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, block focus might emphasize matters because the key idea is:",
+      "options": [
+        "Only abs",
+        "Everything maximal daily forever",
+        "Hypertrophy, strength, power, or peaking phases",
+        "No focus"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about block focus might emphasize:",
+      "options": [
+        "It is unrelated to program design",
+        "Hypertrophy, strength, power, or peaking phases",
+        "Everything maximal daily forever",
+        "No focus"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to case studies apply?",
+      "options": [
+        "No review",
+        "Periodization ideas to real constraints",
+        "Ignore constraints",
+        "One block forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, case studies apply matters because the key idea is:",
+      "options": [
+        "Periodization ideas to real constraints",
+        "Ignore constraints",
+        "One block forever",
+        "No review"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about case studies apply:",
+      "options": [
+        "It is unrelated to program design",
+        "Ignore constraints",
+        "One block forever",
+        "Periodization ideas to real constraints"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to overreaching vs overtraining?",
+      "options": [
+        "Rest causes overtraining",
+        "Identical terms always",
+        "Overtraining is the weekly goal",
+        "Short functional stress vs longer maladaptation risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, overreaching vs overtraining matters because the key idea is:",
+      "options": [
+        "Overtraining is the weekly goal",
+        "Rest causes overtraining",
+        "Identical terms always",
+        "Short functional stress vs longer maladaptation risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about overreaching vs overtraining:",
+      "options": [
+        "Identical terms always",
+        "Overtraining is the weekly goal",
+        "It is unrelated to program design",
+        "Short functional stress vs longer maladaptation risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to plan reviews should?",
+      "options": [
+        "Ignore client life",
+        "Use performance and recovery feedback",
+        "Change daily randomly",
+        "Never change plan"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, plan reviews should matters because the key idea is:",
+      "options": [
+        "Change daily randomly",
+        "Ignore client life",
+        "Never change plan",
+        "Use performance and recovery feedback"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about plan reviews should:",
+      "options": [
+        "It is unrelated to program design",
+        "Never change plan",
+        "Change daily randomly",
+        "Use performance and recovery feedback"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to beginners need?",
+      "options": [
+        "Daily peaking",
+        "Advanced undulating chaos week one",
+        "No progression",
+        "Simple progressive plans more than complex periodization theater"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, beginners need matters because the key idea is:",
+      "options": [
+        "Simple progressive plans more than complex periodization theater",
+        "Daily peaking",
+        "Advanced undulating chaos week one",
+        "No progression"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about beginners need:",
+      "options": [
+        "It is unrelated to program design",
+        "Simple progressive plans more than complex periodization theater",
+        "No progression",
+        "Advanced undulating chaos week one"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 39 takeaway?",
+      "options": [
+        "Ignore systems’ purpose",
+        "Only today’s sweat matters",
+        "Organize training across weeks, not only single sessions",
+        "Skip deloads always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 39 takeaway matters because the key idea is:",
+      "options": [
+        "Organize training across weeks, not only single sessions",
+        "Only today’s sweat matters",
+        "Ignore systems’ purpose",
+        "Skip deloads always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 39 takeaway:",
+      "options": [
+        "It is unrelated to program design",
+        "Organize training across weeks, not only single sessions",
+        "Skip deloads always",
+        "Only today’s sweat matters"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy",
+        "Avoid assessments"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Apply one cue to every body identically",
+        "Screen for red flags",
+        "Individualize technique"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: evidence-informed coaches should:",
+      "options": [
+        "Copy trends blindly",
+        "Avoid measuring progress",
+        "Combine principles with client context",
+        "Ignore feedback"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Sleep deprivation",
+        "Max instability",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Client improves",
+        "Form breaks or risk rises",
+        "Warm-up feels good"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: progress an exercise when:",
+      "options": [
+        "Quality is stable and ready for more challenge",
+        "Pain is sharp",
+        "Client is dizzy",
+        "Screening failed"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: documentation helps:",
+      "options": [
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Hide errors",
+        "Avoid planning"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Unintelligible jargon only",
+        "Fear-based only",
+        "Overpromising"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: safety stop is required when:",
+      "options": [
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Music changes",
+        "Sweat appears"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 39: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Active recall + practical application",
+        "Skipping diagrams",
+        "One passive skim"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: deload used to — correct concept?",
+      "options": [
+        "Permanently stop progress",
+        "Maximize junk volume",
+        "Reduce fatigue while retaining adaptations",
+        "Remove all protein"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: training systems examples — correct concept?",
+      "options": [
+        "Supersets, circuits, drop sets, etc., used purposefully",
+        "Only one system forever for all",
+        "Random suffering names only",
+        "Systems replace principles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: resistance session structure — correct concept?",
+      "options": [
+        "Max cold",
+        "Finish with new injury",
+        "Warm-up → main lifts → accessories → finishers as needed",
+        "No plan"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: block focus might emphasize — correct concept?",
+      "options": [
+        "Hypertrophy, strength, power, or peaking phases",
+        "Only abs",
+        "Everything maximal daily forever",
+        "No focus"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: case studies apply — correct concept?",
+      "options": [
+        "No review",
+        "One block forever",
+        "Periodization ideas to real constraints",
+        "Ignore constraints"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: overreaching vs overtraining — correct concept?",
+      "options": [
+        "Identical terms always",
+        "Overtraining is the weekly goal",
+        "Rest causes overtraining",
+        "Short functional stress vs longer maladaptation risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: plan reviews should — correct concept?",
+      "options": [
+        "Change daily randomly",
+        "Use performance and recovery feedback",
+        "Ignore client life",
+        "Never change plan"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: beginners need — correct concept?",
+      "options": [
+        "Simple progressive plans more than complex periodization theater",
+        "No progression",
+        "Advanced undulating chaos week one",
+        "Daily peaking"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 39 takeaway — correct concept?",
+      "options": [
+        "Organize training across weeks, not only single sessions",
+        "Skip deloads always",
+        "Only today’s sweat matters",
+        "Ignore systems’ purpose"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: periodization is — correct concept?",
+      "options": [
+        "Eating only periodically",
+        "Ignoring recovery",
+        "Avoiding all deloads",
+        "Planned variation of variables across time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

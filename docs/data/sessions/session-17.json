@@ -1,0 +1,659 @@
+{
+  "id": "session-17",
+  "sessionNumber": 17,
+  "title": "Coaching for Behavior Change – Foundations",
+  "domain": "Coaching & Behavior Change",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to rapport early matters because?",
+      "options": [
+        "It guarantees hypertrophy",
+        "Trust improves adherence and honesty",
+        "It replaces overload",
+        "It wastes time"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, rapport early matters because matters because the key idea is:",
+      "options": [
+        "It replaces overload",
+        "Trust improves adherence and honesty",
+        "It guarantees hypertrophy",
+        "It wastes time"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about rapport early matters because:",
+      "options": [
+        "Trust improves adherence and honesty",
+        "It replaces overload",
+        "It wastes time",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to open questions help?",
+      "options": [
+        "Clients elaborate and gain insight",
+        "Replace assessments",
+        "Force yes/no only",
+        "Shut conversation"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, open questions help matters because the key idea is:",
+      "options": [
+        "Shut conversation",
+        "Replace assessments",
+        "Force yes/no only",
+        "Clients elaborate and gain insight"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about open questions help:",
+      "options": [
+        "Force yes/no only",
+        "It is unrelated to coaching & behavior change",
+        "Clients elaborate and gain insight",
+        "Shut conversation"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to emotional intelligence helps?",
+      "options": [
+        "Avoid empathy",
+        "Manipulate for sales only",
+        "Diagnose clinical depression alone",
+        "Manage emotions in self/relationships for coaching"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, emotional intelligence helps matters because the key idea is:",
+      "options": [
+        "Avoid empathy",
+        "Diagnose clinical depression alone",
+        "Manage emotions in self/relationships for coaching",
+        "Manipulate for sales only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about emotional intelligence helps:",
+      "options": [
+        "Manage emotions in self/relationships for coaching",
+        "Avoid empathy",
+        "It is unrelated to coaching & behavior change",
+        "Manipulate for sales only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to active listening means?",
+      "options": [
+        "Attend, reflect, clarify without rushing to fix everything",
+        "Check phone",
+        "Interrupt constantly",
+        "Lecture only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, active listening means matters because the key idea is:",
+      "options": [
+        "Interrupt constantly",
+        "Attend, reflect, clarify without rushing to fix everything",
+        "Lecture only",
+        "Check phone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about active listening means:",
+      "options": [
+        "Interrupt constantly",
+        "Attend, reflect, clarify without rushing to fix everything",
+        "It is unrelated to coaching & behavior change",
+        "Lecture only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to foundations of coaching include?",
+      "options": [
+        "Only max lifts",
+        "Only macros",
+        "Only supplements",
+        "Relationship, communication, and client-centered process"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, foundations of coaching include matters because the key idea is:",
+      "options": [
+        "Only supplements",
+        "Relationship, communication, and client-centered process",
+        "Only max lifts",
+        "Only macros"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about foundations of coaching include:",
+      "options": [
+        "Only macros",
+        "Only max lifts",
+        "Relationship, communication, and client-centered process",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to judgmental tone usually?",
+      "options": [
+        "Reduces openness and motivation",
+        "Is required",
+        "Replaces MI",
+        "Increases trust always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, judgmental tone usually matters because the key idea is:",
+      "options": [
+        "Replaces MI",
+        "Is required",
+        "Reduces openness and motivation",
+        "Increases trust always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about judgmental tone usually:",
+      "options": [
+        "Is required",
+        "It is unrelated to coaching & behavior change",
+        "Reduces openness and motivation",
+        "Increases trust always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to clear explanations should be?",
+      "options": [
+        "Jargon-only",
+        "Fear-only",
+        "Overpromising",
+        "Simple, accurate, and actionable"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, clear explanations should be matters because the key idea is:",
+      "options": [
+        "Fear-only",
+        "Jargon-only",
+        "Simple, accurate, and actionable",
+        "Overpromising"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about clear explanations should be:",
+      "options": [
+        "Fear-only",
+        "Simple, accurate, and actionable",
+        "Jargon-only",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to coach presence includes?",
+      "options": [
+        "Public shaming",
+        "Distracted scrolling",
+        "Attention and respect in-session",
+        "Ignoring consent"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, coach presence includes matters because the key idea is:",
+      "options": [
+        "Public shaming",
+        "Ignoring consent",
+        "Distracted scrolling",
+        "Attention and respect in-session"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about coach presence includes:",
+      "options": [
+        "Ignoring consent",
+        "Attention and respect in-session",
+        "Distracted scrolling",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to behavior tools start with?",
+      "options": [
+        "Understanding the person and context",
+        "One diet for all forever",
+        "Random punishment",
+        "Max testing day one always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, behavior tools start with matters because the key idea is:",
+      "options": [
+        "One diet for all forever",
+        "Max testing day one always",
+        "Random punishment",
+        "Understanding the person and context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about behavior tools start with:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "One diet for all forever",
+        "Random punishment",
+        "Understanding the person and context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to session 17 takeaway?",
+      "options": [
+        "Coaching skills are as critical as exercise science",
+        "Only machines matter",
+        "Soft skills irrelevant",
+        "Only anatomy matters"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, session 17 takeaway matters because the key idea is:",
+      "options": [
+        "Only machines matter",
+        "Soft skills irrelevant",
+        "Only anatomy matters",
+        "Coaching skills are as critical as exercise science"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about session 17 takeaway:",
+      "options": [
+        "Coaching skills are as critical as exercise science",
+        "Only anatomy matters",
+        "Soft skills irrelevant",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Replace medical care",
+        "Avoid assessments",
+        "Ignore client anatomy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Individualize technique",
+        "Progress gradually",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: evidence-informed coaches should:",
+      "options": [
+        "Avoid measuring progress",
+        "Combine principles with client context",
+        "Copy trends blindly",
+        "Ignore feedback"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: before loading advanced variations, first ensure:",
+      "options": [
+        "Technique and tissue tolerance basics",
+        "Max instability",
+        "Sleep deprivation",
+        "Pain racing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Screening failed",
+        "Client is dizzy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: documentation helps:",
+      "options": [
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Avoid planning",
+        "Hide errors"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: client education should be:",
+      "options": [
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Unintelligible jargon only",
+        "Fear-based only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Sweat appears",
+        "Music changes",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 17: best study method for this session is:",
+      "options": [
+        "Skipping diagrams",
+        "Avoiding practice",
+        "One passive skim",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 41: open questions help — correct concept?",
+      "options": [
+        "Clients elaborate and gain insight",
+        "Force yes/no only",
+        "Replace assessments",
+        "Shut conversation"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 42: emotional intelligence helps — correct concept?",
+      "options": [
+        "Manage emotions in self/relationships for coaching",
+        "Diagnose clinical depression alone",
+        "Manipulate for sales only",
+        "Avoid empathy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 43: active listening means — correct concept?",
+      "options": [
+        "Lecture only",
+        "Interrupt constantly",
+        "Attend, reflect, clarify without rushing to fix everything",
+        "Check phone"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 44: foundations of coaching include — correct concept?",
+      "options": [
+        "Only supplements",
+        "Only max lifts",
+        "Only macros",
+        "Relationship, communication, and client-centered process"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 45: judgmental tone usually — correct concept?",
+      "options": [
+        "Increases trust always",
+        "Is required",
+        "Reduces openness and motivation",
+        "Replaces MI"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 46: clear explanations should be — correct concept?",
+      "options": [
+        "Fear-only",
+        "Overpromising",
+        "Jargon-only",
+        "Simple, accurate, and actionable"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 47: coach presence includes — correct concept?",
+      "options": [
+        "Public shaming",
+        "Ignoring consent",
+        "Attention and respect in-session",
+        "Distracted scrolling"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 48: behavior tools start with — correct concept?",
+      "options": [
+        "One diet for all forever",
+        "Understanding the person and context",
+        "Max testing day one always",
+        "Random punishment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 49: session 17 takeaway — correct concept?",
+      "options": [
+        "Soft skills irrelevant",
+        "Only anatomy matters",
+        "Only machines matter",
+        "Coaching skills are as critical as exercise science"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 50: rapport early matters because — correct concept?",
+      "options": [
+        "Trust improves adherence and honesty",
+        "It replaces overload",
+        "It wastes time",
+        "It guarantees hypertrophy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}
