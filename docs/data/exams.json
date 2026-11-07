@@ -62,7 +62,7 @@
         "Supplements, trends, and intuition only"
       ],
       "answer": 1,
-      "explanation": "The guidebook emphasizes Evidence, Ethics, and Accountability.",
+      "explanation": "Qualified coaching emphasizes Evidence, Ethics, and Accountability.",
       "id": 3
     },
     {
@@ -769,7 +769,7 @@
     },
     {
       "domain": "Nutrition",
-      "question": "Which statement about whey protein is most accurate based on the guidebook themes?",
+      "question": "Which statement about whey protein is most accurate based on common coaching nutrition themes?",
       "options": [
         "It is a slow-digesting protein with no leucine",
         "It is a fast-digesting high-quality protein rich in EAAs/leucine that can support MPS",

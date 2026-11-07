@@ -140,7 +140,7 @@ def bank_for(sid: int, domain: str):
                 ("Sales-first approaches that ignore safety are:", "Unprofessional/unethical", ["Ideal", "Required", "Evidence-based"]),
                 ("Referring out protects:", "Client safety and professional limits", ["Only gym revenue", "Ego", "Nobody"]),
                 ("A realistic fat-loss conversation should:", "Explain sustainable diet and training habits", ["Promise extreme cuts", "Hide deficits", "Guarantee outcomes"]),
-                ("Platform quizzes help mainly by:", "Supporting active learning", ["Replacing all coaching", "Avoiding guidebook use", "Eliminating practice"]),
+                ("Platform quizzes help mainly by:", "Supporting active learning", ["Replacing all coaching", "Avoiding study materials", "Eliminating practice"]),
                 ("Honesty about limitations is:", "Ethical practice", ["Weak marketing only", "Unnecessary", "Unprofessional"]),
                 ("First-aid/AED awareness in facilities supports:", "Emergency readiness culture", ["Only parking rules", "Phone bans alone", "Marketing"]),
                 ("No phone use during key learning/exam contexts supports:", "Focus and integrity", ["Worse learning", "Better cheating", "Less professionalism"]),
