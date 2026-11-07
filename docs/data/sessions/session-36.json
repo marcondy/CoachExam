@@ -1,0 +1,659 @@
+{
+  "id": "session-36",
+  "sessionNumber": 36,
+  "title": "Program Design – Intensity & Volume",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to intensity commonly as?",
+      "options": [
+        "%1RM and/or RPE/RIR",
+        "Dumbbell color",
+        "Hours of sleep only",
+        "Room temperature"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, intensity commonly as matters because the key idea is:",
+      "options": [
+        "Hours of sleep only",
+        "Room temperature",
+        "%1RM and/or RPE/RIR",
+        "Dumbbell color"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about intensity commonly as:",
+      "options": [
+        "It is unrelated to program design",
+        "Hours of sleep only",
+        "Dumbbell color",
+        "%1RM and/or RPE/RIR"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to load >80% 1RM generally?",
+      "options": [
+        "Low",
+        "Cardio only",
+        "High intensity",
+        "Moderate only always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, load >80% 1RM generally matters because the key idea is:",
+      "options": [
+        "High intensity",
+        "Moderate only always",
+        "Cardio only",
+        "Low"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about load >80% 1RM generally:",
+      "options": [
+        "Low",
+        "It is unrelated to program design",
+        "Cardio only",
+        "High intensity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to load <60% 1RM generally?",
+      "options": [
+        "Maximal always",
+        "Lower intensity domain",
+        "Forbidden",
+        "Only peaking"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, load <60% 1RM generally matters because the key idea is:",
+      "options": [
+        "Forbidden",
+        "Only peaking",
+        "Lower intensity domain",
+        "Maximal always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about load <60% 1RM generally:",
+      "options": [
+        "It is unrelated to program design",
+        "Only peaking",
+        "Lower intensity domain",
+        "Maximal always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to volume often as?",
+      "options": [
+        "Humidity",
+        "Only rest seconds",
+        "Sets × reps × load or hard sets/week",
+        "Only incline"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, volume often as matters because the key idea is:",
+      "options": [
+        "Only incline",
+        "Sets × reps × load or hard sets/week",
+        "Only rest seconds",
+        "Humidity"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about volume often as:",
+      "options": [
+        "Sets × reps × load or hard sets/week",
+        "It is unrelated to program design",
+        "Only incline",
+        "Only rest seconds"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to hypertrophy hard sets often?",
+      "options": [
+        "Challenging ~5–30 rep contexts near enough to failure",
+        "Only 0.5s isometrics",
+        "1000 effortless reps",
+        "1 rep forever only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, hypertrophy hard sets often matters because the key idea is:",
+      "options": [
+        "Only 0.5s isometrics",
+        "Challenging ~5–30 rep contexts near enough to failure",
+        "1 rep forever only",
+        "1000 effortless reps"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about hypertrophy hard sets often:",
+      "options": [
+        "1000 effortless reps",
+        "Challenging ~5–30 rep contexts near enough to failure",
+        "It is unrelated to program design",
+        "1 rep forever only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to RPE autoregulation?",
+      "options": [
+        "Only BW forever",
+        "Ignore daily readiness",
+        "Adjust load to match readiness",
+        "Fixed loads despite fatigue always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, RPE autoregulation matters because the key idea is:",
+      "options": [
+        "Adjust load to match readiness",
+        "Only BW forever",
+        "Fixed loads despite fatigue always",
+        "Ignore daily readiness"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about RPE autoregulation:",
+      "options": [
+        "It is unrelated to program design",
+        "Ignore daily readiness",
+        "Adjust load to match readiness",
+        "Fixed loads despite fatigue always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to too much junk volume?",
+      "options": [
+        "Improves sleep always",
+        "Replaces intensity",
+        "Adds fatigue without much stimulus",
+        "Always optimal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, too much junk volume matters because the key idea is:",
+      "options": [
+        "Always optimal",
+        "Adds fatigue without much stimulus",
+        "Replaces intensity",
+        "Improves sleep always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about too much junk volume:",
+      "options": [
+        "Adds fatigue without much stimulus",
+        "Always optimal",
+        "It is unrelated to program design",
+        "Replaces intensity"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to track volume to?",
+      "options": [
+        "Ignore trends",
+        "Randomize forever",
+        "Progress logically and manage fatigue",
+        "Shame clients"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, track volume to matters because the key idea is:",
+      "options": [
+        "Shame clients",
+        "Ignore trends",
+        "Progress logically and manage fatigue",
+        "Randomize forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about track volume to:",
+      "options": [
+        "Shame clients",
+        "It is unrelated to program design",
+        "Ignore trends",
+        "Progress logically and manage fatigue"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to intensity without technique?",
+      "options": [
+        "Is ideal for novices cold",
+        "Replaces warm-up",
+        "Guarantees gains",
+        "Raises risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, intensity without technique matters because the key idea is:",
+      "options": [
+        "Replaces warm-up",
+        "Guarantees gains",
+        "Is ideal for novices cold",
+        "Raises risk"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about intensity without technique:",
+      "options": [
+        "Raises risk",
+        "Guarantees gains",
+        "It is unrelated to program design",
+        "Is ideal for novices cold"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 36 takeaway?",
+      "options": [
+        "Never log",
+        "Dose intensity and volume on purpose",
+        "Guess weekly",
+        "Max everything daily"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 36 takeaway matters because the key idea is:",
+      "options": [
+        "Guess weekly",
+        "Never log",
+        "Max everything daily",
+        "Dose intensity and volume on purpose"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 36 takeaway:",
+      "options": [
+        "Guess weekly",
+        "Dose intensity and volume on purpose",
+        "Max everything daily",
+        "It is unrelated to program design"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Ignore client anatomy",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Screen for red flags",
+        "Individualize technique",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: evidence-informed coaches should:",
+      "options": [
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Combine principles with client context",
+        "Avoid measuring progress"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Max instability"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Client improves",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Pain is sharp"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: documentation helps:",
+      "options": [
+        "Create gossip",
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: client education should be:",
+      "options": [
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Fear-based only",
+        "Unintelligible jargon only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Shoes are new",
+        "Sweat appears",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 36: best study method for this session is:",
+      "options": [
+        "Skipping diagrams",
+        "Active recall + practical application",
+        "Avoiding practice",
+        "One passive skim"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: load >80% 1RM generally — correct concept?",
+      "options": [
+        "High intensity",
+        "Moderate only always",
+        "Cardio only",
+        "Low"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: load <60% 1RM generally — correct concept?",
+      "options": [
+        "Lower intensity domain",
+        "Only peaking",
+        "Maximal always",
+        "Forbidden"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: volume often as — correct concept?",
+      "options": [
+        "Humidity",
+        "Only rest seconds",
+        "Only incline",
+        "Sets × reps × load or hard sets/week"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: hypertrophy hard sets often — correct concept?",
+      "options": [
+        "1000 effortless reps",
+        "1 rep forever only",
+        "Challenging ~5–30 rep contexts near enough to failure",
+        "Only 0.5s isometrics"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: RPE autoregulation — correct concept?",
+      "options": [
+        "Adjust load to match readiness",
+        "Ignore daily readiness",
+        "Only BW forever",
+        "Fixed loads despite fatigue always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: too much junk volume — correct concept?",
+      "options": [
+        "Replaces intensity",
+        "Always optimal",
+        "Improves sleep always",
+        "Adds fatigue without much stimulus"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: track volume to — correct concept?",
+      "options": [
+        "Ignore trends",
+        "Shame clients",
+        "Randomize forever",
+        "Progress logically and manage fatigue"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: intensity without technique — correct concept?",
+      "options": [
+        "Raises risk",
+        "Guarantees gains",
+        "Replaces warm-up",
+        "Is ideal for novices cold"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 36 takeaway — correct concept?",
+      "options": [
+        "Guess weekly",
+        "Never log",
+        "Dose intensity and volume on purpose",
+        "Max everything daily"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: intensity commonly as — correct concept?",
+      "options": [
+        "Room temperature",
+        "%1RM and/or RPE/RIR",
+        "Hours of sleep only",
+        "Dumbbell color"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

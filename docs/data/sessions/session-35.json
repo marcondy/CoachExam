@@ -1,0 +1,659 @@
+{
+  "id": "session-35",
+  "sessionNumber": 35,
+  "title": "Program Design – Training Principles",
+  "domain": "Program Design",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to progressive overload?",
+      "options": [
+        "Only reduce volume forever",
+        "Never change program",
+        "Train randomly",
+        "Gradually increase training stress over time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, progressive overload matters because the key idea is:",
+      "options": [
+        "Train randomly",
+        "Gradually increase training stress over time",
+        "Only reduce volume forever",
+        "Never change program"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about progressive overload:",
+      "options": [
+        "Only reduce volume forever",
+        "It is unrelated to program design",
+        "Gradually increase training stress over time",
+        "Never change program"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to specificity / SAID?",
+      "options": [
+        "Nutrition irrelevant",
+        "Any exercise yields identical outcomes",
+        "Cardio cannot improve endurance",
+        "Adaptations match training demands"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, specificity / SAID matters because the key idea is:",
+      "options": [
+        "Nutrition irrelevant",
+        "Adaptations match training demands",
+        "Any exercise yields identical outcomes",
+        "Cardio cannot improve endurance"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about specificity / SAID:",
+      "options": [
+        "It is unrelated to program design",
+        "Cardio cannot improve endurance",
+        "Adaptations match training demands",
+        "Any exercise yields identical outcomes"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to individualization?",
+      "options": [
+        "Ignore injuries",
+        "One program for Earth",
+        "Ignore goals",
+        "Adjust to person, not average only"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, individualization matters because the key idea is:",
+      "options": [
+        "Ignore injuries",
+        "Ignore goals",
+        "One program for Earth",
+        "Adjust to person, not average only"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about individualization:",
+      "options": [
+        "Ignore injuries",
+        "Adjust to person, not average only",
+        "It is unrelated to program design",
+        "One program for Earth"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to recovery is?",
+      "options": [
+        "Unethical",
+        "Only for weak people",
+        "Wasted time",
+        "Part of adaptation, not optional fluff"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, recovery is matters because the key idea is:",
+      "options": [
+        "Part of adaptation, not optional fluff",
+        "Wasted time",
+        "Unethical",
+        "Only for weak people"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about recovery is:",
+      "options": [
+        "It is unrelated to program design",
+        "Wasted time",
+        "Only for weak people",
+        "Part of adaptation, not optional fluff"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to reversibility?",
+      "options": [
+        "Fitness permanent after one week",
+        "Never lose capacity",
+        "Detraining reduces adaptations",
+        "Deload erases genetics"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, reversibility matters because the key idea is:",
+      "options": [
+        "Never lose capacity",
+        "Deload erases genetics",
+        "Fitness permanent after one week",
+        "Detraining reduces adaptations"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about reversibility:",
+      "options": [
+        "It is unrelated to program design",
+        "Fitness permanent after one week",
+        "Never lose capacity",
+        "Detraining reduces adaptations"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to variation principle?",
+      "options": [
+        "Variation replaces overload",
+        "Chaos without plan",
+        "Never change lifts",
+        "Planned change manages fatigue/progress"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, variation principle matters because the key idea is:",
+      "options": [
+        "Never change lifts",
+        "Chaos without plan",
+        "Planned change manages fatigue/progress",
+        "Variation replaces overload"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about variation principle:",
+      "options": [
+        "Planned change manages fatigue/progress",
+        "Never change lifts",
+        "It is unrelated to program design",
+        "Chaos without plan"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to overload without recovery leads to?",
+      "options": [
+        "Guaranteed linear gains forever",
+        "Better sleep always",
+        "Stagnation/injury risk rise",
+        "Perfect technique always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, overload without recovery leads to matters because the key idea is:",
+      "options": [
+        "Stagnation/injury risk rise",
+        "Better sleep always",
+        "Guaranteed linear gains forever",
+        "Perfect technique always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about overload without recovery leads to:",
+      "options": [
+        "Guaranteed linear gains forever",
+        "Better sleep always",
+        "Stagnation/injury risk rise",
+        "It is unrelated to program design"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to principle application order?",
+      "options": [
+        "Use principles to make variable choices",
+        "Pick viral sets first",
+        "Only tempo fetish",
+        "Ignore principles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, principle application order matters because the key idea is:",
+      "options": [
+        "Pick viral sets first",
+        "Only tempo fetish",
+        "Use principles to make variable choices",
+        "Ignore principles"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about principle application order:",
+      "options": [
+        "Ignore principles",
+        "Use principles to make variable choices",
+        "It is unrelated to program design",
+        "Pick viral sets first"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to beginner overload can be?",
+      "options": [
+        "Advanced peaking week one",
+        "More frequent technique + modest load progress",
+        "No practice",
+        "Daily failure on all lifts"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, beginner overload can be matters because the key idea is:",
+      "options": [
+        "Daily failure on all lifts",
+        "More frequent technique + modest load progress",
+        "Advanced peaking week one",
+        "No practice"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about beginner overload can be:",
+      "options": [
+        "Advanced peaking week one",
+        "It is unrelated to program design",
+        "More frequent technique + modest load progress",
+        "Daily failure on all lifts"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Program Design",
+      "question": "Which best defines/relates to session 35 takeaway?",
+      "options": [
+        "Skip recovery",
+        "Principles optional",
+        "Only aesthetics cues",
+        "Principles drive every program decision"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Program Design",
+      "question": "In coaching practice, session 35 takeaway matters because the key idea is:",
+      "options": [
+        "Only aesthetics cues",
+        "Principles optional",
+        "Skip recovery",
+        "Principles drive every program decision"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Program Design",
+      "question": "Select the correct statement about session 35 takeaway:",
+      "options": [
+        "Principles drive every program decision",
+        "Only aesthetics cues",
+        "It is unrelated to program design",
+        "Principles optional"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy",
+        "Avoid assessments",
+        "Replace medical care"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: a common error is to:",
+      "options": [
+        "Progress gradually",
+        "Individualize technique",
+        "Apply one cue to every body identically",
+        "Screen for red flags"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: evidence-informed coaches should:",
+      "options": [
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly",
+        "Combine principles with client context"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics",
+        "Max instability"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "Warm-up feels good",
+        "Form breaks or risk rises",
+        "RPE is appropriate"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Quality is stable and ready for more challenge",
+        "Screening failed",
+        "Client is dizzy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors",
+        "Create gossip"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: client education should be:",
+      "options": [
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Clear, realistic, and actionable",
+        "Fear-based only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Sweat appears",
+        "Music changes",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Program Design",
+      "question": "Session 35: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Skipping diagrams",
+        "One passive skim",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 41: specificity / SAID — correct concept?",
+      "options": [
+        "Adaptations match training demands",
+        "Nutrition irrelevant",
+        "Cardio cannot improve endurance",
+        "Any exercise yields identical outcomes"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 42: individualization — correct concept?",
+      "options": [
+        "One program for Earth",
+        "Adjust to person, not average only",
+        "Ignore injuries",
+        "Ignore goals"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 43: recovery is — correct concept?",
+      "options": [
+        "Part of adaptation, not optional fluff",
+        "Unethical",
+        "Only for weak people",
+        "Wasted time"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 44: reversibility — correct concept?",
+      "options": [
+        "Never lose capacity",
+        "Fitness permanent after one week",
+        "Detraining reduces adaptations",
+        "Deload erases genetics"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 45: variation principle — correct concept?",
+      "options": [
+        "Never change lifts",
+        "Variation replaces overload",
+        "Planned change manages fatigue/progress",
+        "Chaos without plan"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 46: overload without recovery leads to — correct concept?",
+      "options": [
+        "Guaranteed linear gains forever",
+        "Stagnation/injury risk rise",
+        "Better sleep always",
+        "Perfect technique always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 47: principle application order — correct concept?",
+      "options": [
+        "Pick viral sets first",
+        "Use principles to make variable choices",
+        "Ignore principles",
+        "Only tempo fetish"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 48: beginner overload can be — correct concept?",
+      "options": [
+        "More frequent technique + modest load progress",
+        "No practice",
+        "Advanced peaking week one",
+        "Daily failure on all lifts"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 49: session 35 takeaway — correct concept?",
+      "options": [
+        "Principles optional",
+        "Principles drive every program decision",
+        "Skip recovery",
+        "Only aesthetics cues"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Program Design",
+      "question": "Quick check 50: progressive overload — correct concept?",
+      "options": [
+        "Only reduce volume forever",
+        "Train randomly",
+        "Gradually increase training stress over time",
+        "Never change program"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

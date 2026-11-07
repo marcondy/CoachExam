@@ -1,0 +1,659 @@
+{
+  "id": "session-33",
+  "sessionNumber": 33,
+  "title": "Fitness Assessment – Cardio & Case Applications",
+  "domain": "Fitness Assessment",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to cardio endurance tests include?",
+      "options": [
+        "Only circumferences",
+        "Step tests, timed walks/runs, submax bike protocols",
+        "Only flexibility angles",
+        "Only grip strength"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, cardio endurance tests include matters because the key idea is:",
+      "options": [
+        "Only grip strength",
+        "Step tests, timed walks/runs, submax bike protocols",
+        "Only circumferences",
+        "Only flexibility angles"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about cardio endurance tests include:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Step tests, timed walks/runs, submax bike protocols",
+        "Only circumferences",
+        "Only grip strength"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to HR intensity often uses?",
+      "options": [
+        "%HRmax or related zones",
+        "Only urine color",
+        "Only RPE forever with no other tools possible",
+        "Bone age"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, HR intensity often uses matters because the key idea is:",
+      "options": [
+        "Bone age",
+        "%HRmax or related zones",
+        "Only urine color",
+        "Only RPE forever with no other tools possible"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about HR intensity often uses:",
+      "options": [
+        "%HRmax or related zones",
+        "Only RPE forever with no other tools possible",
+        "It is unrelated to fitness assessment",
+        "Only urine color"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to case-study programming needs?",
+      "options": [
+        "One plan for all cases",
+        "Match tests and plan to client profile",
+        "Ignore goals",
+        "Ignore risks"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, case-study programming needs matters because the key idea is:",
+      "options": [
+        "Match tests and plan to client profile",
+        "Ignore risks",
+        "Ignore goals",
+        "One plan for all cases"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about case-study programming needs:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Match tests and plan to client profile",
+        "Ignore goals",
+        "One plan for all cases"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to if medical red flags?",
+      "options": [
+        "Increase load",
+        "Push maximal testing",
+        "Diagnose privately as MD",
+        "Stop/modify and refer"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, if medical red flags matters because the key idea is:",
+      "options": [
+        "Push maximal testing",
+        "Stop/modify and refer",
+        "Diagnose privately as MD",
+        "Increase load"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about if medical red flags:",
+      "options": [
+        "Increase load",
+        "Push maximal testing",
+        "It is unrelated to fitness assessment",
+        "Stop/modify and refer"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to submaximal testing can?",
+      "options": [
+        "Estimate capacity with lower risk than always-max tests",
+        "Replace all screening",
+        "Never be useful",
+        "Guarantee VO2 exactness always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, submaximal testing can matters because the key idea is:",
+      "options": [
+        "Estimate capacity with lower risk than always-max tests",
+        "Replace all screening",
+        "Never be useful",
+        "Guarantee VO2 exactness always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about submaximal testing can:",
+      "options": [
+        "Replace all screening",
+        "Estimate capacity with lower risk than always-max tests",
+        "Never be useful",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to talk test roughly indicates?",
+      "options": [
+        "Sustainable aerobic intensity domains",
+        "Bone density",
+        "Skinfold",
+        "1RM"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, talk test roughly indicates matters because the key idea is:",
+      "options": [
+        "1RM",
+        "Bone density",
+        "Sustainable aerobic intensity domains",
+        "Skinfold"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about talk test roughly indicates:",
+      "options": [
+        "Sustainable aerobic intensity domains",
+        "Skinfold",
+        "It is unrelated to fitness assessment",
+        "1RM"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to retest under similar conditions?",
+      "options": [
+        "Change everything randomly",
+        "Ignore protocols",
+        "Test sleep-deprived once only",
+        "Improve comparability"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, retest under similar conditions matters because the key idea is:",
+      "options": [
+        "Test sleep-deprived once only",
+        "Improve comparability",
+        "Ignore protocols",
+        "Change everything randomly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about retest under similar conditions:",
+      "options": [
+        "Improve comparability",
+        "It is unrelated to fitness assessment",
+        "Change everything randomly",
+        "Test sleep-deprived once only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to share results respectfully?",
+      "options": [
+        "Hide all data forever",
+        "Educate without shaming",
+        "Guarantee outcomes",
+        "Public mockery"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, share results respectfully matters because the key idea is:",
+      "options": [
+        "Guarantee outcomes",
+        "Hide all data forever",
+        "Educate without shaming",
+        "Public mockery"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about share results respectfully:",
+      "options": [
+        "Public mockery",
+        "Hide all data forever",
+        "Educate without shaming",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to cardio test choice depends on?",
+      "options": [
+        "Coach boredom",
+        "Virality",
+        "Orthopedic limits, fitness, equipment",
+        "Ignoring screens"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, cardio test choice depends on matters because the key idea is:",
+      "options": [
+        "Ignoring screens",
+        "Orthopedic limits, fitness, equipment",
+        "Coach boredom",
+        "Virality"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about cardio test choice depends on:",
+      "options": [
+        "Ignoring screens",
+        "Virality",
+        "Orthopedic limits, fitness, equipment",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to session 33 takeaway?",
+      "options": [
+        "Skip cases",
+        "Ignore HR",
+        "Memorize tables only",
+        "Apply assessment tools to real client scenarios safely"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, session 33 takeaway matters because the key idea is:",
+      "options": [
+        "Memorize tables only",
+        "Skip cases",
+        "Apply assessment tools to real client scenarios safely",
+        "Ignore HR"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about session 33 takeaway:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Memorize tables only",
+        "Apply assessment tools to real client scenarios safely",
+        "Skip cases"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Avoid assessments",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Apply one cue to every body identically",
+        "Individualize technique",
+        "Progress gradually"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Avoid measuring progress",
+        "Copy trends blindly",
+        "Ignore feedback"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: before loading advanced variations, first ensure:",
+      "options": [
+        "Technique and tissue tolerance basics",
+        "Pain racing",
+        "Sleep deprivation",
+        "Max instability"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "RPE is appropriate",
+        "Warm-up feels good",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Quality is stable and ready for more challenge",
+        "Pain is sharp",
+        "Client is dizzy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Hide errors"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Fear-based only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: safety stop is required when:",
+      "options": [
+        "Sweat appears",
+        "Shoes are new",
+        "Music changes",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 33: best study method for this session is:",
+      "options": [
+        "Skipping diagrams",
+        "Avoiding practice",
+        "Active recall + practical application",
+        "One passive skim"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 41: HR intensity often uses — correct concept?",
+      "options": [
+        "Bone age",
+        "%HRmax or related zones",
+        "Only RPE forever with no other tools possible",
+        "Only urine color"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 42: case-study programming needs — correct concept?",
+      "options": [
+        "One plan for all cases",
+        "Ignore goals",
+        "Ignore risks",
+        "Match tests and plan to client profile"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 43: if medical red flags — correct concept?",
+      "options": [
+        "Stop/modify and refer",
+        "Push maximal testing",
+        "Increase load",
+        "Diagnose privately as MD"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 44: submaximal testing can — correct concept?",
+      "options": [
+        "Replace all screening",
+        "Estimate capacity with lower risk than always-max tests",
+        "Guarantee VO2 exactness always",
+        "Never be useful"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 45: talk test roughly indicates — correct concept?",
+      "options": [
+        "1RM",
+        "Skinfold",
+        "Sustainable aerobic intensity domains",
+        "Bone density"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 46: retest under similar conditions — correct concept?",
+      "options": [
+        "Ignore protocols",
+        "Improve comparability",
+        "Test sleep-deprived once only",
+        "Change everything randomly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 47: share results respectfully — correct concept?",
+      "options": [
+        "Public mockery",
+        "Guarantee outcomes",
+        "Educate without shaming",
+        "Hide all data forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 48: cardio test choice depends on — correct concept?",
+      "options": [
+        "Ignoring screens",
+        "Coach boredom",
+        "Virality",
+        "Orthopedic limits, fitness, equipment"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 49: session 33 takeaway — correct concept?",
+      "options": [
+        "Skip cases",
+        "Memorize tables only",
+        "Apply assessment tools to real client scenarios safely",
+        "Ignore HR"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 50: cardio endurance tests include — correct concept?",
+      "options": [
+        "Step tests, timed walks/runs, submax bike protocols",
+        "Only circumferences",
+        "Only grip strength",
+        "Only flexibility angles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

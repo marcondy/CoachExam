@@ -1,0 +1,659 @@
+{
+  "id": "session-9",
+  "sessionNumber": 9,
+  "title": "Physiology of CV, Respiratory & Nervous Systems",
+  "domain": "Exercise Physiology",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to acute HR response to aerobic work?",
+      "options": [
+        "Heart rate rises to meet demand",
+        "HR always falls during hard work",
+        "HR is unrelated to intensity",
+        "Breathing stops"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, acute HR response to aerobic work matters because the key idea is:",
+      "options": [
+        "HR always falls during hard work",
+        "HR is unrelated to intensity",
+        "Breathing stops",
+        "Heart rate rises to meet demand"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about acute HR response to aerobic work:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Heart rate rises to meet demand",
+        "HR is unrelated to intensity",
+        "HR always falls during hard work"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to stroke volume?",
+      "options": [
+        "Steps per day",
+        "Blood ejected per beat",
+        "Breaths per minute",
+        "Reps per set"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, stroke volume matters because the key idea is:",
+      "options": [
+        "Reps per set",
+        "Blood ejected per beat",
+        "Breaths per minute",
+        "Steps per day"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about stroke volume:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Steps per day",
+        "Blood ejected per beat",
+        "Breaths per minute"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to cardiac output?",
+      "options": [
+        "Only skinfold sum",
+        "Only RPE",
+        "Only tidal volume",
+        "HR × stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, cardiac output matters because the key idea is:",
+      "options": [
+        "Only RPE",
+        "Only skinfold sum",
+        "HR × stroke volume",
+        "Only tidal volume"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about cardiac output:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Only tidal volume",
+        "Only RPE",
+        "HR × stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to ventilation rise?",
+      "options": [
+        "Ventilation always falls",
+        "Apnea is the goal",
+        "Breathing rate/depth increase with hard aerobic work",
+        "Gas exchange needs never change"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, ventilation rise matters because the key idea is:",
+      "options": [
+        "Breathing rate/depth increase with hard aerobic work",
+        "Ventilation always falls",
+        "Apnea is the goal",
+        "Gas exchange needs never change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about ventilation rise:",
+      "options": [
+        "Ventilation always falls",
+        "Gas exchange needs never change",
+        "It is unrelated to exercise physiology",
+        "Breathing rate/depth increase with hard aerobic work"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to muscle spindles?",
+      "options": [
+        "Detect only BMD",
+        "Detect only tendon tension",
+        "Detect stretch/length; can trigger stretch reflex",
+        "Detect only blood lactate"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, muscle spindles matters because the key idea is:",
+      "options": [
+        "Detect only BMD",
+        "Detect only blood lactate",
+        "Detect only tendon tension",
+        "Detect stretch/length; can trigger stretch reflex"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about muscle spindles:",
+      "options": [
+        "Detect stretch/length; can trigger stretch reflex",
+        "Detect only blood lactate",
+        "Detect only tendon tension",
+        "It is unrelated to exercise physiology"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to GTO?",
+      "options": [
+        "Detect only skin temp",
+        "Detect only fiber length",
+        "Detect tension; can promote autogenic inhibition",
+        "Detect only HR"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, GTO matters because the key idea is:",
+      "options": [
+        "Detect tension; can promote autogenic inhibition",
+        "Detect only skin temp",
+        "Detect only HR",
+        "Detect only fiber length"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about GTO:",
+      "options": [
+        "Detect only skin temp",
+        "It is unrelated to exercise physiology",
+        "Detect tension; can promote autogenic inhibition",
+        "Detect only fiber length"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to autogenic inhibition?",
+      "options": [
+        "Only a tempo code",
+        "Tension-related relaxation response associated with GTO",
+        "Always a stretch-reflex contraction",
+        "Only a nutrition term"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, autogenic inhibition matters because the key idea is:",
+      "options": [
+        "Only a tempo code",
+        "Always a stretch-reflex contraction",
+        "Only a nutrition term",
+        "Tension-related relaxation response associated with GTO"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about autogenic inhibition:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Only a nutrition term",
+        "Tension-related relaxation response associated with GTO",
+        "Always a stretch-reflex contraction"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to reciprocal inhibition?",
+      "options": [
+        "Both muscles max contract always",
+        "Antagonist inhibition when agonist contracts",
+        "Breath-hold only",
+        "Bone growth only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, reciprocal inhibition matters because the key idea is:",
+      "options": [
+        "Bone growth only",
+        "Antagonist inhibition when agonist contracts",
+        "Both muscles max contract always",
+        "Breath-hold only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about reciprocal inhibition:",
+      "options": [
+        "Both muscles max contract always",
+        "It is unrelated to exercise physiology",
+        "Bone growth only",
+        "Antagonist inhibition when agonist contracts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to chronic aerobic adaptation example?",
+      "options": [
+        "Reduced stroke volume always",
+        "Inability to use fat",
+        "Lower resting HR / better endurance capacity",
+        "Permanent mitochondria loss"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, chronic aerobic adaptation example matters because the key idea is:",
+      "options": [
+        "Inability to use fat",
+        "Permanent mitochondria loss",
+        "Lower resting HR / better endurance capacity",
+        "Reduced stroke volume always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about chronic aerobic adaptation example:",
+      "options": [
+        "Inability to use fat",
+        "It is unrelated to exercise physiology",
+        "Permanent mitochondria loss",
+        "Lower resting HR / better endurance capacity"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which best defines/relates to nervous system role in early strength?",
+      "options": [
+        "Only hypertrophy in week 1 always",
+        "Loss of motor skill",
+        "Better recruitment/coordination",
+        "Permanent myosin loss"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "In coaching practice, nervous system role in early strength matters because the key idea is:",
+      "options": [
+        "Only hypertrophy in week 1 always",
+        "Loss of motor skill",
+        "Permanent myosin loss",
+        "Better recruitment/coordination"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Select the correct statement about nervous system role in early strength:",
+      "options": [
+        "It is unrelated to exercise physiology",
+        "Better recruitment/coordination",
+        "Only hypertrophy in week 1 always",
+        "Loss of motor skill"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy",
+        "Avoid assessments"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: a common error is to:",
+      "options": [
+        "Screen for red flags",
+        "Progress gradually",
+        "Individualize technique",
+        "Apply one cue to every body identically"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Avoid measuring progress"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Sleep deprivation",
+        "Pain racing",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "RPE is appropriate",
+        "Form breaks or risk rises",
+        "Client improves"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Client is dizzy",
+        "Quality is stable and ready for more challenge",
+        "Screening failed"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Track decisions and outcomes",
+        "Create gossip",
+        "Avoid planning"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: client education should be:",
+      "options": [
+        "Overpromising",
+        "Unintelligible jargon only",
+        "Fear-based only",
+        "Clear, realistic, and actionable"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: safety stop is required when:",
+      "options": [
+        "Music changes",
+        "Sweat appears",
+        "Shoes are new",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Session 9: best study method for this session is:",
+      "options": [
+        "One passive skim",
+        "Skipping diagrams",
+        "Avoiding practice",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 41: stroke volume — correct concept?",
+      "options": [
+        "Reps per set",
+        "Steps per day",
+        "Blood ejected per beat",
+        "Breaths per minute"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 42: cardiac output — correct concept?",
+      "options": [
+        "Only tidal volume",
+        "Only RPE",
+        "Only skinfold sum",
+        "HR × stroke volume"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 43: ventilation rise — correct concept?",
+      "options": [
+        "Apnea is the goal",
+        "Ventilation always falls",
+        "Breathing rate/depth increase with hard aerobic work",
+        "Gas exchange needs never change"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 44: muscle spindles — correct concept?",
+      "options": [
+        "Detect only blood lactate",
+        "Detect only tendon tension",
+        "Detect only BMD",
+        "Detect stretch/length; can trigger stretch reflex"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 45: GTO — correct concept?",
+      "options": [
+        "Detect tension; can promote autogenic inhibition",
+        "Detect only fiber length",
+        "Detect only HR",
+        "Detect only skin temp"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 46: autogenic inhibition — correct concept?",
+      "options": [
+        "Tension-related relaxation response associated with GTO",
+        "Only a nutrition term",
+        "Only a tempo code",
+        "Always a stretch-reflex contraction"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 47: reciprocal inhibition — correct concept?",
+      "options": [
+        "Breath-hold only",
+        "Bone growth only",
+        "Antagonist inhibition when agonist contracts",
+        "Both muscles max contract always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 48: chronic aerobic adaptation example — correct concept?",
+      "options": [
+        "Permanent mitochondria loss",
+        "Lower resting HR / better endurance capacity",
+        "Reduced stroke volume always",
+        "Inability to use fat"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 49: nervous system role in early strength — correct concept?",
+      "options": [
+        "Better recruitment/coordination",
+        "Only hypertrophy in week 1 always",
+        "Permanent myosin loss",
+        "Loss of motor skill"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Quick check 50: acute HR response to aerobic work — correct concept?",
+      "options": [
+        "HR always falls during hard work",
+        "Heart rate rises to meet demand",
+        "HR is unrelated to intensity",
+        "Breathing stops"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

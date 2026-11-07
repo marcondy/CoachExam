@@ -1,0 +1,659 @@
+{
+  "id": "session-16",
+  "sessionNumber": 16,
+  "title": "Evidence-Based Practice",
+  "domain": "Evidence-Based Practice",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to strongest evidence tier often?",
+      "options": [
+        "Single opinions",
+        "Anecdotes",
+        "Social trends",
+        "Systematic reviews/meta-analyses of quality studies"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, strongest evidence tier often matters because the key idea is:",
+      "options": [
+        "Anecdotes",
+        "Systematic reviews/meta-analyses of quality studies",
+        "Social trends",
+        "Single opinions"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about strongest evidence tier often:",
+      "options": [
+        "Single opinions",
+        "It is unrelated to evidence-based practice",
+        "Systematic reviews/meta-analyses of quality studies",
+        "Anecdotes"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to RCT value?",
+      "options": [
+        "Replaces ethics",
+        "Randomization helps reduce confounding",
+        "No limitations ever",
+        "Always animal-only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, RCT value matters because the key idea is:",
+      "options": [
+        "Replaces ethics",
+        "Always animal-only",
+        "No limitations ever",
+        "Randomization helps reduce confounding"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about RCT value:",
+      "options": [
+        "It is unrelated to evidence-based practice",
+        "Always animal-only",
+        "Randomization helps reduce confounding",
+        "No limitations ever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to bias means?",
+      "options": [
+        "Systematic distortion of findings",
+        "Publishing",
+        "Using statistics",
+        "Large samples"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, bias means matters because the key idea is:",
+      "options": [
+        "Publishing",
+        "Systematic distortion of findings",
+        "Large samples",
+        "Using statistics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about bias means:",
+      "options": [
+        "Using statistics",
+        "It is unrelated to evidence-based practice",
+        "Systematic distortion of findings",
+        "Large samples"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to p ≤ 0.05 means?",
+      "options": [
+        "Bias-free study",
+        "Below conventional chance threshold — not automatic practical importance",
+        "Huge effect guaranteed",
+        "Infinite sample"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, p ≤ 0.05 means matters because the key idea is:",
+      "options": [
+        "Bias-free study",
+        "Huge effect guaranteed",
+        "Below conventional chance threshold — not automatic practical importance",
+        "Infinite sample"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about p ≤ 0.05 means:",
+      "options": [
+        "Huge effect guaranteed",
+        "Bias-free study",
+        "It is unrelated to evidence-based practice",
+        "Below conventional chance threshold — not automatic practical importance"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to practical vs statistical significance?",
+      "options": [
+        "Ignore both",
+        "Stats unused in research",
+        "Identical concepts",
+        "Statistically significant can still be too small to matter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, practical vs statistical significance matters because the key idea is:",
+      "options": [
+        "Ignore both",
+        "Stats unused in research",
+        "Identical concepts",
+        "Statistically significant can still be too small to matter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about practical vs statistical significance:",
+      "options": [
+        "Statistically significant can still be too small to matter",
+        "Stats unused in research",
+        "It is unrelated to evidence-based practice",
+        "Identical concepts"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to case report rank?",
+      "options": [
+        "Not evidence at all",
+        "Lower hierarchy; hypothesis-generating",
+        "Above meta-analysis for cause",
+        "Gold standard above RCT"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, case report rank matters because the key idea is:",
+      "options": [
+        "Gold standard above RCT",
+        "Lower hierarchy; hypothesis-generating",
+        "Above meta-analysis for cause",
+        "Not evidence at all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about case report rank:",
+      "options": [
+        "Lower hierarchy; hypothesis-generating",
+        "Gold standard above RCT",
+        "Above meta-analysis for cause",
+        "It is unrelated to evidence-based practice"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to cross-sectional study?",
+      "options": [
+        "Always proves causation",
+        "Snapshot associations at one time",
+        "Replaces reviews",
+        "Long randomized interventions always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, cross-sectional study matters because the key idea is:",
+      "options": [
+        "Always proves causation",
+        "Replaces reviews",
+        "Long randomized interventions always",
+        "Snapshot associations at one time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about cross-sectional study:",
+      "options": [
+        "It is unrelated to evidence-based practice",
+        "Always proves causation",
+        "Long randomized interventions always",
+        "Snapshot associations at one time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to confirmation bias?",
+      "options": [
+        "Increase N correctly",
+        "Blind assessors properly",
+        "Seek disconfirming evidence carefully",
+        "Prefer info that supports prior beliefs"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, confirmation bias matters because the key idea is:",
+      "options": [
+        "Blind assessors properly",
+        "Increase N correctly",
+        "Seek disconfirming evidence carefully",
+        "Prefer info that supports prior beliefs"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about confirmation bias:",
+      "options": [
+        "Prefer info that supports prior beliefs",
+        "It is unrelated to evidence-based practice",
+        "Seek disconfirming evidence carefully",
+        "Blind assessors properly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to EBP integrates?",
+      "options": [
+        "Only influencers",
+        "Best evidence + expertise + client values",
+        "Ignore preferences",
+        "Never update"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, EBP integrates matters because the key idea is:",
+      "options": [
+        "Ignore preferences",
+        "Never update",
+        "Only influencers",
+        "Best evidence + expertise + client values"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about EBP integrates:",
+      "options": [
+        "Best evidence + expertise + client values",
+        "Only influencers",
+        "Ignore preferences",
+        "It is unrelated to evidence-based practice"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Which best defines/relates to conflicting papers — do:?",
+      "options": [
+        "Use oldest only",
+        "Pick only agreeing paper",
+        "Ignore research",
+        "Weigh quality, consistency, applicability; update views"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In coaching practice, conflicting papers — do: matters because the key idea is:",
+      "options": [
+        "Pick only agreeing paper",
+        "Use oldest only",
+        "Weigh quality, consistency, applicability; update views",
+        "Ignore research"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Select the correct statement about conflicting papers — do::",
+      "options": [
+        "Weigh quality, consistency, applicability; update views",
+        "It is unrelated to evidence-based practice",
+        "Pick only agreeing paper",
+        "Ignore research"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Avoid assessments",
+        "Ignore client anatomy",
+        "Replace medical care"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: a common error is to:",
+      "options": [
+        "Apply one cue to every body identically",
+        "Progress gradually",
+        "Screen for red flags",
+        "Individualize technique"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: evidence-informed coaches should:",
+      "options": [
+        "Avoid measuring progress",
+        "Ignore feedback",
+        "Combine principles with client context",
+        "Copy trends blindly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Technique and tissue tolerance basics",
+        "Max instability",
+        "Sleep deprivation"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "Client improves",
+        "RPE is appropriate",
+        "Form breaks or risk rises"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: progress an exercise when:",
+      "options": [
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Screening failed",
+        "Pain is sharp"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: documentation helps:",
+      "options": [
+        "Track decisions and outcomes",
+        "Hide errors",
+        "Avoid planning",
+        "Create gossip"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: client education should be:",
+      "options": [
+        "Unintelligible jargon only",
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Fear-based only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: safety stop is required when:",
+      "options": [
+        "Sweat appears",
+        "Shoes are new",
+        "Music changes",
+        "Red-flag symptoms appear"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Session 16: best study method for this session is:",
+      "options": [
+        "Skipping diagrams",
+        "Avoiding practice",
+        "One passive skim",
+        "Active recall + practical application"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 41: RCT value — correct concept?",
+      "options": [
+        "Randomization helps reduce confounding",
+        "Always animal-only",
+        "No limitations ever",
+        "Replaces ethics"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 42: bias means — correct concept?",
+      "options": [
+        "Systematic distortion of findings",
+        "Publishing",
+        "Large samples",
+        "Using statistics"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 43: p ≤ 0.05 means — correct concept?",
+      "options": [
+        "Infinite sample",
+        "Below conventional chance threshold — not automatic practical importance",
+        "Huge effect guaranteed",
+        "Bias-free study"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 44: practical vs statistical significance — correct concept?",
+      "options": [
+        "Identical concepts",
+        "Ignore both",
+        "Statistically significant can still be too small to matter",
+        "Stats unused in research"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 45: case report rank — correct concept?",
+      "options": [
+        "Gold standard above RCT",
+        "Above meta-analysis for cause",
+        "Lower hierarchy; hypothesis-generating",
+        "Not evidence at all"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 46: cross-sectional study — correct concept?",
+      "options": [
+        "Long randomized interventions always",
+        "Replaces reviews",
+        "Always proves causation",
+        "Snapshot associations at one time"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 47: confirmation bias — correct concept?",
+      "options": [
+        "Blind assessors properly",
+        "Prefer info that supports prior beliefs",
+        "Seek disconfirming evidence carefully",
+        "Increase N correctly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 48: EBP integrates — correct concept?",
+      "options": [
+        "Ignore preferences",
+        "Best evidence + expertise + client values",
+        "Only influencers",
+        "Never update"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 49: conflicting papers — do: — correct concept?",
+      "options": [
+        "Ignore research",
+        "Use oldest only",
+        "Pick only agreeing paper",
+        "Weigh quality, consistency, applicability; update views"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Quick check 50: strongest evidence tier often — correct concept?",
+      "options": [
+        "Anecdotes",
+        "Social trends",
+        "Systematic reviews/meta-analyses of quality studies",
+        "Single opinions"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

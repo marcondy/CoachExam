@@ -1,14 +1,25 @@
-# InspireExam
+# Practice Exam
 
-Practice theoretical **MCQ exams** for the Inspire Leadership Academy **Personal Fitness Coach** program, based on the Nov 2025 learners guidebook.
+Independent **MCQ practice** for personal fitness coach theory study.
 
 ## What’s included
 
-- **Exam 1** and **Exam 2** — 100 multiple-choice questions each
-- Same domain distribution on both papers, different questions
-- On-screen guidelines, progress tracker, question palette, domain scoring, and review of incorrect answers
+### Full exams (100 questions)
+- **Exam 1** and **Exam 2** — same domain mix, different questions
+- Domain scoring and incorrect-answer review
 
-### Question distribution (per exam)
+### Session exams (50 questions each)
+- **40 session exams** aligned to study sessions
+- Filterable session list on the home page
+- Lazy-loaded per session for faster mobile loads
+
+### Mobile-friendly UI
+- Responsive layout, large tap targets, sticky exam controls
+- Collapsible question map, safe-area padding
+
+> Independent study aid only — not an official certification exam and not affiliated with any academy or provider.
+
+## Full-exam domain distribution
 
 | Domain | Questions |
 | --- | ---: |
@@ -24,16 +35,13 @@ Practice theoretical **MCQ exams** for the Inspire Leadership Academy **Personal
 | Program Design | 8 |
 | **Total** | **100** |
 
-> This is a study aid, not an official Inspire certification exam.
-
 ## GitHub Pages
 
 The site lives in [`docs/`](docs/).
 
-1. In the repo: **Settings → Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main` (or your default), folder: **/docs**
-4. Open the published URL after the Pages build finishes
+1. **Settings → Pages**
+2. Deploy from branch: `main` (or default), folder **/docs**
+3. Open the published URL after the Pages build finishes
 
 Local preview:
 
@@ -41,8 +49,8 @@ Local preview:
 cd docs && python3 -m http.server 8080
 ```
 
-Then visit `http://127.0.0.1:8080`.
+Regenerate session banks (optional):
 
-## Source material
-
-`HKEYmZPASc6ANKTqBfvH_Inspire Leadership Academy - GUIDEBOOK FINALE - NOV 2025 - Learners version.pdf`
+```bash
+python3 scripts/generate_session_exams.py
+```

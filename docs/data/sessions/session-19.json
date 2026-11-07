@@ -1,0 +1,659 @@
+{
+  "id": "session-19",
+  "sessionNumber": 19,
+  "title": "The Coaching Process in Personal Training",
+  "domain": "Coaching & Behavior Change",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to inquiry stage prioritizes?",
+      "options": [
+        "Explore why the client reached out",
+        "Ignore history",
+        "Max failure testing immediately",
+        "Sell first, ask never"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, inquiry stage prioritizes matters because the key idea is:",
+      "options": [
+        "Ignore history",
+        "Max failure testing immediately",
+        "Explore why the client reached out",
+        "Sell first, ask never"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about inquiry stage prioritizes:",
+      "options": [
+        "Ignore history",
+        "Max failure testing immediately",
+        "Explore why the client reached out",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to first session prioritizes?",
+      "options": [
+        "Ignore medical history",
+        "Promise extreme results",
+        "Rapport, open questions, information gathering",
+        "Skip goals"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, first session prioritizes matters because the key idea is:",
+      "options": [
+        "Promise extreme results",
+        "Rapport, open questions, information gathering",
+        "Skip goals",
+        "Ignore medical history"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about first session prioritizes:",
+      "options": [
+        "Rapport, open questions, information gathering",
+        "Promise extreme results",
+        "Ignore medical history",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to SMART goal example?",
+      "options": [
+        "Get fit someday",
+        "Never eat again",
+        "Walk 30 minutes, 5 days/week, for the next month",
+        "Train harder forever vaguely"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, SMART goal example matters because the key idea is:",
+      "options": [
+        "Get fit someday",
+        "Walk 30 minutes, 5 days/week, for the next month",
+        "Never eat again",
+        "Train harder forever vaguely"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about SMART goal example:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "Train harder forever vaguely",
+        "Walk 30 minutes, 5 days/week, for the next month",
+        "Get fit someday"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to process goal example?",
+      "options": [
+        "Never feel hunger",
+        "Be perfect forever",
+        "Weigh X tomorrow by any means",
+        "Complete three supervised sessions this week as planned"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, process goal example matters because the key idea is:",
+      "options": [
+        "Weigh X tomorrow by any means",
+        "Complete three supervised sessions this week as planned",
+        "Be perfect forever",
+        "Never feel hunger"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about process goal example:",
+      "options": [
+        "Be perfect forever",
+        "Complete three supervised sessions this week as planned",
+        "Weigh X tomorrow by any means",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to adherence improves with?",
+      "options": [
+        "No tracking",
+        "Shame",
+        "Realistic plans and supportive follow-up",
+        "Impossible workloads"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, adherence improves with matters because the key idea is:",
+      "options": [
+        "Realistic plans and supportive follow-up",
+        "Impossible workloads",
+        "Shame",
+        "No tracking"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about adherence improves with:",
+      "options": [
+        "Realistic plans and supportive follow-up",
+        "Shame",
+        "Impossible workloads",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to coaching process is?",
+      "options": [
+        "A single lecture",
+        "Only assessment day",
+        "Only a sales funnel",
+        "A structured relationship across stages"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, coaching process is matters because the key idea is:",
+      "options": [
+        "Only a sales funnel",
+        "A single lecture",
+        "A structured relationship across stages",
+        "Only assessment day"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about coaching process is:",
+      "options": [
+        "It is unrelated to coaching & behavior change",
+        "A single lecture",
+        "A structured relationship across stages",
+        "Only a sales funnel"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to barriers exploration helps?",
+      "options": [
+        "Double volume immediately",
+        "End coaching",
+        "Anticipate obstacles and problem-solve",
+        "Blame character"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, barriers exploration helps matters because the key idea is:",
+      "options": [
+        "Double volume immediately",
+        "Blame character",
+        "Anticipate obstacles and problem-solve",
+        "End coaching"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about barriers exploration helps:",
+      "options": [
+        "Double volume immediately",
+        "Anticipate obstacles and problem-solve",
+        "Blame character",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to reviewing goals regularly?",
+      "options": [
+        "Is unethical",
+        "Wastes time always",
+        "Keeps plans relevant",
+        "Reduces motivation always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, reviewing goals regularly matters because the key idea is:",
+      "options": [
+        "Keeps plans relevant",
+        "Reduces motivation always",
+        "Wastes time always",
+        "Is unethical"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about reviewing goals regularly:",
+      "options": [
+        "Keeps plans relevant",
+        "Reduces motivation always",
+        "Wastes time always",
+        "It is unrelated to coaching & behavior change"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to client autonomy in planning?",
+      "options": [
+        "Means no coach input",
+        "Always reduces results",
+        "Is forbidden",
+        "Increases ownership"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, client autonomy in planning matters because the key idea is:",
+      "options": [
+        "Increases ownership",
+        "Means no coach input",
+        "Always reduces results",
+        "Is forbidden"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about client autonomy in planning:",
+      "options": [
+        "Is forbidden",
+        "It is unrelated to coaching & behavior change",
+        "Always reduces results",
+        "Increases ownership"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Which best defines/relates to session 19 takeaway?",
+      "options": [
+        "Process quality drives long-term change",
+        "Skip follow-ups",
+        "Only one hard workout matters",
+        "Ignore psychology"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In coaching practice, session 19 takeaway matters because the key idea is:",
+      "options": [
+        "Only one hard workout matters",
+        "Ignore psychology",
+        "Process quality drives long-term change",
+        "Skip follow-ups"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Select the correct statement about session 19 takeaway:",
+      "options": [
+        "Ignore psychology",
+        "It is unrelated to coaching & behavior change",
+        "Only one hard workout matters",
+        "Process quality drives long-term change"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: primary coaching application of this topic is to:",
+      "options": [
+        "Replace medical care",
+        "Improve safe, effective exercise decisions",
+        "Ignore client anatomy",
+        "Avoid assessments"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: a common error is to:",
+      "options": [
+        "Individualize technique",
+        "Apply one cue to every body identically",
+        "Screen for red flags",
+        "Progress gradually"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: before loading advanced variations, first ensure:",
+      "options": [
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Max instability",
+        "Pain racing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: regress an exercise when:",
+      "options": [
+        "RPE is appropriate",
+        "Warm-up feels good",
+        "Form breaks or risk rises",
+        "Client improves"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: progress an exercise when:",
+      "options": [
+        "Screening failed",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy",
+        "Pain is sharp"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: documentation helps:",
+      "options": [
+        "Create gossip",
+        "Avoid planning",
+        "Track decisions and outcomes",
+        "Hide errors"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: client education should be:",
+      "options": [
+        "Fear-based only",
+        "Unintelligible jargon only",
+        "Overpromising",
+        "Clear, realistic, and actionable"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: safety stop is required when:",
+      "options": [
+        "Sweat appears",
+        "Red-flag symptoms appear",
+        "Shoes are new",
+        "Music changes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Session 19: best study method for this session is:",
+      "options": [
+        "Active recall + practical application",
+        "One passive skim",
+        "Skipping diagrams",
+        "Avoiding practice"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 41: first session prioritizes — correct concept?",
+      "options": [
+        "Promise extreme results",
+        "Ignore medical history",
+        "Skip goals",
+        "Rapport, open questions, information gathering"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 42: SMART goal example — correct concept?",
+      "options": [
+        "Walk 30 minutes, 5 days/week, for the next month",
+        "Never eat again",
+        "Get fit someday",
+        "Train harder forever vaguely"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 43: process goal example — correct concept?",
+      "options": [
+        "Never feel hunger",
+        "Be perfect forever",
+        "Weigh X tomorrow by any means",
+        "Complete three supervised sessions this week as planned"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 44: adherence improves with — correct concept?",
+      "options": [
+        "Realistic plans and supportive follow-up",
+        "No tracking",
+        "Impossible workloads",
+        "Shame"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 45: coaching process is — correct concept?",
+      "options": [
+        "Only a sales funnel",
+        "A single lecture",
+        "A structured relationship across stages",
+        "Only assessment day"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 46: barriers exploration helps — correct concept?",
+      "options": [
+        "Blame character",
+        "End coaching",
+        "Double volume immediately",
+        "Anticipate obstacles and problem-solve"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 47: reviewing goals regularly — correct concept?",
+      "options": [
+        "Keeps plans relevant",
+        "Wastes time always",
+        "Is unethical",
+        "Reduces motivation always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 48: client autonomy in planning — correct concept?",
+      "options": [
+        "Is forbidden",
+        "Always reduces results",
+        "Increases ownership",
+        "Means no coach input"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 49: session 19 takeaway — correct concept?",
+      "options": [
+        "Ignore psychology",
+        "Process quality drives long-term change",
+        "Only one hard workout matters",
+        "Skip follow-ups"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Quick check 50: inquiry stage prioritizes — correct concept?",
+      "options": [
+        "Max failure testing immediately",
+        "Sell first, ask never",
+        "Ignore history",
+        "Explore why the client reached out"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

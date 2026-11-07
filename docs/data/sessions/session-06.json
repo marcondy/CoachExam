@@ -1,0 +1,659 @@
+{
+  "id": "session-6",
+  "sessionNumber": 6,
+  "title": "Biomechanics",
+  "domain": "Biomechanics",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Biomechanics",
+      "question": "Newton’s 2nd law is commonly:",
+      "options": [
+        "Force ignores mass",
+        "Inertia is irrelevant",
+        "F = ma",
+        "Only E=mc^2 as a training law"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Newton’s 3rd law states:",
+      "options": [
+        "Objects never move",
+        "Force has no direction",
+        "Equal and opposite reaction",
+        "Mass has no inertia"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Vector quantities include:",
+      "options": [
+        "Color and temperature",
+        "Direction only",
+        "Magnitude and direction",
+        "Magnitude only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A first-class lever has:",
+      "options": [
+        "Load between fulcrum and effort",
+        "Effort between fulcrum and load",
+        "No fulcrum",
+        "Fulcrum between effort and load"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A second-class lever has:",
+      "options": [
+        "No load",
+        "Load between fulcrum and effort",
+        "Effort between fulcrum and load",
+        "Fulcrum between effort and load"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A third-class lever has:",
+      "options": [
+        "No effort",
+        "Load between fulcrum and effort",
+        "Fulcrum between effort and load",
+        "Effort between fulcrum and load"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Inertia refers to:",
+      "options": [
+        "Only flexibility",
+        "Only VO2",
+        "Resistance to change in motion state",
+        "Only skinfolds"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Smith machines primarily:",
+      "options": [
+        "Remove all muscle activation",
+        "Constrain bar path and can change loading",
+        "Eliminate need for coaching",
+        "Always match free-squat path exactly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Practical vector idea:",
+      "options": [
+        "Constrained direction alters effective resistance",
+        "Only sleep matters",
+        "Vectors never matter",
+        "Only nutrition matters"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Force conceptually ties to:",
+      "options": [
+        "Only RPE letters",
+        "Only heart rate",
+        "Only shoe brand",
+        "Mass and acceleration"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Coaching biomechanics helps:",
+      "options": [
+        "Replace ethics",
+        "Make technique safer/more effective",
+        "Prescribe drugs",
+        "Diagnose disease"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Line of gravity vs base of support affects:",
+      "options": [
+        "Hair growth",
+        "Eye color",
+        "Tax rate",
+        "Balance"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "More mass with same acceleration needs:",
+      "options": [
+        "More force",
+        "No force",
+        "Less force always",
+        "Only momentum loss"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Momentum relates to:",
+      "options": [
+        "Mass × velocity",
+        "Only macros",
+        "Only age",
+        "Only height"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Mechanical work involves:",
+      "options": [
+        "Only Wi-Fi",
+        "Only color changes",
+        "Force through a displacement",
+        "Only sound volume"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Power relates to:",
+      "options": [
+        "Only shoe brand",
+        "Rate of doing work",
+        "Only body-fat %",
+        "Only flexibility"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Internal force creates movement when:",
+      "options": [
+        "It produces sufficient joint torque",
+        "It changes eye color",
+        "It sets CE credits",
+        "It prints labels"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "External resistance examples include:",
+      "options": [
+        "Only Wi-Fi",
+        "Gravity, bands, cables, machines",
+        "Only sunlight color",
+        "Only thoughts"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Technique changes can alter:",
+      "options": [
+        "Moment arms and tissue stress",
+        "Bone names weekly",
+        "Legal scope automatically",
+        "Ethics codes yearly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Biomechanics practice aims to:",
+      "options": [
+        "Ignore physics",
+        "Only memorize Latin",
+        "Skip coaching",
+        "Apply laws to real lifts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "More stable posture often uses:",
+      "options": [
+        "Always narrow base eyes-closed day one",
+        "No base of support",
+        "Highest COM always",
+        "Wider base and lower COM when needed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Overusing unstable surfaces early can:",
+      "options": [
+        "Always maximize strength fastest",
+        "Replace progressive overload",
+        "Reduce load quality",
+        "Eliminate warm-ups"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Bar-path coaching matters because:",
+      "options": [
+        "It measures IQ",
+        "It sets BMR alone",
+        "It changes passport data",
+        "It changes joint moments"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Ground reaction force exemplifies:",
+      "options": [
+        "Newton’s 3rd law in action",
+        "A skinfold site",
+        "A vitamin",
+        "A tempo digit"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Friction can:",
+      "options": [
+        "Help or limit desired motion",
+        "Never matter",
+        "Only matter for ethics",
+        "Only matter in swimming"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Center of mass location influences:",
+      "options": [
+        "Only hairstyle",
+        "Only phone battery",
+        "Only supplement timing",
+        "Balance and ease of rotation"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Alignment cues aim to:",
+      "options": [
+        "Manage lever arms and stress",
+        "Replace assessments",
+        "Entertain only",
+        "Ignore anatomy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Machine cams can:",
+      "options": [
+        "Vary resistance through ROM",
+        "Remove all physics",
+        "Measure VO2",
+        "Set protein targets"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Free weights usually require more:",
+      "options": [
+        "No coaching",
+        "Stabilizing control in freer paths",
+        "Zero control",
+        "Machines only forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Cue 'sit back' in hinges alters:",
+      "options": [
+        "Ear shape",
+        "Tooth enamel",
+        "Passport stamps",
+        "Hip moment emphasis"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Knee-travel debates should consider:",
+      "options": [
+        "Universal ban always",
+        "Anthropometry and tradeoffs",
+        "Ignoring hips",
+        "Universal max always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A stiffer trunk can improve:",
+      "options": [
+        "Finger length",
+        "Force transfer",
+        "Eye color",
+        "Accent"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Accelerating upward against gravity needs:",
+      "options": [
+        "Zero force",
+        "No mass",
+        "Force downward only",
+        "Net force upward"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Landing deceleration involves:",
+      "options": [
+        "Only concentric leaping",
+        "No force",
+        "Eccentric force absorption",
+        "Only isometric smiling"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Lever-class knowledge helps:",
+      "options": [
+        "Set macros",
+        "Explain mechanical advantage/disadvantage",
+        "Diagnose cancer",
+        "Write drugs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Limb mechanical disadvantage often means:",
+      "options": [
+        "Nerves disappear",
+        "Muscles produce high force for external loads",
+        "Muscles do nothing",
+        "Bones shorten"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Changing grip width can change:",
+      "options": [
+        "Client ethics automatically",
+        "Moment arms and muscle emphasis",
+        "Heart chambers",
+        "Bone count"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Cable line of pull matters because:",
+      "options": [
+        "Cables have no direction",
+        "Only color matters",
+        "Resistance vector changes demand",
+        "Only brand matters"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Step-length changes in lunges alter:",
+      "options": [
+        "Balance and joint demand",
+        "Passport ID",
+        "Eye color",
+        "Blood type"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Stance-width changes in squats alter:",
+      "options": [
+        "Legal name",
+        "Shoe size permanently",
+        "Number of ribs",
+        "Plane emphasis and anthropometric fit"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Tempo changes alter:",
+      "options": [
+        "Time under tension and control demands",
+        "Ethics codes",
+        "Scope of practice",
+        "Bone mineral instantly always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Pause reps alter:",
+      "options": [
+        "Ceiling height",
+        "Stretch-shortening reliance and control",
+        "Wi-Fi speed",
+        "Client age"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Bands generally increase resistance as they:",
+      "options": [
+        "Lose all tension when stretched",
+        "Become food",
+        "Ignore length",
+        "Stretch further"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Chains can alter:",
+      "options": [
+        "Load through the ROM",
+        "Only sleep need",
+        "Only skinfolds",
+        "Only CE credits"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Why teach Newton in PFC?",
+      "options": [
+        "Replace anatomy",
+        "Replace ethics",
+        "Link physics to coaching decisions",
+        "Replace nutrition"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A safer regression often reduces:",
+      "options": [
+        "External load and/or complexity",
+        "All feedback",
+        "All learning",
+        "All breathing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A progression often increases:",
+      "options": [
+        "Sleep deprivation",
+        "Pain as the goal",
+        "Load, ROM demand, or instability carefully",
+        "Chaos randomly"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Observing bar speed can hint at:",
+      "options": [
+        "Passport expiry",
+        "Shoe-brand loyalty",
+        "Favorite color",
+        "Fatigue and proximity to failure"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Biomechanics without client context fails because:",
+      "options": [
+        "Coaching is unnecessary",
+        "Physics is fake",
+        "Anthropometry and goals change choices",
+        "Clients are identical"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Session 6 takeaway:",
+      "options": [
+        "Avoid practice",
+        "Apply mechanical laws to exercise coaching",
+        "Ignore levers",
+        "Skip vectors"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

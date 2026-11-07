@@ -1,0 +1,659 @@
+{
+  "id": "session-31",
+  "sessionNumber": 31,
+  "title": "Fitness Assessment – Foundations",
+  "domain": "Fitness Assessment",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to why fitness test?",
+      "options": [
+        "Embarrass clients",
+        "Diagnose disease definitively",
+        "Replace communication",
+        "Baselines, guide programming, track progress safely"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, why fitness test matters because the key idea is:",
+      "options": [
+        "Baselines, guide programming, track progress safely",
+        "Replace communication",
+        "Embarrass clients",
+        "Diagnose disease definitively"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about why fitness test:",
+      "options": [
+        "Embarrass clients",
+        "Baselines, guide programming, track progress safely",
+        "Replace communication",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to before intense testing?",
+      "options": [
+        "Skip consent",
+        "Health screening / contraindications review",
+        "No explanation",
+        "Max eccentric into pain for all new clients"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, before intense testing matters because the key idea is:",
+      "options": [
+        "Max eccentric into pain for all new clients",
+        "No explanation",
+        "Health screening / contraindications review",
+        "Skip consent"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about before intense testing:",
+      "options": [
+        "Max eccentric into pain for all new clients",
+        "Skip consent",
+        "Health screening / contraindications review",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to health-related fitness includes?",
+      "options": [
+        "Only Olympic skill",
+        "Only shoe aesthetics",
+        "Cardio, strength/endurance, flexibility, body comp (as framed)",
+        "Only esports reaction"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, health-related fitness includes matters because the key idea is:",
+      "options": [
+        "Only Olympic skill",
+        "Only shoe aesthetics",
+        "Only esports reaction",
+        "Cardio, strength/endurance, flexibility, body comp (as framed)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about health-related fitness includes:",
+      "options": [
+        "Only Olympic skill",
+        "Cardio, strength/endurance, flexibility, body comp (as framed)",
+        "Only esports reaction",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to movement screens help?",
+      "options": [
+        "Measure VO2 exactly",
+        "Guarantee injury prevention forever",
+        "Spot limitations/asymmetries influencing exercise choice",
+        "Replace all imaging"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, movement screens help matters because the key idea is:",
+      "options": [
+        "Replace all imaging",
+        "Measure VO2 exactly",
+        "Guarantee injury prevention forever",
+        "Spot limitations/asymmetries influencing exercise choice"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about movement screens help:",
+      "options": [
+        "Spot limitations/asymmetries influencing exercise choice",
+        "It is unrelated to fitness assessment",
+        "Guarantee injury prevention forever",
+        "Replace all imaging"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to balance testing may use?",
+      "options": [
+        "Only diet recall",
+        "Only skinfolds",
+        "Only 1RM deadlift",
+        "Single-leg stance style assessments"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, balance testing may use matters because the key idea is:",
+      "options": [
+        "Only skinfolds",
+        "Only diet recall",
+        "Only 1RM deadlift",
+        "Single-leg stance style assessments"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about balance testing may use:",
+      "options": [
+        "Only skinfolds",
+        "Only 1RM deadlift",
+        "Single-leg stance style assessments",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to mobility testing informs?",
+      "options": [
+        "Hair dye",
+        "Whether to mobilize, stabilize, or modify lifts",
+        "Wi-Fi password",
+        "Passport data"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, mobility testing informs matters because the key idea is:",
+      "options": [
+        "Passport data",
+        "Hair dye",
+        "Whether to mobilize, stabilize, or modify lifts",
+        "Wi-Fi password"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about mobility testing informs:",
+      "options": [
+        "Hair dye",
+        "Passport data",
+        "It is unrelated to fitness assessment",
+        "Whether to mobilize, stabilize, or modify lifts"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to measurement error sources?",
+      "options": [
+        "Perfect labs only",
+        "Protocol, equipment, environment, client factors",
+        "Using standardized scripts",
+        "Zodiac only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, measurement error sources matters because the key idea is:",
+      "options": [
+        "Protocol, equipment, environment, client factors",
+        "Using standardized scripts",
+        "Zodiac only",
+        "Perfect labs only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about measurement error sources:",
+      "options": [
+        "It is unrelated to fitness assessment",
+        "Protocol, equipment, environment, client factors",
+        "Perfect labs only",
+        "Zodiac only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to select tests based on?",
+      "options": [
+        "Goals, health, training age, gear, safety",
+        "Avoid baselines",
+        "Only social media flex",
+        "Identical maximal battery for every person"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, select tests based on matters because the key idea is:",
+      "options": [
+        "Only social media flex",
+        "Identical maximal battery for every person",
+        "Avoid baselines",
+        "Goals, health, training age, gear, safety"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about select tests based on:",
+      "options": [
+        "Only social media flex",
+        "Identical maximal battery for every person",
+        "It is unrelated to fitness assessment",
+        "Goals, health, training age, gear, safety"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to explain procedures to?",
+      "options": [
+        "Rush silently",
+        "Improve cooperation and reduce anxiety",
+        "Hide risks",
+        "Confuse clients"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, explain procedures to matters because the key idea is:",
+      "options": [
+        "Hide risks",
+        "Rush silently",
+        "Improve cooperation and reduce anxiety",
+        "Confuse clients"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about explain procedures to:",
+      "options": [
+        "Improve cooperation and reduce anxiety",
+        "It is unrelated to fitness assessment",
+        "Confuse clients",
+        "Hide risks"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Which best defines/relates to session 31 takeaway?",
+      "options": [
+        "Ignore safety",
+        "Test for ego only",
+        "Assess to coach better, not to perform theater",
+        "Skip screens"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "In coaching practice, session 31 takeaway matters because the key idea is:",
+      "options": [
+        "Test for ego only",
+        "Skip screens",
+        "Assess to coach better, not to perform theater",
+        "Ignore safety"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Select the correct statement about session 31 takeaway:",
+      "options": [
+        "Test for ego only",
+        "Assess to coach better, not to perform theater",
+        "Skip screens",
+        "It is unrelated to fitness assessment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: primary coaching application of this topic is to:",
+      "options": [
+        "Ignore client anatomy",
+        "Improve safe, effective exercise decisions",
+        "Avoid assessments",
+        "Replace medical care"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: a common error is to:",
+      "options": [
+        "Apply one cue to every body identically",
+        "Individualize technique",
+        "Progress gradually",
+        "Screen for red flags"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Copy trends blindly",
+        "Ignore feedback",
+        "Avoid measuring progress"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: before loading advanced variations, first ensure:",
+      "options": [
+        "Pain racing",
+        "Max instability",
+        "Sleep deprivation",
+        "Technique and tissue tolerance basics"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: regress an exercise when:",
+      "options": [
+        "Client improves",
+        "Form breaks or risk rises",
+        "RPE is appropriate",
+        "Warm-up feels good"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Screening failed",
+        "Client is dizzy",
+        "Quality is stable and ready for more challenge"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: documentation helps:",
+      "options": [
+        "Hide errors",
+        "Create gossip",
+        "Track decisions and outcomes",
+        "Avoid planning"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: client education should be:",
+      "options": [
+        "Clear, realistic, and actionable",
+        "Overpromising",
+        "Fear-based only",
+        "Unintelligible jargon only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: safety stop is required when:",
+      "options": [
+        "Sweat appears",
+        "Music changes",
+        "Red-flag symptoms appear",
+        "Shoes are new"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Session 31: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "Active recall + practical application",
+        "Skipping diagrams",
+        "One passive skim"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 41: before intense testing — correct concept?",
+      "options": [
+        "Max eccentric into pain for all new clients",
+        "No explanation",
+        "Health screening / contraindications review",
+        "Skip consent"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 42: health-related fitness includes — correct concept?",
+      "options": [
+        "Only Olympic skill",
+        "Only esports reaction",
+        "Only shoe aesthetics",
+        "Cardio, strength/endurance, flexibility, body comp (as framed)"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 43: movement screens help — correct concept?",
+      "options": [
+        "Replace all imaging",
+        "Spot limitations/asymmetries influencing exercise choice",
+        "Measure VO2 exactly",
+        "Guarantee injury prevention forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 44: balance testing may use — correct concept?",
+      "options": [
+        "Only 1RM deadlift",
+        "Single-leg stance style assessments",
+        "Only skinfolds",
+        "Only diet recall"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 45: mobility testing informs — correct concept?",
+      "options": [
+        "Whether to mobilize, stabilize, or modify lifts",
+        "Passport data",
+        "Hair dye",
+        "Wi-Fi password"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 46: measurement error sources — correct concept?",
+      "options": [
+        "Protocol, equipment, environment, client factors",
+        "Perfect labs only",
+        "Using standardized scripts",
+        "Zodiac only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 47: select tests based on — correct concept?",
+      "options": [
+        "Only social media flex",
+        "Identical maximal battery for every person",
+        "Avoid baselines",
+        "Goals, health, training age, gear, safety"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 48: explain procedures to — correct concept?",
+      "options": [
+        "Improve cooperation and reduce anxiety",
+        "Hide risks",
+        "Confuse clients",
+        "Rush silently"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 49: session 31 takeaway — correct concept?",
+      "options": [
+        "Ignore safety",
+        "Skip screens",
+        "Test for ego only",
+        "Assess to coach better, not to perform theater"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Quick check 50: why fitness test — correct concept?",
+      "options": [
+        "Diagnose disease definitively",
+        "Baselines, guide programming, track progress safely",
+        "Embarrass clients",
+        "Replace communication"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

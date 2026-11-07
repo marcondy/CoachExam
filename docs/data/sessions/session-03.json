@@ -1,0 +1,659 @@
+{
+  "id": "session-3",
+  "sessionNumber": 3,
+  "title": "Functional Anatomy – Articular System",
+  "domain": "Functional Anatomy",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Functional Anatomy",
+      "question": "Greatest ROM joint type is usually:",
+      "options": [
+        "Synovial (diarthrosis)",
+        "Synarthrosis always",
+        "Suture only",
+        "Fibrous"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Fibrous joints generally have:",
+      "options": [
+        "Huge synovial cavity",
+        "Maximal ROM always",
+        "Only cartilage links",
+        "Little/no cavity; dense CT binding"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Cartilaginous joint example:",
+      "options": [
+        "Pubic symphysis",
+        "Knee synovial cavity alone",
+        "Glenohumeral",
+        "Radiocarpal"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Synovial joints are supported by:",
+      "options": [
+        "Only fat pads",
+        "Only bone fusion",
+        "Only skin",
+        "Capsule plus ligaments/muscles"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "GH joint is:",
+      "options": [
+        "Hinge only",
+        "Fibrous immovable",
+        "Synovial ball-and-socket",
+        "Cartilaginous like symphysis"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Scapulothoracic motion matters because:",
+      "options": [
+        "It is identical to a knee hinge capsule",
+        "It contributes to overhead function",
+        "It replaces GH entirely",
+        "It never moves"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Elbow flexion/extension is primarily:",
+      "options": [
+        "Fibrous lock",
+        "No joint motion",
+        "Ball-and-socket only",
+        "Hinge-like synovial motion"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip joint type is typically:",
+      "options": [
+        "Gomphosis",
+        "Ball-and-socket synovial",
+        "Fibrous",
+        "Suture"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Ankle dorsiflexion moves the foot:",
+      "options": [
+        "Down like pointing toes",
+        "Only into inversion",
+        "Only into eversion",
+        "Up toward the shin"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Plantarflexion moves the foot:",
+      "options": [
+        "Downward",
+        "Up toward the shin",
+        "Only into ulnar deviation",
+        "Only into radial deviation"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Abduction moves a limb:",
+      "options": [
+        "Only forward",
+        "Only backward",
+        "Away from midline",
+        "Toward midline"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Adduction moves a limb:",
+      "options": [
+        "Only spinning",
+        "Toward midline",
+        "Away from midline",
+        "Only upward"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Rotation commonly occurs in the:",
+      "options": [
+        "Frontal plane only always",
+        "Sagittal plane only always",
+        "No plane",
+        "Transverse plane"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Shoulder horizontal adduction is key in:",
+      "options": [
+        "Calf raises",
+        "Neck circles only",
+        "Pressing/fly patterns",
+        "Wrist curls only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Ligaments mainly:",
+      "options": [
+        "Store glycogen only",
+        "Connect bone to bone and support joints",
+        "Sense light",
+        "Contract like muscle"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Articular cartilage mainly:",
+      "options": [
+        "Filters blood",
+        "Contracts forcibly",
+        "Produces insulin",
+        "Reduces friction and cushions surfaces"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Exercise can benefit joint health by:",
+      "options": [
+        "Supporting tolerable loading and motion",
+        "Avoiding all movement forever",
+        "Eliminating synovial fluid",
+        "Removing cartilage on purpose"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Amphiarthrosis typically allows:",
+      "options": [
+        "No movement ever",
+        "Slight movement",
+        "Only ball-and-socket motion",
+        "Greatest ROM of all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Synarthrosis typically allows:",
+      "options": [
+        "Only circumduction",
+        "Only opposition",
+        "Little or no movement",
+        "Maximal ROM"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The wrist is generally:",
+      "options": [
+        "A pubic symphysis",
+        "A synovial multi-articulation region",
+        "A growth plate only",
+        "A fibrous skull suture"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The knee is primarily:",
+      "options": [
+        "An immovable skull plate",
+        "A fibrous tooth socket",
+        "A complex synovial hinge-like joint",
+        "A suture"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Stability–mobility tradeoff means:",
+      "options": [
+        "More mobility often needs more active control",
+        "All joints are identical",
+        "Stability never matters",
+        "ROM is irrelevant"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Fundamental motions include:",
+      "options": [
+        "Flexion/extension, ab/adduction, rotation",
+        "Only sweating",
+        "Only digestion",
+        "Only blinking"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Circumduction combines:",
+      "options": [
+        "Multiple angular movements in a circular pattern",
+        "Only bone growth",
+        "Only pure translation",
+        "Only isometric holds"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Close-packed ideas relate to:",
+      "options": [
+        "Higher congruency/stability positions",
+        "Nutrition labels only",
+        "RPE charts only",
+        "Skinfolds only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Open kinetic chain often means:",
+      "options": [
+        "No muscle activity",
+        "Feet always fixed",
+        "Only isometric work",
+        "Distal segment freer to move"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Closed kinetic chain often means:",
+      "options": [
+        "No joints involved",
+        "Distal segment fixed (e.g., foot on floor in squat)",
+        "Only stretching",
+        "Arms never move"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Shoulder complex includes:",
+      "options": [
+        "Only dental joints",
+        "Only skull sutures",
+        "Only one toe joint",
+        "GH plus scapulothoracic contributions"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Joint ROM assessment helps coaches:",
+      "options": [
+        "Diagnose cancer",
+        "Prescribe antibiotics",
+        "Ignore clients",
+        "Select regressions/progressions safely"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Uncontrolled end-range loading may:",
+      "options": [
+        "Eliminate need for control",
+        "Always hypertrophy faster safely",
+        "Increase tissue stress risk",
+        "Remove warm-ups forever"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Synovial fluid mainly:",
+      "options": [
+        "Sets heart rate",
+        "Stores vitamins only",
+        "Contracts muscle",
+        "Lubricates and nourishes cartilage"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Menisci help with:",
+      "options": [
+        "Exclusive oxygen storage",
+        "Load distribution and congruence",
+        "Sweat production",
+        "Replacing ligaments always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bursae mainly:",
+      "options": [
+        "Filter lymph only",
+        "Sense sound",
+        "Generate ATP",
+        "Reduce friction between tissues"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hypermobility implies:",
+      "options": [
+        "Greater than typical ROM; may need control focus",
+        "Zero ROM",
+        "No coaching needed",
+        "Automatic strength"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hypomobility implies:",
+      "options": [
+        "No joints present",
+        "Excess ROM always",
+        "Reduced ROM; may need mobility strategy",
+        "Only neural drive"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Joint-friendly coaching prioritizes:",
+      "options": [
+        "Pain racing",
+        "Control, tolerance, and progressive exposure",
+        "Max load on day one always",
+        "Ignoring structure"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pronation/supination involves:",
+      "options": [
+        "Only the TMJ",
+        "Radioulnar contributions",
+        "Only the toes",
+        "Only the ankle mortise"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Facet orientation influences:",
+      "options": [
+        "Supplement ads",
+        "Hair color",
+        "Preferred spinal motion directions by region",
+        "Shoe brand"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Thoracic rotation is often:",
+      "options": [
+        "Identical to wrist ROM",
+        "Greater than lumbar rotation",
+        "Zero always",
+        "Irrelevant to coaching"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lumbar region typically favors:",
+      "options": [
+        "Only finger circumduction",
+        "Only jaw glide",
+        "Flexion/extension more than large rotation",
+        "Only scapular tilt"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Foot/ankle complex supports:",
+      "options": [
+        "Only gripping pens",
+        "Only vision",
+        "Shock absorption and propulsion",
+        "Only speech"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pelvis links:",
+      "options": [
+        "Only the hands",
+        "Axial and lower appendicular systems",
+        "Only the teeth",
+        "Only the skull"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Labrum contributes to:",
+      "options": [
+        "Hearing",
+        "Congruency and stability support",
+        "Insulin release",
+        "Skin pigment"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Capsular tightness can limit:",
+      "options": [
+        "Bone marrow production only",
+        "Taste only",
+        "Available ROM",
+        "Hair growth only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Owning end range means:",
+      "options": [
+        "Control near limits rather than collapse",
+        "Bounce forcefully always",
+        "Avoid all ROM",
+        "Ignore technique"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Accessory joint motions matter because:",
+      "options": [
+        "They support osteokinematic ROM",
+        "They set macros",
+        "They measure VO2",
+        "They replace muscles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Warm-up before loaded end ranges helps:",
+      "options": [
+        "Prepare tissues and motor control",
+        "Replace sleep",
+        "Guarantee injury",
+        "Remove need for progression"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Unilateral stance challenges:",
+      "options": [
+        "Only wrist flexion",
+        "Frontal-plane hip/pelvis control",
+        "Only jaw opening",
+        "Only eye tracking"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Shoulder IR/ER control is critical for:",
+      "options": [
+        "GH stability in many presses/raises",
+        "Only neck flexion",
+        "Only chewing",
+        "Only calf training"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Best articular coaching takeaway:",
+      "options": [
+        "Know joint type/motion to choose safe exercises",
+        "Ignore joints",
+        "Treat fractures",
+        "Inject joints"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

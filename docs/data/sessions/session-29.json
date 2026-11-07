@@ -1,0 +1,659 @@
+{
+  "id": "session-29",
+  "sessionNumber": 29,
+  "title": "Exercise Techniques – Elbow Flexors & Core",
+  "domain": "Exercise Techniques",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to biceps curl trains?",
+      "options": [
+        "Plantarflexors",
+        "Hip abductors only",
+        "Upper traps as prime",
+        "Elbow flexors"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, biceps curl trains matters because the key idea is:",
+      "options": [
+        "Upper traps as prime",
+        "Elbow flexors",
+        "Plantarflexors",
+        "Hip abductors only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about biceps curl trains:",
+      "options": [
+        "Plantarflexors",
+        "It is unrelated to exercise techniques",
+        "Elbow flexors",
+        "Hip abductors only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to brachialis emphasis tricks?",
+      "options": [
+        "Only neck bridge",
+        "Only jaw clench",
+        "Only calf raise",
+        "Often more neutral-grip / arm-position strategies"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, brachialis emphasis tricks matters because the key idea is:",
+      "options": [
+        "Often more neutral-grip / arm-position strategies",
+        "Only jaw clench",
+        "Only neck bridge",
+        "Only calf raise"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about brachialis emphasis tricks:",
+      "options": [
+        "Only calf raise",
+        "Often more neutral-grip / arm-position strategies",
+        "It is unrelated to exercise techniques",
+        "Only neck bridge"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to plank trains?",
+      "options": [
+        "Only smiling",
+        "Only ankle DF as prime",
+        "Anti-extension core endurance/control",
+        "Only wrist RD"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, plank trains matters because the key idea is:",
+      "options": [
+        "Only smiling",
+        "Only wrist RD",
+        "Only ankle DF as prime",
+        "Anti-extension core endurance/control"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about plank trains:",
+      "options": [
+        "Anti-extension core endurance/control",
+        "It is unrelated to exercise techniques",
+        "Only wrist RD",
+        "Only ankle DF as prime"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to dead bug emphasizes?",
+      "options": [
+        "Controlled core with limb motion",
+        "Max lumbar arch flailing",
+        "Only finger spreads",
+        "Only neck circles"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, dead bug emphasizes matters because the key idea is:",
+      "options": [
+        "Max lumbar arch flailing",
+        "Only neck circles",
+        "Controlled core with limb motion",
+        "Only finger spreads"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about dead bug emphasizes:",
+      "options": [
+        "Controlled core with limb motion",
+        "Only neck circles",
+        "Max lumbar arch flailing",
+        "It is unrelated to exercise techniques"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to anti-rotation example?",
+      "options": [
+        "Only shrugs",
+        "Only ankle hops",
+        "Pallof-style resists twisting",
+        "Only bouncing crunches"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, anti-rotation example matters because the key idea is:",
+      "options": [
+        "Pallof-style resists twisting",
+        "Only shrugs",
+        "Only bouncing crunches",
+        "Only ankle hops"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about anti-rotation example:",
+      "options": [
+        "Only ankle hops",
+        "Pallof-style resists twisting",
+        "It is unrelated to exercise techniques",
+        "Only bouncing crunches"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to rectus abdominis action?",
+      "options": [
+        "Plantarflexion",
+        "Trunk extension as prime",
+        "Trunk flexion",
+        "Hip abduction"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, rectus abdominis action matters because the key idea is:",
+      "options": [
+        "Plantarflexion",
+        "Hip abduction",
+        "Trunk extension as prime",
+        "Trunk flexion"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about rectus abdominis action:",
+      "options": [
+        "Trunk flexion",
+        "It is unrelated to exercise techniques",
+        "Plantarflexion",
+        "Trunk extension as prime"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to oblique role?",
+      "options": [
+        "Rotation/side-bend and control",
+        "Only jaw open",
+        "Only finger flexion",
+        "Only PF"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, oblique role matters because the key idea is:",
+      "options": [
+        "Only jaw open",
+        "Only PF",
+        "Rotation/side-bend and control",
+        "Only finger flexion"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about oblique role:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Only finger flexion",
+        "Only PF",
+        "Rotation/side-bend and control"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to curl variation changes?",
+      "options": [
+        "Passport",
+        "Shoulder position and emphasis",
+        "Eye color",
+        "Bone count"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, curl variation changes matters because the key idea is:",
+      "options": [
+        "Eye color",
+        "Passport",
+        "Shoulder position and emphasis",
+        "Bone count"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about curl variation changes:",
+      "options": [
+        "It is unrelated to exercise techniques",
+        "Shoulder position and emphasis",
+        "Passport",
+        "Bone count"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to core under load in lifts?",
+      "options": [
+        "Brace to transfer force",
+        "Relax completely under max",
+        "Hold breath entire workout week",
+        "Ignore trunk"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, core under load in lifts matters because the key idea is:",
+      "options": [
+        "Relax completely under max",
+        "Ignore trunk",
+        "Brace to transfer force",
+        "Hold breath entire workout week"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about core under load in lifts:",
+      "options": [
+        "Hold breath entire workout week",
+        "Relax completely under max",
+        "It is unrelated to exercise techniques",
+        "Brace to transfer force"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Which best defines/relates to session 29 takeaway?",
+      "options": [
+        "Skip core",
+        "Ignore bracing",
+        "Only mirror curls",
+        "Arm flexors + core anti-movement skills both matter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In coaching practice, session 29 takeaway matters because the key idea is:",
+      "options": [
+        "Skip core",
+        "Only mirror curls",
+        "Arm flexors + core anti-movement skills both matter",
+        "Ignore bracing"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Select the correct statement about session 29 takeaway:",
+      "options": [
+        "Only mirror curls",
+        "Skip core",
+        "It is unrelated to exercise techniques",
+        "Arm flexors + core anti-movement skills both matter"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: primary coaching application of this topic is to:",
+      "options": [
+        "Improve safe, effective exercise decisions",
+        "Replace medical care",
+        "Avoid assessments",
+        "Ignore client anatomy"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: a common error is to:",
+      "options": [
+        "Apply one cue to every body identically",
+        "Screen for red flags",
+        "Progress gradually",
+        "Individualize technique"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: evidence-informed coaches should:",
+      "options": [
+        "Combine principles with client context",
+        "Ignore feedback",
+        "Avoid measuring progress",
+        "Copy trends blindly"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: before loading advanced variations, first ensure:",
+      "options": [
+        "Max instability",
+        "Technique and tissue tolerance basics",
+        "Sleep deprivation",
+        "Pain racing"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: regress an exercise when:",
+      "options": [
+        "Warm-up feels good",
+        "Form breaks or risk rises",
+        "RPE is appropriate",
+        "Client improves"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: progress an exercise when:",
+      "options": [
+        "Pain is sharp",
+        "Screening failed",
+        "Quality is stable and ready for more challenge",
+        "Client is dizzy"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: documentation helps:",
+      "options": [
+        "Avoid planning",
+        "Hide errors",
+        "Track decisions and outcomes",
+        "Create gossip"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: client education should be:",
+      "options": [
+        "Fear-based only",
+        "Overpromising",
+        "Clear, realistic, and actionable",
+        "Unintelligible jargon only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: safety stop is required when:",
+      "options": [
+        "Shoes are new",
+        "Red-flag symptoms appear",
+        "Sweat appears",
+        "Music changes"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Session 29: best study method for this session is:",
+      "options": [
+        "Avoiding practice",
+        "One passive skim",
+        "Active recall + practical application",
+        "Skipping diagrams"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 41: brachialis emphasis tricks — correct concept?",
+      "options": [
+        "Only neck bridge",
+        "Only calf raise",
+        "Often more neutral-grip / arm-position strategies",
+        "Only jaw clench"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 42: plank trains — correct concept?",
+      "options": [
+        "Only ankle DF as prime",
+        "Anti-extension core endurance/control",
+        "Only smiling",
+        "Only wrist RD"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 43: dead bug emphasizes — correct concept?",
+      "options": [
+        "Only neck circles",
+        "Controlled core with limb motion",
+        "Only finger spreads",
+        "Max lumbar arch flailing"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 44: anti-rotation example — correct concept?",
+      "options": [
+        "Only ankle hops",
+        "Pallof-style resists twisting",
+        "Only bouncing crunches",
+        "Only shrugs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 45: rectus abdominis action — correct concept?",
+      "options": [
+        "Trunk extension as prime",
+        "Plantarflexion",
+        "Trunk flexion",
+        "Hip abduction"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 46: oblique role — correct concept?",
+      "options": [
+        "Only finger flexion",
+        "Only jaw open",
+        "Rotation/side-bend and control",
+        "Only PF"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 47: curl variation changes — correct concept?",
+      "options": [
+        "Eye color",
+        "Passport",
+        "Shoulder position and emphasis",
+        "Bone count"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 48: core under load in lifts — correct concept?",
+      "options": [
+        "Ignore trunk",
+        "Relax completely under max",
+        "Brace to transfer force",
+        "Hold breath entire workout week"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 49: session 29 takeaway — correct concept?",
+      "options": [
+        "Ignore bracing",
+        "Only mirror curls",
+        "Arm flexors + core anti-movement skills both matter",
+        "Skip core"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Quick check 50: biceps curl trains — correct concept?",
+      "options": [
+        "Upper traps as prime",
+        "Elbow flexors",
+        "Plantarflexors",
+        "Hip abductors only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}

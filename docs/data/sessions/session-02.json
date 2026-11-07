@@ -1,0 +1,659 @@
+{
+  "id": "session-2",
+  "sessionNumber": 2,
+  "title": "Functional Anatomy – Skeletal System",
+  "domain": "Functional Anatomy",
+  "questionCount": 50,
+  "questions": [
+    {
+      "domain": "Functional Anatomy",
+      "question": "Anterior means:",
+      "options": [
+        "Away from head",
+        "Plantar surface",
+        "Front of the body",
+        "Toward midline"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Knee relative to ankle is:",
+      "options": [
+        "Lateral",
+        "Inferior",
+        "Superior",
+        "Distal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Biceps curl plane is primarily:",
+      "options": [
+        "Scapular only",
+        "Transverse only",
+        "Sagittal",
+        "Frontal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Wolff’s law concerns:",
+      "options": [
+        "Glycogen only",
+        "VO2 prediction",
+        "Skinfolds",
+        "Bone remodeling with loading"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Axial skeleton includes:",
+      "options": [
+        "Humerus only",
+        "Carpals only",
+        "Femur/tibia only",
+        "Skull, spine, thorax"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Appendicular skeleton includes:",
+      "options": [
+        "Only ribs",
+        "Only vertebrae",
+        "Only skull",
+        "Limbs and girdles"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Prone means:",
+      "options": [
+        "Standing",
+        "Sitting",
+        "Face down",
+        "Face up"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Supine means:",
+      "options": [
+        "Face down",
+        "Face up",
+        "Side-lying only",
+        "Kneeling"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Distal means:",
+      "options": [
+        "Farther from trunk attachment",
+        "Deep only",
+        "Closer to trunk",
+        "Medial only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Medial means:",
+      "options": [
+        "Superior",
+        "Toward midline",
+        "Away from midline",
+        "Anterior"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Lateral means:",
+      "options": [
+        "Toward midline",
+        "Inferior",
+        "Away from midline",
+        "Palmar"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Ipsilateral means:",
+      "options": [
+        "Same side",
+        "Deep",
+        "Opposite side",
+        "Both sides"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Contralateral means:",
+      "options": [
+        "Proximal",
+        "Opposite side",
+        "Same side",
+        "Bilateral"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Unilateral means:",
+      "options": [
+        "Both sides together",
+        "One side at a time",
+        "No free weights",
+        "Upper only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bilateral squat uses:",
+      "options": [
+        "One leg only",
+        "Arms only",
+        "Eyes closed seated",
+        "Both legs together"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Plantar refers to:",
+      "options": [
+        "Palm dorsal",
+        "Anterior thigh",
+        "Bottom of foot",
+        "Top of foot"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Dorsal on the foot refers to:",
+      "options": [
+        "Deep fascia only",
+        "Palm only",
+        "Top of the foot",
+        "Sole only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Superficial means:",
+      "options": [
+        "Closer to surface",
+        "Distal always",
+        "Inside marrow",
+        "Deeper always"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Deep means:",
+      "options": [
+        "Always lateral",
+        "Always skin",
+        "Farther from surface",
+        "Always distal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Thigh region is:",
+      "options": [
+        "Elbow to wrist",
+        "Hip to knee",
+        "Knee to ankle",
+        "Shoulder to elbow"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Leg (lower leg) is:",
+      "options": [
+        "Shoulder to wrist",
+        "Knee to ankle",
+        "Neck to hip",
+        "Hip to knee"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Long-bone shaft is called:",
+      "options": [
+        "Ilium",
+        "Scapula",
+        "Patella",
+        "Diaphysis"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bone landmarks help:",
+      "options": [
+        "Locate attachments/analysis",
+        "Predict IQ",
+        "Replace ethics",
+        "Measure VO2"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Youth resistance training is generally:",
+      "options": [
+        "Adults-only forever",
+        "Impossible",
+        "Always harmful",
+        "Safe if supervised/programmed"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bone mineral density adapts with:",
+      "options": [
+        "Only dehydration",
+        "Appropriate loading",
+        "Only caffeine",
+        "Only bed rest"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Protective bone function includes:",
+      "options": [
+        "Storing helium",
+        "Producing sweat",
+        "Shielding organs",
+        "Secreting insulin"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Skeleton aids movement by:",
+      "options": [
+        "Providing levers for muscles",
+        "Secreting insulin",
+        "Pumping blood directly",
+        "Contracting like muscle"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Marrow relates to:",
+      "options": [
+        "Melanin only",
+        "Blood cell production",
+        "Hair growth only",
+        "Tendon bounce only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Mineral storage includes:",
+      "options": [
+        "Helium only",
+        "Creatine only",
+        "Calcium and phosphate",
+        "Glycogen only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Superior means:",
+      "options": [
+        "Toward midline",
+        "Toward the head",
+        "Away from head",
+        "Away from midline"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Inferior means:",
+      "options": [
+        "Away from the head",
+        "Palmar only",
+        "Toward the head",
+        "Ipsilateral only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Proximal means:",
+      "options": [
+        "Closer to trunk attachment",
+        "Deep only",
+        "Farther from trunk",
+        "Anterior only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Posterior means:",
+      "options": [
+        "Toward head",
+        "Toward midline",
+        "Front of the body",
+        "Back of the body"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Humerus is:",
+      "options": [
+        "Rib only",
+        "Axial skull only",
+        "Appendicular",
+        "Vertebral only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Femur is:",
+      "options": [
+        "Axial thorax only",
+        "Cranial only",
+        "Appendicular",
+        "Hyoid only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Ribs are primarily:",
+      "options": [
+        "Tarsals",
+        "Axial (thorax)",
+        "Appendicular leg",
+        "Carpals"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Scapula is:",
+      "options": [
+        "Axial skull",
+        "Coccyx only",
+        "Appendicular (girdle)",
+        "Hyoid"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Planes of motion help:",
+      "options": [
+        "Replace assessments",
+        "Describe/coach movement",
+        "Rename bones weekly",
+        "Eliminate levers"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Anatomical position standardizes:",
+      "options": [
+        "Directional terms",
+        "1RM loads",
+        "Supplement timing",
+        "RPE charts"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Why study anatomy?",
+      "options": [
+        "Write drug scripts",
+        "Replace physicians",
+        "Motion analysis and safe coaching",
+        "Ignore joints"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hyper- often means:",
+      "options": [
+        "Absent",
+        "Lateral",
+        "Above normal",
+        "Below normal"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hypo- often means:",
+      "options": [
+        "Bilateral",
+        "Below normal",
+        "Rotated",
+        "Above normal"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Palmar refers to:",
+      "options": [
+        "Sole of foot",
+        "Anterior hand surface",
+        "Lateral knee",
+        "Back of skull"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Arm (brachium) often means:",
+      "options": [
+        "Elbow to wrist only",
+        "Hip to knee",
+        "Shoulder to elbow",
+        "Whole spine"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Forearm is:",
+      "options": [
+        "Knee to hip",
+        "Shoulder to elbow",
+        "Elbow to wrist",
+        "Hip to ankle"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Growth-plate awareness relates to:",
+      "options": [
+        "Appropriate youth loading",
+        "Avoiding all activity",
+        "Max adult 1RM day 1",
+        "Ignoring age"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Male/female skeletal differences teach:",
+      "options": [
+        "Morphological variation for coaching",
+        "No anthropometry",
+        "One sex cannot train",
+        "No programming"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Support function of bone includes:",
+      "options": [
+        "Only vision",
+        "Structural framework",
+        "Only smell sensing",
+        "Only speech"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Squats are typically:",
+      "options": [
+        "Transverse spin only",
+        "Pure frontal only",
+        "Planeless",
+        "Sagittal-dominant patterns"
+      ],
+      "answer": 3,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Learning bone names supports:",
+      "options": [
+        "Diagnosing cancer",
+        "Communication and attachments",
+        "Prescribing antibiotics",
+        "Ignoring insertions"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    }
+  ]
+}
