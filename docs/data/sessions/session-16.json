@@ -514,15 +514,15 @@
     },
     {
       "domain": "Evidence-Based Practice",
-      "question": "Session 16: best study method for this session is:",
+      "question": "An evidence-based coach facing conflicting claims should:",
       "options": [
-        "Skipping diagrams",
-        "Avoiding practice",
-        "One passive skim",
-        "Active recall + practical application"
+        "Ignore all research",
+        "Change methods every hour",
+        "Follow the loudest influencer",
+        "Weigh study quality and applicability to the client"
       ],
       "answer": 3,
-      "explanation": "",
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

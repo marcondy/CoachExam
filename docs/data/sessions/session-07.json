@@ -322,7 +322,7 @@
       "question": "Which best defines/relates to internal torque?",
       "options": [
         "Muscle force creating rotation about a joint",
-        "A CE credit",
+        "A social media trend",
         "A food label term",
         "A skinfold site"
       ],
@@ -336,7 +336,7 @@
       "options": [
         "A skinfold site",
         "Muscle force creating rotation about a joint",
-        "A CE credit",
+        "A social media trend",
         "A food label term"
       ],
       "answer": 1,
@@ -514,15 +514,15 @@
     },
     {
       "domain": "Biomechanics",
-      "question": "Session 7: best study method for this session is:",
+      "question": "When applying biomechanics in a session, a coach should mainly:",
       "options": [
-        "Avoiding practice",
-        "One passive skim",
-        "Skipping diagrams",
-        "Active recall + practical application"
+        "Ignore body proportions",
+        "Cue randomly without observing",
+        "Maximize pain as feedback",
+        "Adjust technique and loading to manage joint moments safely"
       ],
       "answer": 3,
-      "explanation": "",
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {
@@ -620,7 +620,7 @@
       "domain": "Biomechanics",
       "question": "Quick check 48: internal torque — correct concept?",
       "options": [
-        "A CE credit",
+        "A social media trend",
         "Muscle force creating rotation about a joint",
         "A food label term",
         "A skinfold site"

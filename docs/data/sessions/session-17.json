@@ -514,15 +514,15 @@
     },
     {
       "domain": "Coaching & Behavior Change",
-      "question": "Session 17: best study method for this session is:",
+      "question": "Behavior-change skill helps a coach mainly to:",
       "options": [
-        "Skipping diagrams",
-        "Avoiding practice",
-        "One passive skim",
-        "Active recall + practical application"
+        "Ignore readiness to change",
+        "Replace all training with lectures",
+        "Improve adherence through rapport, goals, and autonomy support",
+        "Force compliance with shame"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 2,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

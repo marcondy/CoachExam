@@ -514,15 +514,15 @@
     },
     {
       "domain": "Nutrition",
-      "question": "Session 14: best study method for this session is:",
+      "question": "Within scope, a coach’s nutrition role is best described as:",
       "options": [
-        "One passive skim",
-        "Avoiding practice",
-        "Skipping diagrams",
-        "Active recall + practical application"
+        "Supporting general healthy habits and referring medical nutrition needs",
+        "Selling unproven detoxes as cures",
+        "Prescribing disease meal therapy",
+        "Ignoring fueling entirely"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 0,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

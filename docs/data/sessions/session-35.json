@@ -514,15 +514,15 @@
     },
     {
       "domain": "Program Design",
-      "question": "Session 35: best study method for this session is:",
+      "question": "Sound program design for a client starts with:",
       "options": [
-        "Avoiding practice",
-        "Skipping diagrams",
-        "One passive skim",
-        "Active recall + practical application"
+        "Ignoring injury history",
+        "Random hard sessions with no plan",
+        "Goals, constraints, recovery, and progressive overload",
+        "Copying elite athlete peaks for novices"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 2,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

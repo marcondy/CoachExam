@@ -514,15 +514,15 @@
     },
     {
       "domain": "Fitness Assessment",
-      "question": "Session 31: best study method for this session is:",
+      "question": "A coach uses assessments mainly to:",
       "options": [
-        "Avoiding practice",
-        "Active recall + practical application",
-        "Skipping diagrams",
-        "One passive skim"
+        "Diagnose disease definitively",
+        "Skip goal discussion",
+        "Guide safe programming and track meaningful progress",
+        "Embarrass clients"
       ],
-      "answer": 1,
-      "explanation": "",
+      "answer": 2,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {

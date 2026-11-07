@@ -219,7 +219,7 @@
       "options": [
         "It produces sufficient joint torque",
         "It changes eye color",
-        "It sets CE credits",
+        "It sets shoe size",
         "It prints labels"
       ],
       "answer": 0,
@@ -571,7 +571,7 @@
         "Load through the ROM",
         "Only sleep need",
         "Only skinfolds",
-        "Only CE credits"
+        "Only shoe brand"
       ],
       "answer": 0,
       "explanation": "",

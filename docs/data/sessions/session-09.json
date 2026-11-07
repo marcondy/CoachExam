@@ -514,15 +514,15 @@
     },
     {
       "domain": "Exercise Physiology",
-      "question": "Session 9: best study method for this session is:",
+      "question": "Physiology knowledge helps a coach mainly to:",
       "options": [
-        "One passive skim",
-        "Skipping diagrams",
-        "Avoiding practice",
-        "Active recall + practical application"
+        "Ignore fatigue signs",
+        "Match intensity, recovery, and adaptations to the client’s goal",
+        "Replace screening",
+        "Predict passport details"
       ],
-      "answer": 3,
-      "explanation": "",
+      "answer": 1,
+      "explanation": "Focuses on coaching practice with clients.",
       "id": 40
     },
     {
