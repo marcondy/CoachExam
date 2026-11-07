@@ -1,0 +1,2632 @@
+{
+  "meta": {
+    "program": "Inspire Leadership Academy — Personal Fitness Coach",
+    "source": "Guidebook Finale NOV 2025 (Learners version)",
+    "questionsPerExam": 100,
+    "suggestedPassPercent": 70,
+    "distribution": {
+      "Professional Practice": 8,
+      "Functional Anatomy": 18,
+      "Biomechanics": 10,
+      "Exercise Physiology": 14,
+      "Nutrition": 12,
+      "Evidence-Based Practice": 6,
+      "Coaching & Behavior Change": 8,
+      "Exercise Techniques": 8,
+      "Fitness Assessment": 8,
+      "Program Design": 8
+    },
+    "guidelines": [
+      "Each theoretical practice exam contains 100 multiple-choice questions.",
+      "Questions are distributed across the major domains covered in the PFC guidebook sessions.",
+      "Choose one answer per question. You can navigate freely and change answers before submitting.",
+      "Treat this like exam conditions: no phones, no notes, focused attempt.",
+      "After submission you will see your score by domain and a review of incorrect answers.",
+      "This is a study aid based on guidebook topics — not an official Inspire certification exam."
+    ]
+  },
+  "exam1": [
+    {
+      "domain": "Professional Practice",
+      "question": "According to the scope of practice and code of ethics, what should a coach do if a client reports sharp joint pain during an exercise?",
+      "options": [
+        "Push through the set to build mental toughness",
+        "Stop the exercise and refer the client to an appropriate healthcare professional",
+        "Increase the load to strengthen the joint",
+        "Apply a topical cream and continue training"
+      ],
+      "answer": 1,
+      "explanation": "Coaches stay within scope: recognize red flags and refer; they do not diagnose or treat injuries.",
+      "id": 1
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A client asks for a detailed meal plan with medical nutrition therapy for diabetes. The most appropriate response is to:",
+      "options": [
+        "Create a strict diabetic meal plan yourself",
+        "Recommend general healthy habits and refer them to a registered dietitian",
+        "Tell them to eliminate all carbohydrates",
+        "Prescribe supplements instead of food changes"
+      ],
+      "answer": 1,
+      "explanation": "Nutrition therapy for medical conditions is outside personal trainer scope; refer appropriately.",
+      "id": 2
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Qualified coaches are expected to integrate which three pillars into client care?",
+      "options": [
+        "Marketing, sales, and social media",
+        "Evidence, ethics, and accountability",
+        "Aesthetics, intensity, and competition",
+        "Supplements, trends, and intuition only"
+      ],
+      "answer": 1,
+      "explanation": "The guidebook emphasizes Evidence, Ethics, and Accountability.",
+      "id": 3
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A client shares confidential personal information during a session. The coach should:",
+      "options": [
+        "Post an anonymous story about it for motivation",
+        "Discuss it with other clients for advice",
+        "Maintain confidentiality unless there is a serious safety/legal duty to disclose",
+        "Ignore the client and change the subject"
+      ],
+      "answer": 2,
+      "explanation": "Confidentiality is a core ethical obligation.",
+      "id": 4
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Which statement best distinguishes a qualified coach from someone who is only 'certified' on paper?",
+      "options": [
+        "Qualified coaches memorize more exercise names",
+        "Qualified coaches continually apply evidence-based practice, ethics, and professional standards",
+        "Qualified coaches never need continuing education",
+        "Qualified coaches only train advanced athletes"
+      ],
+      "answer": 1,
+      "explanation": "Qualification implies ongoing competence, ethics, and evidence-based practice.",
+      "id": 5
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A client wants to lose 5 kg of fat in 5 days. Ethically, the coach should:",
+      "options": [
+        "Promise the result to keep the client motivated",
+        "Explain realistic fat-loss expectations and focus on sustainable diet and training habits",
+        "Prescribe extreme water cutting protocols",
+        "Guarantee results if the client buys supplements"
+      ],
+      "answer": 1,
+      "explanation": "Ethical practice requires honest, realistic communication.",
+      "id": 6
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "What is a primary purpose of continuing education for certified coaches?",
+      "options": [
+        "To replace the need for practical experience",
+        "To maintain certification and stay current with evidence and professional standards",
+        "To avoid ever retaking any assessment",
+        "To learn only marketing strategies"
+      ],
+      "answer": 1,
+      "explanation": "CE supports certification renewal and lifelong professional development.",
+      "id": 7
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Accepting late payment from only one 'favorite' client, while refusing the same option for others, mainly violates which professional principle?",
+      "options": [
+        "Progressive overload",
+        "Fairness and professional consistency/accountability",
+        "Specificity of training",
+        "The SAID principle"
+      ],
+      "answer": 1,
+      "explanation": "Professional standards require equitable, consistent policies.",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "In the anatomical position, the term 'anterior' refers to:",
+      "options": [
+        "Toward the midline",
+        "The front of the body",
+        "Away from the head",
+        "Closer to the feet"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The knee is described as _____ to the ankle.",
+      "options": [
+        "Inferior",
+        "Distal",
+        "Superior",
+        "Lateral"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Movement occurring primarily in the sagittal plane includes:",
+      "options": [
+        "Side bending of the spine",
+        "Jumping jack arm raises",
+        "A biceps curl (elbow flexion/extension)",
+        "Hip abduction"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which structural joint type generally allows the greatest range of motion?",
+      "options": [
+        "Fibrous (synarthrosis)",
+        "Cartilaginous (amphiarthrosis)",
+        "Synovial (diarthrosis)",
+        "Suture joints only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The glenohumeral joint is best classified as a:",
+      "options": [
+        "Fibrous joint with no movement",
+        "Synovial ball-and-socket joint",
+        "Cartilaginous joint like the pubic symphysis",
+        "Hinge joint only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which statement correctly describes muscle origin vs insertion in typical anatomy teaching?",
+      "options": [
+        "Origin is usually the more distal, mobile attachment",
+        "Origin is typically the more proximal/stable attachment; insertion is more distal/mobile",
+        "Origin and insertion are identical terms",
+        "Insertion is always on the axial skeleton"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "During a concentric biceps curl, the biceps brachii acts primarily as the:",
+      "options": [
+        "Antagonist",
+        "Agonist (prime mover)",
+        "Fixator of the ankle",
+        "Synergist of the triceps only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which muscle is a primary elbow extensor?",
+      "options": [
+        "Biceps brachii",
+        "Brachialis",
+        "Triceps brachii",
+        "Pronator teres"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The rotator cuff muscles mainly function to:",
+      "options": [
+        "Extend the lumbar spine",
+        "Stabilize the glenohumeral joint and control humeral head position",
+        "Flex the knee",
+        "Plantarflex the ankle"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which muscle is a primary hip extensor and often trained with hip thrusts?",
+      "options": [
+        "Iliopsoas",
+        "Rectus femoris",
+        "Gluteus maximus",
+        "Tibialis anterior"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The quadriceps group primarily performs:",
+      "options": [
+        "Knee flexion",
+        "Knee extension",
+        "Ankle dorsiflexion",
+        "Hip external rotation only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hamstring muscles primarily:",
+      "options": [
+        "Extend the knee and flex the hip",
+        "Flex the knee and extend the hip",
+        "Abduct the hip only",
+        "Dorsiflex the ankle"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which bones belong to the axial skeleton?",
+      "options": [
+        "Femur and tibia",
+        "Humerus and radius",
+        "Skull, vertebral column, and thorax (ribs/sternum)",
+        "Scapula and clavicle only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Wolff’s law relates most closely to:",
+      "options": [
+        "Muscle fiber type genetics only",
+        "Bone remodeling in response to mechanical loading",
+        "VO2 max prediction",
+        "Glycogen depletion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "'Prone' means:",
+      "options": [
+        "Lying face up",
+        "Lying face down",
+        "Standing with arms overhead",
+        "Sitting upright"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Unilateral training means:",
+      "options": [
+        "Training both limbs at the same time equally",
+        "Training one side/limb at a time",
+        "Training only the upper body",
+        "Avoiding free weights"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The rectus abdominis is relatively _____ compared with the transverse abdominis.",
+      "options": [
+        "Deeper",
+        "More superficial",
+        "More distal on the femur",
+        "Part of the rotator cuff"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Which joint motion occurs at the ankle when pointing the toes downward?",
+      "options": [
+        "Dorsiflexion",
+        "Plantarflexion",
+        "Inversion only",
+        "Pronation of the radioulnar joint"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Newton’s third law states that:",
+      "options": [
+        "Force equals mass times acceleration only",
+        "For every action there is an equal and opposite reaction",
+        "An object in motion always accelerates",
+        "Momentum cannot change"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Torque is best described as:",
+      "options": [
+        "Linear speed only",
+        "A rotational force equal to force × moment arm",
+        "Muscle fiber diameter",
+        "Heart rate reserve"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "In a lateral raise, increasing the arm’s horizontal distance from the shoulder generally:",
+      "options": [
+        "Decreases torque demand on the deltoid",
+        "Increases the moment arm and torque demand",
+        "Eliminates gravity",
+        "Converts the movement to the sagittal plane only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A first-class lever has the:",
+      "options": [
+        "Effort between fulcrum and load",
+        "Load between fulcrum and effort",
+        "Fulcrum between effort and load",
+        "No fulcrum"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "The length–tension relationship indicates that muscles generally produce force most effectively:",
+      "options": [
+        "Only when fully stretched beyond anatomical limits",
+        "Around an optimal mid-range length, not at extreme shortened or overstretched lengths",
+        "Only when completely slack",
+        "Independently of sarcomere length"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A ascending strength/resistance curve means:",
+      "options": [
+        "The exercise feels hardest at the start of the concentric and easier toward lockout (example patterns vary by lift)",
+        "Resistance never changes",
+        "Only machines can be used",
+        "Eccentric actions are impossible"
+      ],
+      "answer": 0,
+      "explanation": "Resistance curves describe how difficult a lift is through the ROM; ascending curves typically feel harder early and easier near lockout.",
+      "id": 32
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Improving balance and stability in a standing exercise is often helped by:",
+      "options": [
+        "Narrowing the base of support and closing the eyes for beginners immediately",
+        "Widening the base of support and lowering the center of mass when appropriate",
+        "Always training on the least stable surface first",
+        "Removing shoes and adding load on day one"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Vector quantities include both:",
+      "options": [
+        "Magnitude only",
+        "Direction only",
+        "Magnitude and direction",
+        "Color and temperature"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Compared with a free-weight squat path, a fixed-path Smith machine primarily:",
+      "options": [
+        "Increases freedom of natural bar path",
+        "Constrains the bar path and can change joint loading patterns",
+        "Removes all muscle activation",
+        "Eliminates the need for technique coaching"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Cam pulleys on machines are designed mainly to:",
+      "options": [
+        "Increase cardiovascular demand only",
+        "Alter resistance through the range to better match strength curves",
+        "Replace progressive overload",
+        "Measure VO2 max"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "According to sliding filament theory, muscle contraction involves:",
+      "options": [
+        "Actin and myosin filaments shortening individually into nothing",
+        "Myosin cross-bridges pulling actin filaments, shortening the sarcomere",
+        "Bones sliding over cartilage only",
+        "Only elastic tendons shortening"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Type II (fast-twitch) fibers are generally more suited to:",
+      "options": [
+        "Ultra-endurance only",
+        "High-force, high-power efforts",
+        "Postural control exclusively",
+        "Fat oxidation at rest only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "The ATP–PCr (phosphagen) system is characterized by:",
+      "options": [
+        "Requiring oxygen and producing many ATP slowly",
+        "Very rapid ATP provision for short maximal efforts with limited capacity",
+        "Using only protein as fuel",
+        "Being the primary system after 60 minutes of jogging"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Anaerobic glycolysis primarily uses which fuel?",
+      "options": [
+        "Fatty acids exclusively",
+        "Carbohydrate (glucose/glycogen)",
+        "Creatine only",
+        "Vitamins"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "The aerobic system:",
+      "options": [
+        "Produces ATP fastest with no oxygen",
+        "Uses oxygen and can sustain longer-duration energy production from carbs/fats",
+        "Cannot use fat",
+        "Only works at 100% effort"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Muscle spindles primarily detect _____ and can trigger a stretch reflex contraction.",
+      "options": [
+        "Tendon tension",
+        "Muscle fiber length/stretch",
+        "Blood lactate only",
+        "Bone mineral density"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Golgi tendon organs primarily detect _____ and can promote autogenic inhibition (relaxation).",
+      "options": [
+        "Muscle length",
+        "Tension in the tendon",
+        "Skin temperature",
+        "Heart rate"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Myofibrillar hypertrophy is most associated with increases in:",
+      "options": [
+        "Sarcoplasmic fluid only with no contractile change",
+        "Contractile protein content and force-producing capacity",
+        "Bone length",
+        "Lung tidal volume only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Delayed onset muscle soreness (DOMS) is most commonly linked to:",
+      "options": [
+        "Only concentric actions with zero load",
+        "Unaccustomed exercise, especially eccentric loading",
+        "Drinking water",
+        "Stretching for 5 seconds"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Acute cardiovascular responses to aerobic exercise typically include:",
+      "options": [
+        "Decreased heart rate and unchanged cardiac output",
+        "Increased heart rate, stroke volume, and cardiac output",
+        "Complete shutdown of respiration",
+        "Immediate loss of plasma volume only as the goal"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Ventilatory threshold is related to:",
+      "options": [
+        "The point where ventilation rises disproportionately with increasing intensity",
+        "Maximal bone density",
+        "1RM squat only",
+        "Resting metabolic rate exclusively"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Chronic aerobic training adaptations often include:",
+      "options": [
+        "Lower resting heart rate and improved endurance capacity",
+        "Permanent loss of mitochondria",
+        "Inability to use fat as fuel",
+        "Reduced stroke volume at rest and exercise"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Motor unit recruitment generally follows the size principle, meaning:",
+      "options": [
+        "Largest high-threshold units are always recruited first",
+        "Smaller low-threshold units are typically recruited before larger high-threshold units as force increases",
+        "Only one motor unit is ever used",
+        "Recruitment is random and intensity-independent"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Transverse (parallel) hypertrophy involves adding sarcomeres:",
+      "options": [
+        "In series, lengthening fibers",
+        "In parallel, increasing fiber diameter",
+        "Only in tendons",
+        "Only in cardiac muscle"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    },
+    {
+      "domain": "Nutrition",
+      "question": "The AMDR for carbohydrates for most adults is approximately:",
+      "options": [
+        "5–10% of total calories",
+        "45–65% of total calories",
+        "80–90% of total calories",
+        "0% if training hard"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 51
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Protein provides about how many kcal per gram?",
+      "options": [
+        "4 kcal/g",
+        "7 kcal/g",
+        "9 kcal/g",
+        "2 kcal/g"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 52
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Fat provides approximately:",
+      "options": [
+        "4 kcal/g",
+        "7 kcal/g",
+        "9 kcal/g",
+        "0 kcal/g"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 53
+    },
+    {
+      "domain": "Nutrition",
+      "question": "For active individuals seeking hypertrophy, a commonly cited daily protein target range is around:",
+      "options": [
+        "0.2–0.4 g/kg/day",
+        "1.6–2.2 g/kg/day",
+        "5–6 g/kg/day for everyone",
+        "Protein is unnecessary if carbs are high"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 54
+    },
+    {
+      "domain": "Nutrition",
+      "question": "The idea that the 'anabolic window' lasts only 1 hour after training is:",
+      "options": [
+        "Strictly true for all people",
+        "Overstated; the anabolic period is broader, and total daily intake/distribution matter more",
+        "Proof that breakfast must be skipped",
+        "A reason to avoid protein at night"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 55
+    },
+    {
+      "domain": "Nutrition",
+      "question": "During prolonged exercise lasting >60–90 minutes, carbohydrate intake of roughly _____ can help maintain performance.",
+      "options": [
+        "0 g/hour",
+        "30–60 g/hour (or more for very long events)",
+        "500 g/hour for everyone",
+        "Only protein gels"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 56
+    },
+    {
+      "domain": "Nutrition",
+      "question": "The essential condition for fat loss is:",
+      "options": [
+        "Eating zero carbohydrates forever",
+        "A sustained caloric deficit (energy expenditure > intake)",
+        "Only fasted cardio",
+        "Cutting out all dietary fat"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 57
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which statement about whey protein is most accurate based on the guidebook themes?",
+      "options": [
+        "It is a slow-digesting protein with no leucine",
+        "It is a fast-digesting high-quality protein rich in EAAs/leucine that can support MPS",
+        "It replaces the need for resistance training",
+        "It is unsafe for all healthy adults by default"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 58
+    },
+    {
+      "domain": "Nutrition",
+      "question": "BMR (basal metabolic rate) typically accounts for about:",
+      "options": [
+        "10% of total energy expenditure",
+        "60–70% of total energy expenditure in many people",
+        "100% of TDEE",
+        "None of TDEE"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 59
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Which fluid guideline aligns with practical coaching advice in the material?",
+      "options": [
+        "Ignore thirst and urine color always",
+        "Monitor hydration via urine color (aim pale yellow) and body-mass changes around training",
+        "Drink only when severely dehydrated",
+        "Athletes never need more fluid than sedentary people"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 60
+    },
+    {
+      "domain": "Nutrition",
+      "question": "The AMDR for fat is approximately:",
+      "options": [
+        "1–5% of calories",
+        "20–35% of total calories",
+        "70% of calories for all clients",
+        "Fat should always be zero"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 61
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Carbohydrate is especially important during exercise at intensities around/above:",
+      "options": [
+        "Very low daily living only",
+        "Moderate to high intensities (e.g., ≥ ~65% VO2 max) where glycogen is a key fuel",
+        "Sleep only",
+        "Resting supine"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 62
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "In the hierarchy of evidence, which generally sits at a stronger level for intervention questions?",
+      "options": [
+        "Anecdotes and opinions",
+        "Single case reports only",
+        "Systematic reviews and meta-analyses of high-quality studies",
+        "Social media trends"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 63
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "A p-value ≤ 0.05 commonly indicates:",
+      "options": [
+        "The study is definitely free of bias",
+        "There is a low probability (under conventional threshold) that results are due to chance alone, not proof of practical importance by itself",
+        "The effect size is huge",
+        "The sample size was infinite"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 64
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Randomized controlled trials are valued because they:",
+      "options": [
+        "Never have limitations",
+        "Help reduce confounding by randomly assigning interventions",
+        "Always use animals",
+        "Replace the need for ethics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 65
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Study bias refers to:",
+      "options": [
+        "Using statistics",
+        "Systematic errors that can distort findings away from the truth",
+        "Large sample sizes",
+        "Publishing in journals"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 66
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Percentage change alone is often insufficient because:",
+      "options": [
+        "It is illegal to report",
+        "It should be interpreted with other statistics (e.g., absolute effects, variance, context)",
+        "It is always more important than everything else",
+        "Coaches must never read numbers"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 67
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "An evidence-based coach primarily:",
+      "options": [
+        "Ignores client preferences",
+        "Integrates best available research with professional expertise and client values/context",
+        "Only copies influencers",
+        "Avoids updating knowledge after certification"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 68
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In the Transtheoretical Model, a client who is not yet considering change is in:",
+      "options": [
+        "Action",
+        "Maintenance",
+        "Precontemplation",
+        "Termination only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 69
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Motivational Interviewing emphasizes:",
+      "options": [
+        "Confronting clients until they comply",
+        "Collaborative, evocative, autonomy-supportive conversation to strengthen motivation for change",
+        "Giving only closed yes/no questions",
+        "Ignoring ambivalence"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 70
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "A SMART goal example is:",
+      "options": [
+        "'Get fit someday'",
+        "'I will walk 30 minutes, 5 days a week, for the next month'",
+        "'Train harder than everyone forever'",
+        "'Never eat food again'"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 71
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Emotional intelligence in coaching includes domains that help coaches:",
+      "options": [
+        "Manipulate clients for sales only",
+        "Understand and manage emotions in self and relationships to support effective coaching",
+        "Avoid all empathy",
+        "Diagnose clinical depression alone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 72
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "During the inquiry/first-session stage, a coach should prioritize:",
+      "options": [
+        "Maximal testing to failure on day one for every client",
+        "Building rapport, asking open questions, and gathering relevant information",
+        "Ignoring medical history",
+        "Promising extreme transformations"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 73
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "If a client says 'I always start strong but quit after a few weeks,' a skilled coach is most likely to:",
+      "options": [
+        "Blame their character and end the session",
+        "Explore barriers, past patterns, and build smaller sustainable habits",
+        "Double the training volume immediately",
+        "Require them to buy a 12-month package before talking"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 74
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Autonomy-supportive coaching means:",
+      "options": [
+        "The coach makes every decision with no client input",
+        "Clients are supported to make informed choices aligned with their values",
+        "Clients must obey without questions",
+        "Goals are never discussed"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 75
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Active listening with empathy is especially important when a client discusses sensitive personal stress because:",
+      "options": [
+        "Coaches must solve marital legal issues",
+        "It builds trust and stays within a supportive coaching role without overstepping scope",
+        "It replaces the need for referrals ever",
+        "It allows sharing secrets with the gym"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 76
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "In a high-bar back squat setup, a key coaching cue often includes:",
+      "options": [
+        "Rounding the lumbar spine aggressively under load",
+        "Bracing the core, keeping chest up, and controlling depth with balanced foot pressure",
+        "Looking fully down and collapsing the knees inward intentionally",
+        "Holding breath for the entire workout"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 77
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "For a conventional deadlift, a common technical focus is:",
+      "options": [
+        "Starting with the bar far in front of the mid-foot",
+        "Bar over mid-foot, hips hinged, bar close to the body, finish by extending hips without hyperextending the back",
+        "Yanking with a rounded upper back as the primary strategy",
+        "Jumping the weight up with bent elbows"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 78
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Hip thrusts primarily target the:",
+      "options": [
+        "Tibialis anterior",
+        "Gluteus maximus",
+        "Wrist flexors",
+        "Upper trapezius only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 79
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "A major difference often coached between hip thrust and glute bridge is:",
+      "options": [
+        "Hip thrusts typically use a larger hip ROM / bench-supported setup vs bridges on the floor",
+        "Glute bridges always use a barbell and max load on day one",
+        "Hip thrusts train only calves",
+        "They are identical in every setup detail"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 80
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Nordic curls primarily challenge the hamstrings in a(n):",
+      "options": [
+        "Easy concentric-only machine curl with no eccentrics",
+        "Demanding eccentric knee-flexion control pattern",
+        "Ankle plantarflexion isolation only",
+        "Wrist extension drill"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 81
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Static stretching is generally most appropriate:",
+      "options": [
+        "Immediately before maximal power testing as the only warm-up",
+        "When increasing flexibility is the goal, often after warm-up/training as appropriate",
+        "As a replacement for all strength training",
+        "Only while holding the breath underwater"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 82
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "A bench press coaching priority includes:",
+      "options": [
+        "Uncontrolled bouncing off the chest every rep",
+        "Stable scapular position, controlled bar path, and appropriate leg drive/bracing",
+        "Flaring elbows maximally with no regard to shoulders",
+        "Lifting the hips into a full bridge on every beginner set"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 83
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Lat pulldowns primarily train:",
+      "options": [
+        "Ankle invertors",
+        "Shoulder extension/adduction patterns involving latissimus dorsi",
+        "Only the gastrocnemius",
+        "Wrist radial deviation exclusively"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 84
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "A primary reason to perform fitness testing is to:",
+      "options": [
+        "Embarrass clients",
+        "Establish baselines, guide programming, and track progress safely",
+        "Replace coaching communication",
+        "Diagnose disease definitively"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 85
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Before intense testing, coaches should consider:",
+      "options": [
+        "Skipping informed consent and health screening",
+        "Health history/PAR-Q style screening and contraindications",
+        "Maximal eccentric testing for all new clients with pain",
+        "Avoiding any explanation of procedures"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 86
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Body composition assessment aims to estimate:",
+      "options": [
+        "Only height",
+        "Relative fat mass and lean mass components",
+        "IQ",
+        "Shoe size"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 87
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Essential body fat is approximately suggested not to drop below roughly:",
+      "options": [
+        "30% for men and 40% for women",
+        "About 3–5% (men) and 8–13% (women) as essential ranges discussed in materials; extreme lows are risky",
+        "0% for all athletes",
+        "50% for everyone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 88
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Muscular strength testing often uses:",
+      "options": [
+        "Only sit-and-reach",
+        "1RM or estimated 1RM protocols with progressive warm-up loads",
+        "Only resting heart rate",
+        "Skinfold only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 89
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "A common warm-up progression before 1RM attempts includes loads around:",
+      "options": [
+        "Starting immediately at 100% with no warm-up",
+        "Gradual increases such as ~20–30% → 40–50% → 60–70% → 80–90% of expected 1RM",
+        "Only stretching for an hour",
+        "Sprinting first for every strength test"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 90
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Cardiovascular endurance can be assessed with:",
+      "options": [
+        "Only grip strength",
+        "Protocols such as step tests, timed walks/runs, or submaximal bike tests",
+        "Only circumference measurements",
+        "Only flexibility angles"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 91
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Movement screens are useful because they help coaches:",
+      "options": [
+        "Replace all medical imaging",
+        "Identify movement limitations/asymmetries that may influence exercise selection",
+        "Guarantee injury prevention forever",
+        "Measure VO2 exactly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 92
+    },
+    {
+      "domain": "Program Design",
+      "question": "Progressive overload means:",
+      "options": [
+        "Never changing the program",
+        "Gradually increasing training stress over time to drive adaptation",
+        "Only reducing volume forever",
+        "Training randomly without a plan"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 93
+    },
+    {
+      "domain": "Program Design",
+      "question": "Training intensity for resistance exercise is commonly expressed as:",
+      "options": [
+        "Hours of sleep",
+        "% of 1RM and/or proximity to failure (RPE/RIR)",
+        "Only the color of the dumbbell",
+        "Room temperature"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 94
+    },
+    {
+      "domain": "Program Design",
+      "question": "A load >80% of 1RM is generally considered:",
+      "options": [
+        "Low intensity",
+        "Moderate intensity only",
+        "High intensity",
+        "Cardio only"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 95
+    },
+    {
+      "domain": "Program Design",
+      "question": "For hypertrophy, effective sets often land in a challenging rep range commonly around:",
+      "options": [
+        "1 rep only forever",
+        "Roughly ~5–30 challenging reps depending on load, taken near enough to failure",
+        "1000 reps with zero effort",
+        "Only isometric holds of 0.5 seconds"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 96
+    },
+    {
+      "domain": "Program Design",
+      "question": "Periodization refers to:",
+      "options": [
+        "Ignoring recovery",
+        "Planned variation of training variables across time",
+        "Eating only periodically",
+        "Avoiding all deloads"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 97
+    },
+    {
+      "domain": "Program Design",
+      "question": "Concurrent training / interference effect concerns:",
+      "options": [
+        "Combining strength and endurance training in ways that may blunt some adaptations if poorly managed",
+        "Only flexibility work",
+        "Sleep quality exclusively",
+        "Supplement timing only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 98
+    },
+    {
+      "domain": "Program Design",
+      "question": "Adults are commonly encouraged to accumulate about _____ of moderate-intensity activity per week.",
+      "options": [
+        "15 minutes total",
+        "150 minutes",
+        "1500 hours",
+        "No activity if lifting"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 99
+    },
+    {
+      "domain": "Program Design",
+      "question": "Exercise order in a resistance session often prioritizes:",
+      "options": [
+        "Isolation small-muscle work before all compound lifts always",
+        "Higher-skill / compound / higher-intensity lifts earlier while fresh, with adjustments by goal",
+        "Random order with no rationale",
+        "Only machines at the end forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 100
+    }
+  ],
+  "exam2": [
+    {
+      "domain": "Professional Practice",
+      "question": "Which action is within a personal fitness coach’s typical scope of practice?",
+      "options": [
+        "Diagnosing a herniated disc",
+        "Designing exercise programs for apparently healthy clients and modifying based on assessments",
+        "Prescribing prescription medications",
+        "Providing psychotherapy for clinical disorders"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 1
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "If a client requests a late payment exception, an ethical professional approach is to:",
+      "options": [
+        "Approve only for friends",
+        "Apply clear policies consistently and only accept arrangements you can fairly offer to clients generally",
+        "Refuse all communication about billing",
+        "Publicly shame the client"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 2
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "The code of ethics most directly requires coaches to:",
+      "options": [
+        "Prioritize viral content over safety",
+        "Act in clients’ best interests, maintain integrity, and respect professional boundaries",
+        "Guarantee specific aesthetic outcomes",
+        "Train injured clients through pain without referral"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 3
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "When technology and fitness trends change rapidly, a professional coach should:",
+      "options": [
+        "Ignore new evidence",
+        "Evaluate new tools/methods critically and keep learning",
+        "Adopt every trend immediately without question",
+        "Stop coaching"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 4
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "A client is depressed due to personal relationship problems. The coach’s best immediate professional response is:",
+      "options": [
+        "Give marital legal advice",
+        "Listen empathetically, maintain confidentiality, and refer to qualified professionals when needed",
+        "Prescribe antidepressants",
+        "Post the story online"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 5
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Certification maintenance typically requires:",
+      "options": [
+        "Never studying again",
+        "Continuing education credits/points and upholding standards",
+        "Only buying new shoes",
+        "Retiring the CPR certificate forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 6
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Which best reflects professionalism in coaching actions?",
+      "options": [
+        "Showing up unprepared but charismatic",
+        "Punctuality, preparation, respectful communication, and evidence-informed decisions",
+        "Canceling often without notice",
+        "Sharing client progress photos without consent"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 7
+    },
+    {
+      "domain": "Professional Practice",
+      "question": "Selling extreme fat-loss promises (e.g., 5 kg fat in 5 days) is unethical mainly because it:",
+      "options": [
+        "Is too cheap",
+        "Misleads clients and conflicts with realistic, evidence-based practice",
+        "Requires too much protein",
+        "Uses free weights"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 8
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "'Lateral' means:",
+      "options": [
+        "Toward the midline",
+        "Away from the midline of the body",
+        "Closer to the head",
+        "On the sole of the foot"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 9
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The ankle is _____ to the knee.",
+      "options": [
+        "Superior",
+        "Proximal",
+        "Inferior",
+        "Medial always"
+      ],
+      "answer": 2,
+      "explanation": "",
+      "id": 10
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Hip abduction occurs primarily in the:",
+      "options": [
+        "Sagittal plane",
+        "Frontal (coronal) plane",
+        "Transverse plane only for flexion",
+        "Scapular plane exclusively"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 11
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Fibrous joints are characterized by:",
+      "options": [
+        "A large synovial cavity and huge ROM",
+        "Little to no joint cavity and bones joined by dense connective tissue",
+        "Only cartilage connections with free gliding",
+        "Mandatory instability"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 12
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "An example of a cartilaginous joint is the:",
+      "options": [
+        "Glenohumeral joint",
+        "Pubic symphysis",
+        "Knee synovial cavity alone",
+        "Radiocarpal joint"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 13
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The scapulothoracic 'joint' is important because:",
+      "options": [
+        "It is a classic synovial hinge with a capsule identical to the knee",
+        "Scapular motion on the thorax contributes substantially to overhead shoulder function",
+        "It never moves",
+        "It replaces the glenohumeral joint entirely"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 14
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "A synergist muscle:",
+      "options": [
+        "Only opposes the agonist",
+        "Assists the agonist in producing a movement",
+        "Is always a bone landmark",
+        "Never activates"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 15
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Pectoralis major is a primary muscle for:",
+      "options": [
+        "Knee flexion",
+        "Horizontal adduction / pressing actions of the shoulder",
+        "Ankle eversion",
+        "Wrist extension only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 16
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Latissimus dorsi contributes strongly to:",
+      "options": [
+        "Shoulder extension and adduction (e.g., pulldown/row patterns)",
+        "Elbow flexion only",
+        "Plantarflexion",
+        "Neck protraction only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 17
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The deltoid’s primary roles include:",
+      "options": [
+        "Ankle stability",
+        "Shoulder abduction and related humeral movements depending on fibers",
+        "Spinal flexion only",
+        "Finger flexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 18
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Iliopsoas is best known as a primary:",
+      "options": [
+        "Hip flexor complex",
+        "Knee extensor only",
+        "Wrist flexor",
+        "Foot intrinsic muscle"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 19
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Gastrocnemius and soleus primarily produce:",
+      "options": [
+        "Ankle dorsiflexion",
+        "Ankle plantarflexion",
+        "Hip flexion",
+        "Shoulder external rotation"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 20
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "The appendicular skeleton includes:",
+      "options": [
+        "Only the skull",
+        "Limb bones and girdles (e.g., scapula, pelvis, femur, humerus)",
+        "Only vertebrae",
+        "Only ribs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 21
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Supine means:",
+      "options": [
+        "Lying face down",
+        "Lying face up",
+        "Standing on one leg",
+        "Seated with eyes closed"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 22
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "'Distal' on a limb means:",
+      "options": [
+        "Closer to the trunk attachment",
+        "Farther from the trunk attachment",
+        "Toward the head on the trunk",
+        "Deep to the skin only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 23
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Bilateral squat means:",
+      "options": [
+        "One-leg only",
+        "Both legs working together",
+        "Arms only",
+        "Seated eye exercises"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 24
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Deep muscles are located:",
+      "options": [
+        "Closer to the surface than superficial muscles",
+        "Farther from the surface / beneath more superficial structures",
+        "Only in the hands",
+        "Outside the body"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 25
+    },
+    {
+      "domain": "Functional Anatomy",
+      "question": "Elbow flexion is performed strongly by:",
+      "options": [
+        "Triceps brachii as prime mover",
+        "Biceps brachii / brachialis (elbow flexors)",
+        "Soleus",
+        "Erector spinae only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 26
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Newton’s second law is commonly expressed as:",
+      "options": [
+        "F = ma",
+        "E = mc^2 as a training law",
+        "For every action equal reaction only",
+        "Mass has no inertia"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 27
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Moment arm is:",
+      "options": [
+        "The perpendicular distance from the line of force to the axis of rotation",
+        "A type of muscle fiber",
+        "Heart rate recovery",
+        "A vitamin"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 28
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "In a biceps curl, holding a heavier dumbbell increases:",
+      "options": [
+        "Only bone length",
+        "External torque demand (if moment arm similar)",
+        "Atmospheric pressure",
+        "The number of vertebrae"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 29
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A second-class lever has the:",
+      "options": [
+        "Fulcrum between effort and load",
+        "Load between fulcrum and effort",
+        "Effort between fulcrum and load",
+        "No load"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 30
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "A third-class lever (common in many limbs) has the:",
+      "options": [
+        "Load between fulcrum and effort",
+        "Effort between fulcrum and load",
+        "Fulcrum between effort and load",
+        "No effort"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 31
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Stability tends to increase when the center of mass is:",
+      "options": [
+        "Higher and outside the base of support",
+        "Lower and projected within a wider base of support",
+        "Moving randomly",
+        "Ignored"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 32
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Flattening a difficult sticking point in a resistance curve may involve:",
+      "options": [
+        "Never changing technique or tools",
+        "Using bands/chains, altered stances, or machines that better match strength through ROM",
+        "Removing all progressive overload",
+        "Only cardio"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 33
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Internal muscle force creates movement when it generates sufficient:",
+      "options": [
+        "Color",
+        "Torque about a joint axis to overcome external resistance",
+        "Marketing appeal",
+        "Sweat rate alone"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 34
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Why might knees-traveling-forward in a squat not automatically be 'wrong'?",
+      "options": [
+        "Because joint forces never matter",
+        "Limiting forward knee travel can shift demands (e.g., increase hip demands); technique depends on anatomy/goals and should be coached individually",
+        "Because squats should always be done on a Bosu",
+        "Because the ACL disappears in training"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 35
+    },
+    {
+      "domain": "Biomechanics",
+      "question": "Power in mechanics is related to:",
+      "options": [
+        "Force and the time/rate of doing work",
+        "Only flexibility",
+        "Only body fat %",
+        "Shoe brand"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 36
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Acetylcholine at the neuromuscular junction is important because it:",
+      "options": [
+        "Stores glycogen in bone",
+        "Helps transmit the signal that can lead to muscle fiber activation",
+        "Is a type of fatty acid",
+        "Measures RPE"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 37
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Calcium release from the sarcoplasmic reticulum allows:",
+      "options": [
+        "Bones to shorten",
+        "Troponin/tropomyosin changes that permit actin–myosin interaction",
+        "Immediate fat oxidation only",
+        "VO2 to become zero"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 38
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Type I fibers are generally:",
+      "options": [
+        "Most fatigue-resistant and suited to endurance",
+        "Only for maximal Olympic lifts",
+        "Unable to use oxygen",
+        "Found only in the ear"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 39
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Which energy system dominates a 3–5 second maximal lift attempt?",
+      "options": [
+        "Aerobic lipolysis primarily",
+        "ATP–PCr system",
+        "Only protein catabolism",
+        "Long-duration oxidative phosphorylation exclusively"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 40
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Lactate-related fatigue in high-intensity efforts is most associated with:",
+      "options": [
+        "Aerobic fat burning at rest",
+        "Anaerobic glycolytic metabolism and associated metabolic stress",
+        "Vitamin C deficiency only",
+        "Dehydration exclusively always"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 41
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Autogenic inhibition is associated with:",
+      "options": [
+        "Muscle spindle stretch reflex contraction",
+        "GTO-mediated relaxation in response to high tension",
+        "Only cardiac arrhythmias",
+        "Skin sensation"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 42
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Reciprocal inhibition refers to:",
+      "options": [
+        "Inhibition of the antagonist when the agonist contracts",
+        "Both muscles contracting maximally always",
+        "Bone growth plates closing",
+        "Only breathing holding"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 43
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Sarcoplasmic hypertrophy emphasizes increases in:",
+      "options": [
+        "Non-contractile sarcoplasmic elements/volume more than myofibrils alone",
+        "Tendon rupture risk as the goal",
+        "Neuron length only",
+        "Tooth enamel"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 44
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Longitudinal (series) hypertrophy adds sarcomeres in series, which tends to:",
+      "options": [
+        "Lengthen fibers",
+        "Only widen bones",
+        "Reduce all ROM permanently",
+        "Eliminate eccentric control"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 45
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Chronic resistance training adaptations commonly include:",
+      "options": [
+        "Increased strength and often hypertrophy with appropriate programming",
+        "Loss of all motor units",
+        "Inability to recruit fibers",
+        "Decreased connective tissue resilience only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 46
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "An acute respiratory response to hard aerobic exercise is:",
+      "options": [
+        "Decreased ventilation",
+        "Increased breathing rate and depth to meet oxygen/CO2 demands",
+        "Apnea as the training goal",
+        "No change in gas exchange needs"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 47
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "The nervous system’s role in strength gains early in training often involves:",
+      "options": [
+        "Only muscle hypertrophy in week 1 exclusively",
+        "Improved recruitment, rate coding, and coordination",
+        "Losing motor skills",
+        "Reducing myosin permanently"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 48
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Fatigue can be:",
+      "options": [
+        "Only psychological forever",
+        "Multifactorial (central and peripheral factors depending on task)",
+        "Impossible in trained people",
+        "Caused only by low Instagram engagement"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 49
+    },
+    {
+      "domain": "Exercise Physiology",
+      "question": "Muscle protein synthesis is stimulated by:",
+      "options": [
+        "Complete inactivity and zero protein",
+        "Resistance exercise and adequate protein/amino acid availability",
+        "Only dehydrated training",
+        "Avoiding sleep"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 50
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Alcohol provides approximately:",
+      "options": [
+        "4 kcal/g",
+        "7 kcal/g",
+        "9 kcal/g",
+        "0 kcal/g"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 51
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Carbohydrate provides approximately:",
+      "options": [
+        "4 kcal/g",
+        "9 kcal/g",
+        "7 kcal/g",
+        "0 kcal/g"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 52
+    },
+    {
+      "domain": "Nutrition",
+      "question": "The AMDR for protein is roughly:",
+      "options": [
+        "10–35% of total energy intake",
+        "90% of energy",
+        "0–2% of energy",
+        "Protein has no AMDR concept"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 53
+    },
+    {
+      "domain": "Nutrition",
+      "question": "A practical per-meal protein target often discussed for MPS is about:",
+      "options": [
+        "1–2 g total",
+        "20–40 g high-quality protein (or ~0.25 g/kg), with sufficient leucine",
+        "200 g every 30 minutes",
+        "Protein only once per week"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 54
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Distributing protein every ~3–4 hours is recommended mainly to:",
+      "options": [
+        "Punish clients",
+        "Support repeated stimulation of muscle protein synthesis across the day",
+        "Eliminate carbohydrates",
+        "Increase dehydration"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 55
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Post-exercise carbohydrate (~1 g/kg in early recovery in some guidelines) mainly helps:",
+      "options": [
+        "Replenish glycogen",
+        "Build bone mineral immediately",
+        "Lower skill acquisition",
+        "Replace sleep"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 56
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Calories in = calories out typically leads to:",
+      "options": [
+        "Rapid inevitable fat gain",
+        "Weight maintenance (assuming measurements are accurate over time)",
+        "Guaranteed muscle gain",
+        "Guaranteed fat loss"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 57
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Higher-protein diets can help fat loss partly because protein:",
+      "options": [
+        "Has zero calories",
+        "Often increases satiety and has a higher thermic effect than fat/carb",
+        "Blocks all absorption of fat magically",
+        "Removes the need for a calorie deficit"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 58
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Creatine monohydrate, as discussed in performance nutrition contexts, is best known for:",
+      "options": [
+        "Replacing all training",
+        "Supporting high-intensity performance and strength gains in many people",
+        "Being a vitamin",
+        "Reducing all body water permanently"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 59
+    },
+    {
+      "domain": "Nutrition",
+      "question": "Micronutrients are:",
+      "options": [
+        "Only carbs and fats",
+        "Vitamins and minerals needed in smaller amounts for health/performance",
+        "Only creatine",
+        "Useless if macros are hit"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 60
+    },
+    {
+      "domain": "Nutrition",
+      "question": "On a nutrition label, % Daily Value is commonly based on a:",
+      "options": [
+        "500 kcal diet",
+        "2000 kcal reference diet",
+        "10,000 kcal diet",
+        "Bodyweight in pounds only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 61
+    },
+    {
+      "domain": "Nutrition",
+      "question": "If total calories are controlled, occasional energy-dense foods:",
+      "options": [
+        "Automatically destroy all progress forever",
+        "Can fit into an overall balanced pattern for some clients, though diet quality still matters",
+        "Are required every hour",
+        "Must be 90% of intake"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 62
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "A case report is generally considered:",
+      "options": [
+        "Stronger than a meta-analysis for establishing cause",
+        "Lower on the evidence hierarchy than controlled trials/reviews, but can generate hypotheses",
+        "The gold standard above RCTs",
+        "Not a form of evidence at all"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 63
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Cross-sectional studies primarily:",
+      "options": [
+        "Assign random long-term interventions",
+        "Snapshot associations at one time point",
+        "Always prove causation",
+        "Replace meta-analyses"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 64
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Confirmation bias can lead a coach to:",
+      "options": [
+        "Seek disconfirming evidence carefully",
+        "Preferentially notice information that supports pre-existing beliefs",
+        "Increase sample size correctly",
+        "Blind assessors properly"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 65
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Practical significance differs from statistical significance because:",
+      "options": [
+        "They are identical",
+        "An effect can be statistically significant yet too small to matter for clients",
+        "Statistics are unused in research",
+        "Coaches should ignore both"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 66
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "Peer-reviewed research is useful because:",
+      "options": [
+        "Review guarantees perfection",
+        "It provides a structured critical evaluation process before publication (still imperfect)",
+        "It means influencers wrote it",
+        "It bans all limitations sections"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 67
+    },
+    {
+      "domain": "Evidence-Based Practice",
+      "question": "When research conflicts, an evidence-based approach is to:",
+      "options": [
+        "Pick the study that matches your opinion only",
+        "Weigh study quality, consistency, applicability, and update conclusions as evidence evolves",
+        "Ignore all research",
+        "Follow the oldest paper only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 68
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "In TTM, the Preparation stage typically means:",
+      "options": [
+        "No awareness of a problem",
+        "Planning to take action soon / taking initial steps",
+        "Maintaining change for years already",
+        "Relapse only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 69
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "The Action stage is characterized by:",
+      "options": [
+        "Refusing all change",
+        "Actively modifying behavior",
+        "Only thinking about change next year",
+        "Precontemplation speeches"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 70
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Open-ended questions are valuable because they:",
+      "options": [
+        "Shut down conversation",
+        "Encourage elaboration and client insight",
+        "Only allow yes/no answers",
+        "Replace assessments"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 71
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Self-efficacy refers to:",
+      "options": [
+        "A type of protein powder",
+        "A person’s confidence in their ability to perform a specific behavior",
+        "Max heart rate",
+        "Bone density"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 72
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Relapse in behavior change should be treated as:",
+      "options": [
+        "Proof the client is hopeless",
+        "A common part of change that can be learned from and re-planned",
+        "A reason to abandon all goals permanently",
+        "A medical diagnosis by the trainer"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 73
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "OARS in motivational interviewing commonly includes:",
+      "options": [
+        "Orders, Arguments, Reprimands, Sarcasm",
+        "Open questions, Affirmations, Reflections, Summaries",
+        "Only closed questions",
+        "Only macros"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 74
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "Building rapport early matters because:",
+      "options": [
+        "It wastes time",
+        "Trust improves adherence and honest communication",
+        "It replaces progressive overload",
+        "It guarantees hypertrophy"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 75
+    },
+    {
+      "domain": "Coaching & Behavior Change",
+      "question": "A process-focused goal example is:",
+      "options": [
+        "'Weigh 50 kg tomorrow by any means'",
+        "'Complete three supervised strength sessions this week with planned effort'",
+        "'Be perfect forever'",
+        "'Never feel hunger'"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 76
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "A key coaching point for lunges is:",
+      "options": [
+        "Allowing uncontrolled knee collapse and torso flop as the standard",
+        "Controlled step length/balance, upright torso as appropriate, and tracking the knee consistently",
+        "Holding dumbbells overhead with eyes closed on day one for all clients",
+        "Avoiding any hip flexion"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 77
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Romanian deadlift emphasizes:",
+      "options": [
+        "Maximal knee bend like a squat first",
+        "Hip hinge with relatively limited knee flexion and hamstring tension",
+        "Only calf raise mechanics",
+        "Seated wrist curls"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 78
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Shoulder press primarily trains:",
+      "options": [
+        "Plantarflexors",
+        "Overhead pressing musculature including deltoids/triceps (with scapular/trunk support)",
+        "Only hip adductors",
+        "Deep neck flexors exclusively"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 79
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Lying triceps extensions primarily target:",
+      "options": [
+        "Triceps brachii",
+        "Iliacus",
+        "Peroneus longus",
+        "Upper traps as prime mover"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 80
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "A rowing variation generally emphasizes:",
+      "options": [
+        "Horizontal pulling / scapular retraction patterns for the back musculature",
+        "Only ankle inversion",
+        "Spinal hyperflexion under maximal load for beginners",
+        "Finger abduction only"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 81
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Dynamic stretching is often useful:",
+      "options": [
+        "As part of a warm-up to prepare for movement",
+        "As the only method to build maximal strength",
+        "Instead of all protein intake",
+        "Only during sleep"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 82
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Core bracing during heavy lifts mainly serves to:",
+      "options": [
+        "Increase lumbar shear intentionally",
+        "Improve trunk stiffness and force transfer/spinal support under load",
+        "Eliminate breathing forever",
+        "Target only the fingers"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 83
+    },
+    {
+      "domain": "Exercise Techniques",
+      "question": "Calf raises primarily train:",
+      "options": [
+        "Wrist extensors",
+        "Plantarflexors (gastrocnemius/soleus depending on knee position)",
+        "Hip flexors only",
+        "Rhomboids"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 84
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Health-related fitness components commonly include:",
+      "options": [
+        "Only Olympic lifting skill",
+        "Cardiorespiratory endurance, muscular strength/endurance, flexibility, body composition (and related health markers)",
+        "Only reaction time for esports",
+        "Shoe aesthetics"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 85
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Measurement error in testing can come from:",
+      "options": [
+        "Only the client’s zodiac sign",
+        "Protocol inconsistency, equipment, environment, and client factors",
+        "Perfect lab conditions only",
+        "Using standardized scripts"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 86
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Balance testing may include:",
+      "options": [
+        "Only 1RM deadlift",
+        "Single-leg stance or similar control assessments",
+        "Only skinfolds",
+        "Only nutrition recalls"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 87
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Muscular endurance tests typically involve:",
+      "options": [
+        "One maximal lift only",
+        "Repeated contractions or sustained efforts (e.g., push-up/curl-up variations)",
+        "Only DEXA",
+        "Only resting BP"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 88
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Selecting assessments for a client should consider:",
+      "options": [
+        "One identical maximal battery for every person regardless of risk",
+        "Goals, health status, training age, equipment, and safety",
+        "Only what looks impressive on social media",
+        "Avoiding baselines"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 89
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Jackson–Pollock style equations are associated with estimating:",
+      "options": [
+        "VO2 from push-ups only",
+        "Body fat percentage from skinfold measurements",
+        "1RM from height alone",
+        "Flexibility from age only"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 90
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "Heart-rate based cardio monitoring often uses:",
+      "options": [
+        "% of maximal heart rate or related zones",
+        "Only urine color",
+        "Only RPE forever with no other tools possible",
+        "Bone age"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 91
+    },
+    {
+      "domain": "Fitness Assessment",
+      "question": "If a client has pain or medical red flags before testing, the coach should:",
+      "options": [
+        "Ignore and test maximally",
+        "Stop/modify and refer as appropriate rather than pushing through",
+        "Increase load",
+        "Diagnose privately"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 92
+    },
+    {
+      "domain": "Program Design",
+      "question": "Specificity (SAID) implies:",
+      "options": [
+        "Adaptations match the demands of training",
+        "Any random exercise yields identical outcomes",
+        "Cardio cannot improve endurance",
+        "Nutrition is irrelevant"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 93
+    },
+    {
+      "domain": "Program Design",
+      "question": "Training volume is often quantified as:",
+      "options": [
+        "Only rest seconds",
+        "Sets × reps × load (or hard sets per muscle/week)",
+        "Only treadmill incline",
+        "Room humidity"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 94
+    },
+    {
+      "domain": "Program Design",
+      "question": "Frequency refers to:",
+      "options": [
+        "How often a muscle/session stimulus occurs per week",
+        "Only tempo",
+        "Only footwear",
+        "Only caffeine timing"
+      ],
+      "answer": 0,
+      "explanation": "",
+      "id": 95
+    },
+    {
+      "domain": "Program Design",
+      "question": "Rest intervals between heavy strength sets are typically:",
+      "options": [
+        "Always 5 seconds",
+        "Longer (often ~2–5+ minutes) to support performance on high-load sets",
+        "Unnecessary",
+        "Only used in yoga"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 96
+    },
+    {
+      "domain": "Program Design",
+      "question": "Tempo prescriptions describe:",
+      "options": [
+        "Music genre",
+        "Eccentric/pause/concentric timing of reps",
+        "Only weekly frequency",
+        "Supplement brands"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 97
+    },
+    {
+      "domain": "Program Design",
+      "question": "A deload is used to:",
+      "options": [
+        "Permanently stop progress",
+        "Reduce fatigue and facilitate recovery while retaining adaptations",
+        "Maximize junk volume",
+        "Remove all protein"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 98
+    },
+    {
+      "domain": "Program Design",
+      "question": "For aerobic progression after building to ~30 minutes continuous work, a logical next focus is often:",
+      "options": [
+        "Stopping all cardio forever",
+        "Progressing duration, intensity, and/or interval structure based on goals",
+        "Only maximal lifts",
+        "Removing warm-ups"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 99
+    },
+    {
+      "domain": "Program Design",
+      "question": "RPE-based load adjustment (e.g., change load ~2% when outside target RPE) supports:",
+      "options": [
+        "Ignoring daily readiness",
+        "Autoregulating intensity to match performance",
+        "Fixed loads regardless of fatigue",
+        "Only beginner bodyweight forever"
+      ],
+      "answer": 1,
+      "explanation": "",
+      "id": 100
+    }
+  ]
+}
