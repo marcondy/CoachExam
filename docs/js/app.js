@@ -9,6 +9,8 @@ const state = {
   questions: [],
   index: 0,
   answers: [],
+  timeSpentMs: [],
+  questionEnteredAt: null,
   startedAt: null,
   finishedAt: null,
   results: null,
@@ -224,11 +226,80 @@ function beginExam({ examKey, title, questions }) {
   state.questions = questions;
   state.index = 0;
   state.answers = Array(questions.length).fill(null);
+  state.timeSpentMs = Array(questions.length).fill(0);
+  state.questionEnteredAt = Date.now();
   state.startedAt = Date.now();
   state.finishedAt = null;
   state.results = null;
   renderExam();
   window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function accumulateCurrentQuestionTime() {
+  if (state.view !== "exam" || state.questionEnteredAt == null) return;
+  const idx = state.index;
+  if (idx < 0 || idx >= state.timeSpentMs.length) return;
+  const now = Date.now();
+  state.timeSpentMs[idx] += Math.max(0, now - state.questionEnteredAt);
+  state.questionEnteredAt = now;
+}
+
+function goToQuestion(nextIndex) {
+  if (nextIndex === state.index) return;
+  if (nextIndex < 0 || nextIndex >= state.questions.length) return;
+  accumulateCurrentQuestionTime();
+  state.index = nextIndex;
+  state.questionEnteredAt = Date.now();
+  renderExam();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function formatDuration(ms) {
+  if (ms > 0 && ms < 500) return "<1s";
+  const totalSec = Math.max(0, Math.round(ms / 1000));
+  const m = Math.floor(totalSec / 60);
+  const s = totalSec % 60;
+  if (m <= 0) return `${Math.max(totalSec, ms > 0 ? 1 : 0)}s`;
+  return `${m}m ${String(s).padStart(2, "0")}s`;
+}
+
+function buildTimingSummary() {
+  const visited = state.timeSpentMs
+    .map((ms, i) => ({
+      number: i + 1,
+      ms,
+      domain: state.questions[i]?.domain || "",
+      question: state.questions[i]?.question || "",
+      answered: state.answers[i] !== null,
+    }))
+    .filter((item) => item.ms > 0);
+
+  const totalMs = state.finishedAt - state.startedAt;
+  if (!visited.length) {
+    return {
+      totalMs,
+      averageMs: 0,
+      quickest: null,
+      longest: null,
+      visitedCount: 0,
+    };
+  }
+
+  let quickest = visited[0];
+  let longest = visited[0];
+  for (const item of visited) {
+    if (item.ms < quickest.ms) quickest = item;
+    if (item.ms > longest.ms) longest = item;
+  }
+
+  const sumVisited = visited.reduce((sum, item) => sum + item.ms, 0);
+  return {
+    totalMs,
+    averageMs: Math.round(sumVisited / visited.length),
+    quickest,
+    longest,
+    visitedCount: visited.length,
+  };
 }
 
 function renderExam() {
@@ -299,21 +370,16 @@ function renderExam() {
   app.querySelectorAll("[data-opt]").forEach((btn) => {
     btn.addEventListener("click", () => {
       state.answers[state.index] = Number(btn.getAttribute("data-opt"));
+      accumulateCurrentQuestionTime();
       renderExam();
     });
   });
 
   document.getElementById("prev-q")?.addEventListener("click", () => {
-    if (state.index > 0) {
-      state.index -= 1;
-      renderExam();
-    }
+    if (state.index > 0) goToQuestion(state.index - 1);
   });
   document.getElementById("next-q")?.addEventListener("click", () => {
-    if (state.index < questions.length - 1) {
-      state.index += 1;
-      renderExam();
-    }
+    if (state.index < questions.length - 1) goToQuestion(state.index + 1);
   });
   document.getElementById("quit-exam")?.addEventListener("click", () => {
     if (confirm("Exit this attempt? Progress will be lost.")) showHome();
@@ -328,19 +394,25 @@ function renderExam() {
   });
   app.querySelectorAll("[data-jump]").forEach((btn) => {
     btn.addEventListener("click", () => {
-      state.index = Number(btn.getAttribute("data-jump"));
-      renderExam();
-      window.scrollTo({ top: 0, behavior: "smooth" });
+      goToQuestion(Number(btn.getAttribute("data-jump")));
     });
   });
 }
 
 function submitExam() {
+  accumulateCurrentQuestionTime();
   const questions = state.questions;
   state.finishedAt = Date.now();
+  state.questionEnteredAt = null;
   const review = questions.map((q, i) => {
     const selected = state.answers[i];
-    return { ...q, selected, correct: selected === q.answer, number: i + 1 };
+    return {
+      ...q,
+      selected,
+      correct: selected === q.answer,
+      number: i + 1,
+      timeMs: state.timeSpentMs[i] || 0,
+    };
   });
   const correctCount = review.filter((r) => r.correct).length;
   const percent = Math.round((correctCount / questions.length) * 100);
@@ -350,7 +422,8 @@ function submitExam() {
     byDomain[item.domain].total += 1;
     if (item.correct) byDomain[item.domain].correct += 1;
   }
-  state.results = { correctCount, percent, review, byDomain, total: questions.length };
+  const timing = buildTimingSummary();
+  state.results = { correctCount, percent, review, byDomain, total: questions.length, timing };
   state.view = "results";
   renderResults();
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -358,9 +431,8 @@ function submitExam() {
 
 function renderResults() {
   const passMark = state.fullMeta.meta.suggestedPassPercent;
-  const { correctCount, percent, review, byDomain, total } = state.results;
+  const { correctCount, percent, review, byDomain, total, timing } = state.results;
   const passed = percent >= passMark;
-  const elapsedMin = Math.max(1, Math.round((state.finishedAt - state.startedAt) / 60000));
   const wrong = review.filter((r) => !r.correct);
 
   const domainRows = Object.entries(byDomain)
@@ -375,6 +447,32 @@ function renderResults() {
     })
     .join("");
 
+  const timingSection = timing?.visitedCount
+    ? `
+      <h2 class="block-title">Timing</h2>
+      <div class="timing-grid">
+        <div class="timing-card">
+          <span class="timing-label">Total time</span>
+          <strong>${formatDuration(timing.totalMs)}</strong>
+          <p class="muted">Average ${formatDuration(timing.averageMs)} per visited question</p>
+        </div>
+        <div class="timing-card timing-quick">
+          <span class="timing-label">Quickest answer</span>
+          <strong>Q${timing.quickest.number} · ${formatDuration(timing.quickest.ms)}</strong>
+          <p>${escapeHtml(timing.quickest.question)}</p>
+          <p class="muted">${escapeHtml(timing.quickest.domain)}${timing.quickest.answered ? "" : " · not answered"}</p>
+        </div>
+        <div class="timing-card timing-long">
+          <span class="timing-label">Longest time</span>
+          <strong>Q${timing.longest.number} · ${formatDuration(timing.longest.ms)}</strong>
+          <p>${escapeHtml(timing.longest.question)}</p>
+          <p class="muted">${escapeHtml(timing.longest.domain)}${timing.longest.answered ? "" : " · not answered"}</p>
+        </div>
+      </div>`
+    : `
+      <h2 class="block-title">Timing</h2>
+      <p class="muted">Total time: ${formatDuration(timing?.totalMs || 0)}. Not enough question timing data to compare fastest/slowest.</p>`;
+
   app.innerHTML = `
     <section class="results">
       <div class="score-hero">
@@ -383,7 +481,7 @@ function renderResults() {
           <h1>${passed ? "Strong pass territory" : "Keep drilling"}</h1>
           <p class="result-title">${escapeHtml(state.examTitle)}</p>
           <p>
-            You scored <strong>${correctCount}/${total}</strong> in about ${elapsedMin} minute(s).
+            You scored <strong>${correctCount}/${total}</strong> in <strong>${formatDuration(timing.totalMs)}</strong>.
             Practice pass mark: ${passMark}%.
           </p>
           <div class="cta-row result-actions">
@@ -392,6 +490,8 @@ function renderResults() {
           </div>
         </div>
       </div>
+
+      ${timingSection}
 
       <h2 class="block-title">Score by domain</h2>
       <div class="domain-scores">${domainRows}</div>
@@ -414,6 +514,7 @@ function renderResults() {
                   : escapeHtml(item.options[item.selected])
               }</p>
               <p><strong>Correct:</strong> ${escapeHtml(item.options[item.answer])}</p>
+              <p class="muted">Time on this question: ${formatDuration(item.timeMs || 0)}</p>
               ${item.explanation ? `<p class="muted">${escapeHtml(item.explanation)}</p>` : ""}
             </article>`
                 )

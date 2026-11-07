@@ -696,6 +696,53 @@ body {
   border-color: rgba(238, 246, 244, 0.4);
 }
 
+.timing-grid {
+  display: grid;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.timing-card {
+  padding: 1rem 1.05rem;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid var(--line);
+}
+
+.timing-card strong {
+  display: block;
+  margin: 0.2rem 0 0.45rem;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.timing-card p {
+  margin: 0.2rem 0;
+  font-size: 0.9rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.timing-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--teal-mid);
+}
+
+.timing-quick {
+  border-color: rgba(155, 201, 42, 0.45);
+}
+
+.timing-long {
+  border-color: rgba(255, 107, 74, 0.4);
+}
+
 .domain-scores {
   display: grid;
   gap: 0.5rem;
@@ -810,6 +857,12 @@ body {
 
   .score-ring {
     margin: 0;
+  }
+}
+
+@media (min-width: 720px) {
+  .timing-grid {
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
