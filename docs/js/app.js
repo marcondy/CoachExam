@@ -1,3 +1,5 @@
+import { mountOiaScene } from "./oia-3d.js";
+
 const KEYS = ["A", "B", "C", "D"];
 
 const state = {
@@ -18,6 +20,14 @@ const state = {
 
 const app = document.getElementById("app");
 const brandHome = document.getElementById("brand-home");
+let disposeOia3d = null;
+
+function teardownOia3d() {
+  if (disposeOia3d) {
+    disposeOia3d();
+    disposeOia3d = null;
+  }
+}
 
 brandHome.addEventListener("click", (e) => {
   e.preventDefault();
@@ -42,6 +52,7 @@ async function loadData() {
 }
 
 function showHome() {
+  teardownOia3d();
   state.view = "home";
   state.examKey = null;
   state.questions = [];
@@ -123,18 +134,24 @@ function showHome() {
 
     <section class="section-block" id="oia-exam">
       <h2>Origin, Insertion &amp; Action</h2>
-      <p>Extensive muscle anatomy paper focused only on origins, insertions, and actions used in coaching.</p>
-      <div class="exam-choices">
-        <button class="exam-choice" id="start-oia-exam">
-          <h3>${escapeHtml(state.oiaExam.title)}</h3>
-          <p>${escapeHtml(state.oiaExam.subtitle)}. Covers chest, scapula, shoulder, rotator cuff, arm, core, hip, thigh, and lower leg.</p>
-          <div class="meta">
-            <span class="chip">${state.oiaExam.questionCount} questions</span>
-            <span class="chip">Origins</span>
-            <span class="chip">Insertions</span>
-            <span class="chip">Actions</span>
-          </div>
-        </button>
+      <p>Extensive muscle anatomy paper focused only on origins, insertions, and actions used in coaching. Watch the 3D cycle: origin lights up, the path reaches the insertion, then the limb performs the action.</p>
+      <div class="oia-layout">
+        <div class="oia3d-panel">
+          <div class="oia3d-stage" id="oia3d-stage" role="img" aria-label="Animated 3D figure demonstrating muscle origin, insertion, and action"></div>
+          <div class="oia3d-caption" id="oia3d-caption"></div>
+        </div>
+        <div class="exam-choices">
+          <button class="exam-choice" id="start-oia-exam">
+            <h3>${escapeHtml(state.oiaExam.title)}</h3>
+            <p>${escapeHtml(state.oiaExam.subtitle)}. Covers chest, scapula, shoulder, rotator cuff, arm, core, hip, thigh, and lower leg.</p>
+            <div class="meta">
+              <span class="chip">${state.oiaExam.questionCount} questions</span>
+              <span class="chip">Origins</span>
+              <span class="chip">Insertions</span>
+              <span class="chip">Actions</span>
+            </div>
+          </button>
+        </div>
       </div>
     </section>
 
@@ -168,6 +185,16 @@ function showHome() {
     el.addEventListener("click", () => startFullExam(el.getAttribute("data-full")));
   });
   document.getElementById("start-oia-exam")?.addEventListener("click", startOiaExam);
+  const stage = document.getElementById("oia3d-stage");
+  const caption = document.getElementById("oia3d-caption");
+  if (stage) {
+    try {
+      disposeOia3d = mountOiaScene(stage, caption);
+    } catch (err) {
+      stage.innerHTML = `<p class="oia3d-fallback">3D preview unavailable in this browser. You can still take the exam.</p>`;
+      console.warn("OIA 3D failed to mount", err);
+    }
+  }
   bindSessionCards();
   const filter = document.getElementById("session-filter");
   filter?.addEventListener("input", () => {
@@ -253,6 +280,7 @@ async function startSessionExam(sessionNumber) {
 }
 
 function beginExam({ examKey, title, questions }) {
+  teardownOia3d();
   state.view = "exam";
   state.examKey = examKey;
   state.examTitle = title;
