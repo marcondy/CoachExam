@@ -1,8 +1,11 @@
+import { mountOiaScene } from "./oia-3d.js";
+
 const KEYS = ["A", "B", "C", "D"];
 
 const state = {
   fullMeta: null,
   sessionsIndex: null,
+  oiaExam: null,
   view: "home",
   examKey: null,
   examTitle: "",
@@ -17,6 +20,14 @@ const state = {
 
 const app = document.getElementById("app");
 const brandHome = document.getElementById("brand-home");
+let disposeOia3d = null;
+
+function teardownOia3d() {
+  if (disposeOia3d) {
+    disposeOia3d();
+    disposeOia3d = null;
+  }
+}
 
 brandHome.addEventListener("click", (e) => {
   e.preventDefault();
@@ -27,17 +38,21 @@ brandHome.addEventListener("click", (e) => {
 });
 
 async function loadData() {
-  const [fullRes, sessRes] = await Promise.all([
+  const [fullRes, sessRes, oiaRes] = await Promise.all([
     fetch("data/exams.json"),
     fetch("data/sessions-index.json"),
+    fetch("data/oia-exam.json"),
   ]);
   if (!fullRes.ok) throw new Error("Could not load full exams");
   if (!sessRes.ok) throw new Error("Could not load session exams");
+  if (!oiaRes.ok) throw new Error("Could not load origin/insertion/action exam");
   state.fullMeta = await fullRes.json();
   state.sessionsIndex = await sessRes.json();
+  state.oiaExam = await oiaRes.json();
 }
 
 function showHome() {
+  teardownOia3d();
   state.view = "home";
   state.examKey = null;
   state.questions = [];
@@ -69,22 +84,24 @@ function showHome() {
       <div class="hero-copy">
         <h1>Practice Exam<span>Fitness coach MCQs</span></h1>
         <p class="hero-lead">
-          Full 100-question papers plus 50-question exams for every study session.
+          Full papers, a dedicated Origin–Insertion–Action anatomy exam, and session drills.
           Pick a path and train like test day.
         </p>
         <div class="cta-row">
           <a class="btn btn-primary" href="#full-exams">Full exams</a>
-          <a class="btn btn-secondary" href="#session-exams">Session exams</a>
+          <a class="btn btn-secondary" href="#oia-exam">Origin / Insertion / Action</a>
+          <a class="btn btn-ghost" href="#session-exams">Session exams</a>
         </div>
       </div>
       <aside class="hero-panel" aria-label="Exam overview">
         <h2>What’s on the site</h2>
         <ul class="dist-list">
           <li><span>Full practice papers</span><strong>2 × 100</strong></li>
+          <li><span>Origin / Insertion / Action</span><strong>1 × 100</strong></li>
           <li><span>Session exams</span><strong>${sessMeta.sessionCount} × 50</strong></li>
           <li><span>Practice pass mark</span><strong>${meta.suggestedPassPercent}%</strong></li>
         </ul>
-        <p class="panel-note">Questions follow common personal fitness coach domains and session topics.</p>
+        <p class="panel-note">Questions focus on coaching practice, including deep muscle OIA knowledge.</p>
       </aside>
     </section>
 
@@ -115,6 +132,29 @@ function showHome() {
       </details>
     </section>
 
+    <section class="section-block" id="oia-exam">
+      <h2>Origin, Insertion &amp; Action</h2>
+      <p>Extensive muscle anatomy paper focused only on origins, insertions, and actions used in coaching. Watch the 3D cycle: origin lights up, the path reaches the insertion, then the limb performs the action.</p>
+      <div class="oia-layout">
+        <div class="oia3d-panel">
+          <div class="oia3d-stage" id="oia3d-stage" role="img" aria-label="Animated 3D figure demonstrating muscle origin, insertion, and action"></div>
+          <div class="oia3d-caption" id="oia3d-caption"></div>
+        </div>
+        <div class="exam-choices">
+          <button class="exam-choice" id="start-oia-exam">
+            <h3>${escapeHtml(state.oiaExam.title)}</h3>
+            <p>${escapeHtml(state.oiaExam.subtitle)}. Covers chest, scapula, shoulder, rotator cuff, arm, core, hip, thigh, and lower leg.</p>
+            <div class="meta">
+              <span class="chip">${state.oiaExam.questionCount} questions</span>
+              <span class="chip">Origins</span>
+              <span class="chip">Insertions</span>
+              <span class="chip">Actions</span>
+            </div>
+          </button>
+        </div>
+      </div>
+    </section>
+
     <section class="section-block" id="session-exams">
       <div class="section-head">
         <div>
@@ -136,6 +176,7 @@ function showHome() {
       <ol>
         ${meta.guidelines.map((g) => `<li>${escapeHtml(g)}</li>`).join("")}
         <li>Session exams contain 50 questions focused on that session’s material.</li>
+        <li>The Origin / Insertion / Action exam contains 100 questions dedicated to muscle attachments and actions.</li>
       </ol>
     </section>
   `;
@@ -143,6 +184,17 @@ function showHome() {
   app.querySelectorAll("[data-full]").forEach((el) => {
     el.addEventListener("click", () => startFullExam(el.getAttribute("data-full")));
   });
+  document.getElementById("start-oia-exam")?.addEventListener("click", startOiaExam);
+  const stage = document.getElementById("oia3d-stage");
+  const caption = document.getElementById("oia3d-caption");
+  if (stage) {
+    try {
+      disposeOia3d = mountOiaScene(stage, caption);
+    } catch (err) {
+      stage.innerHTML = `<p class="oia3d-fallback">3D preview unavailable in this browser. You can still take the exam.</p>`;
+      console.warn("OIA 3D failed to mount", err);
+    }
+  }
   bindSessionCards();
   const filter = document.getElementById("session-filter");
   filter?.addEventListener("input", () => {
@@ -197,6 +249,16 @@ function startFullExam(examKey) {
   });
 }
 
+function startOiaExam() {
+  const exam = state.oiaExam;
+  if (!exam?.questions?.length) return;
+  beginExam({
+    examKey: exam.id,
+    title: exam.title,
+    questions: exam.questions,
+  });
+}
+
 async function startSessionExam(sessionNumber) {
   const entry = state.sessionsIndex.sessions.find((s) => s.sessionNumber === sessionNumber);
   if (!entry) return;
@@ -218,6 +280,7 @@ async function startSessionExam(sessionNumber) {
 }
 
 function beginExam({ examKey, title, questions }) {
+  teardownOia3d();
   state.view = "exam";
   state.examKey = examKey;
   state.examTitle = title;

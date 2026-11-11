@@ -8,6 +8,10 @@ Independent **MCQ practice** for personal fitness coach theory study.
 - **Exam 1** and **Exam 2** — same domain mix, different questions
 - Domain scoring and incorrect-answer review
 
+### Origin, Insertion & Action (100 questions)
+- Dedicated anatomy paper on muscle **origins**, **insertions**, and **actions**
+- Covers chest, scapula, shoulder, rotator cuff, arm, core, hip, thigh, and lower leg
+
 ### Session exams (50 questions each)
 - **40 session exams** aligned to study sessions
 - Filterable session list on the home page

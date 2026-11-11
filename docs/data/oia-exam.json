@@ -1,0 +1,1331 @@
+{
+  "id": "oia-exam",
+  "title": "Origin, Insertion & Action",
+  "subtitle": "Extensive muscle anatomy exam for coaching practice",
+  "questionCount": 100,
+  "domain": "Functional Anatomy · OIA",
+  "meta": {
+    "suggestedPassPercent": 70,
+    "focus": [
+      "Muscle origin identification",
+      "Muscle insertion identification",
+      "Primary actions",
+      "Coaching application of OIA knowledge"
+    ],
+    "distributionNote": "Mixed upper body, scapula, core, hip, thigh, and lower-leg musculature."
+  },
+  "questions": [
+    {
+      "domain": "OIA · Chest",
+      "question": "What is the primary origin region of the Pectoralis major?",
+      "options": [
+        "Acromion of the scapula",
+        "Pubis and ischial tuberosity (dual portions)",
+        "Clavicle, sternum, and costal cartilages",
+        "Long head: supraglenoid tubercle; short head: coracoid process"
+      ],
+      "answer": 2,
+      "explanation": "Pectoralis major originates from: Clavicle, sternum, and costal cartilages.",
+      "id": 1
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "Where does the Pectoralis minor primarily insert?",
+      "options": [
+        "Supraspinous fossa of the scapula",
+        "Coracoid process of the scapula",
+        "Lesser tubercle of the humerus",
+        "Spine of the scapula (medial root area)"
+      ],
+      "answer": 1,
+      "explanation": "Pectoralis minor inserts on: Coracoid process of the scapula.",
+      "id": 2
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Which is a primary action of the Serratus anterior?",
+      "options": [
+        "Increases intra-abdominal pressure",
+        "Mandibular depression",
+        "Shoulder internal rotation",
+        "Scapular protraction"
+      ],
+      "answer": 3,
+      "explanation": "A key action of Serratus anterior is Scapular protraction.",
+      "id": 3
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Which muscle is best known for this primary action: Scapular elevation?",
+      "options": [
+        "Gluteus maximus",
+        "Trapezius (upper)",
+        "Latissimus dorsi",
+        "Vastus medialis"
+      ],
+      "answer": 1,
+      "explanation": "Trapezius (upper) is a key muscle for Scapular elevation.",
+      "id": 4
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "During coaching, activating the Trapezius (middle) is most associated with:",
+      "options": [
+        "Glenohumeral stabilization",
+        "Knee flexion assistance",
+        "Knee flexion",
+        "Scapular retraction"
+      ],
+      "answer": 3,
+      "explanation": "Coaching emphasis for Trapezius (middle): Scapular retraction.",
+      "id": 5
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "What is the primary origin region of the Trapezius (lower)?",
+      "options": [
+        "Superior pubic ramus",
+        "ASIS only with no other attachments",
+        "Lower thoracic spinous processes",
+        "AIIS / ilium above acetabulum"
+      ],
+      "answer": 2,
+      "explanation": "Trapezius (lower) originates from: Lower thoracic spinous processes.",
+      "id": 6
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Where does the Rhomboid major primarily insert?",
+      "options": [
+        "Tibial tuberosity via patellar tendon",
+        "Medial border of the scapula",
+        "Anterior superior iliac spine only as insertion",
+        "Floor of the intertubercular groove of the humerus"
+      ],
+      "answer": 1,
+      "explanation": "Rhomboid major inserts on: Medial border of the scapula.",
+      "id": 7
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Which is a primary action of the Levator scapulae?",
+      "options": [
+        "Hip flexion",
+        "Shoulder internal rotation",
+        "Scapular upward rotation",
+        "Scapular elevation"
+      ],
+      "answer": 3,
+      "explanation": "A key action of Levator scapulae is Scapular elevation.",
+      "id": 8
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Which muscle is best known for this primary action: Shoulder extension?",
+      "options": [
+        "Gracilis",
+        "Latissimus dorsi",
+        "Semimembranosus",
+        "Erector spinae"
+      ],
+      "answer": 1,
+      "explanation": "Latissimus dorsi is a key muscle for Shoulder extension.",
+      "id": 9
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "If the Teres major is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Shoulder extension",
+        "Ipsilateral rotation",
+        "Pelvic control in single-leg stance",
+        "Shoulder horizontal adduction contributions"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Teres major: Shoulder extension.",
+      "id": 10
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "What is the primary origin region of the Anterior deltoid?",
+      "options": [
+        "AIIS / ilium above acetabulum",
+        "Anterior surface of the sacrum",
+        "Pubis (body / near pubic crest)",
+        "Lateral clavicle"
+      ],
+      "answer": 3,
+      "explanation": "Anterior deltoid originates from: Lateral clavicle.",
+      "id": 11
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "Where does the Middle deltoid primarily insert?",
+      "options": [
+        "Lesser trochanter of the femur (as iliopsoas)",
+        "Deltoid tuberosity of the humerus",
+        "Anterior superior iliac spine only as insertion",
+        "Central tendon"
+      ],
+      "answer": 1,
+      "explanation": "Middle deltoid inserts on: Deltoid tuberosity of the humerus.",
+      "id": 12
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "Which is a primary action of the Posterior deltoid?",
+      "options": [
+        "Ipsilateral side-bending",
+        "Shoulder horizontal abduction",
+        "Glenohumeral stabilization",
+        "Ankle plantarflexion assistance"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Posterior deltoid is Shoulder horizontal abduction.",
+      "id": 13
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Which muscle is best known for this primary action: Initiates shoulder abduction?",
+      "options": [
+        "Supraspinatus",
+        "Rectus abdominis",
+        "Vastus medialis",
+        "Biceps femoris"
+      ],
+      "answer": 0,
+      "explanation": "Supraspinatus is a key muscle for Initiates shoulder abduction.",
+      "id": 14
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "During coaching, activating the Infraspinatus is most associated with:",
+      "options": [
+        "Shoulder external rotation",
+        "Scapular upward rotation",
+        "Shoulder extension contributions",
+        "Scapular protraction"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Infraspinatus: Shoulder external rotation.",
+      "id": 15
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "What is the primary origin region of the Teres minor?",
+      "options": [
+        "Lateral border of the scapula",
+        "Lower thoracic spinous processes",
+        "Long head: supraglenoid tubercle; short head: coracoid process",
+        "Pubis and ischial tuberosity (dual portions)"
+      ],
+      "answer": 0,
+      "explanation": "Teres minor originates from: Lateral border of the scapula.",
+      "id": 16
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Where does the Subscapularis primarily insert?",
+      "options": [
+        "Tibial tuberosity via patellar tendon",
+        "Navicular and medial foot tarsals/metatarsals",
+        "Linea alba via aponeurosis",
+        "Lesser tubercle of the humerus"
+      ],
+      "answer": 3,
+      "explanation": "Subscapularis inserts on: Lesser tubercle of the humerus.",
+      "id": 17
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "Which is a primary action of the Biceps brachii?",
+      "options": [
+        "Scapular elevation",
+        "Hip extension",
+        "Scapular downward rotation / anterior tilt contributions",
+        "Elbow flexion"
+      ],
+      "answer": 3,
+      "explanation": "A key action of Biceps brachii is Elbow flexion.",
+      "id": 18
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "Which muscle is best known for this primary action: Elbow flexion?",
+      "options": [
+        "Anconeus",
+        "Brachialis",
+        "Vastus lateralis",
+        "Erector spinae"
+      ],
+      "answer": 1,
+      "explanation": "Brachialis is a key muscle for Elbow flexion.",
+      "id": 19
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "If the Brachioradialis is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Elbow flexion (especially in neutral grip)",
+        "Deep trunk stabilization",
+        "Scapular protraction",
+        "Ankle plantarflexion"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Brachioradialis: Elbow flexion (especially in neutral grip).",
+      "id": 20
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "What is the primary origin region of the Triceps brachii?",
+      "options": [
+        "Long head: infraglenoid tubercle; lateral/medial heads: posterior humerus",
+        "Lateral distal humerus (supracondylar ridge)",
+        "Spine of the scapula",
+        "Tibial tuberosity"
+      ],
+      "answer": 0,
+      "explanation": "Triceps brachii originates from: Long head: infraglenoid tubercle; lateral/medial heads: posterior humerus.",
+      "id": 21
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Where does the Rectus abdominis primarily insert?",
+      "options": [
+        "Proximal medial tibia (pes anserinus)",
+        "Xiphoid process and costal cartilages of ribs 5–7",
+        "Supraspinous fossa of the scapula",
+        "Calcaneus via Achilles tendon"
+      ],
+      "answer": 1,
+      "explanation": "Rectus abdominis inserts on: Xiphoid process and costal cartilages of ribs 5–7.",
+      "id": 22
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Which is a primary action of the Rectus abdominis?",
+      "options": [
+        "Trunk extension",
+        "Ipsilateral trunk side-bending",
+        "Ankle dorsiflexion",
+        "Trunk flexion"
+      ],
+      "answer": 3,
+      "explanation": "A key action of Rectus abdominis is Trunk flexion.",
+      "id": 23
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Which muscle is best known for this primary action: Trunk flexion?",
+      "options": [
+        "Triceps brachii",
+        "Fibularis (peroneus) longus",
+        "External oblique",
+        "Subscapularis"
+      ],
+      "answer": 2,
+      "explanation": "External oblique is a key muscle for Trunk flexion.",
+      "id": 24
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "During coaching, activating the Gluteus medius is most associated with:",
+      "options": [
+        "Ankle plantarflexion",
+        "Scapular retraction",
+        "Hip abduction",
+        "Shoulder extension contributions"
+      ],
+      "answer": 2,
+      "explanation": "Coaching emphasis for Gluteus medius: Hip abduction.",
+      "id": 25
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "What is the primary origin region of the Transversus abdominis?",
+      "options": [
+        "ASIS / anterior iliac crest region",
+        "Pubis (inferior ramus / body region)",
+        "Iliac crest, thoracolumbar fascia, lower costal cartilages",
+        "Lateral clavicle"
+      ],
+      "answer": 2,
+      "explanation": "Transversus abdominis originates from: Iliac crest, thoracolumbar fascia, lower costal cartilages.",
+      "id": 26
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Where does the Erector spinae primarily insert?",
+      "options": [
+        "Greater tubercle of the humerus",
+        "Lateral clavicle / acromion",
+        "Medial epicondyle of the humerus",
+        "Ribs and vertebrae/cranial attachments depending on division"
+      ],
+      "answer": 3,
+      "explanation": "Erector spinae inserts on: Ribs and vertebrae/cranial attachments depending on division.",
+      "id": 27
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which is a primary action of the Vastus medialis?",
+      "options": [
+        "Shoulder extension",
+        "Shoulder external rotation",
+        "Knee extension",
+        "Shoulder adduction"
+      ],
+      "answer": 2,
+      "explanation": "A key action of Vastus medialis is Knee extension.",
+      "id": 28
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Which muscle is best known for this primary action: Primary muscle of inspiration?",
+      "options": [
+        "Diaphragm",
+        "Rectus femoris",
+        "Posterior deltoid",
+        "Tibialis posterior"
+      ],
+      "answer": 0,
+      "explanation": "Diaphragm is a key muscle for Primary muscle of inspiration.",
+      "id": 29
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "If the Iliacus is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Shoulder extension",
+        "Hip flexion",
+        "Knee extension",
+        "Primary muscle of inspiration"
+      ],
+      "answer": 1,
+      "explanation": "Coaching emphasis for Iliacus: Hip flexion.",
+      "id": 30
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "What is the primary origin region of the Gastrocnemius?",
+      "options": [
+        "Iliac fossa",
+        "Posterior femoral condyles",
+        "Iliac crest / iliolumbar ligament",
+        "Lower thoracic spinous processes"
+      ],
+      "answer": 1,
+      "explanation": "Gastrocnemius originates from: Posterior femoral condyles.",
+      "id": 31
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Where does the Gluteus maximus primarily insert?",
+      "options": [
+        "Spinous processes of C1–C3 only",
+        "Olecranon of the ulna",
+        "Lateral clavicle / acromion",
+        "Gluteal tuberosity of the femur and IT band / fascia lata"
+      ],
+      "answer": 3,
+      "explanation": "Gluteus maximus inserts on: Gluteal tuberosity of the femur and IT band / fascia lata.",
+      "id": 32
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Which is a primary action of the Gluteus medius?",
+      "options": [
+        "Hip abduction",
+        "Shoulder horizontal adduction",
+        "Initiates shoulder abduction",
+        "Ankle plantarflexion"
+      ],
+      "answer": 0,
+      "explanation": "A key action of Gluteus medius is Hip abduction.",
+      "id": 33
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which muscle is best known for this primary action: Hip adduction?",
+      "options": [
+        "External oblique",
+        "Posterior deltoid",
+        "Trapezius (middle)",
+        "Adductor magnus"
+      ],
+      "answer": 3,
+      "explanation": "Adductor magnus is a key muscle for Hip adduction.",
+      "id": 34
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "During coaching, activating the Piriformis is most associated with:",
+      "options": [
+        "Scapular upward rotation",
+        "Hip external rotation",
+        "Deep trunk stabilization",
+        "Shoulder flexion (clavicular fibers)"
+      ],
+      "answer": 1,
+      "explanation": "Coaching emphasis for Piriformis: Hip external rotation.",
+      "id": 35
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "What is the primary origin region of the Tensor fasciae latae (TFL)?",
+      "options": [
+        "Head of the fibula only",
+        "ASIS / anterior iliac crest region",
+        "Posterior tibia/fibula and interosseous membrane",
+        "Iliac fossa"
+      ],
+      "answer": 1,
+      "explanation": "Tensor fasciae latae (TFL) originates from: ASIS / anterior iliac crest region.",
+      "id": 36
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "Where does the Soleus primarily insert?",
+      "options": [
+        "Greater tubercle of the humerus",
+        "Calcaneus via Achilles tendon",
+        "Iliac fossa",
+        "Coracoid process of the scapula"
+      ],
+      "answer": 1,
+      "explanation": "Soleus inserts on: Calcaneus via Achilles tendon.",
+      "id": 37
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which is a primary action of the Rectus femoris?",
+      "options": [
+        "Foot eversion",
+        "Knee extension",
+        "Spinal stabilization",
+        "Hip external rotation"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Rectus femoris is Knee extension.",
+      "id": 38
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which muscle is best known for this primary action: Knee extension?",
+      "options": [
+        "Adductor magnus",
+        "Internal oblique",
+        "Vastus lateralis",
+        "Biceps brachii"
+      ],
+      "answer": 2,
+      "explanation": "Vastus lateralis is a key muscle for Knee extension.",
+      "id": 39
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "If the Pectoralis minor is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Glenohumeral stabilization",
+        "Scapular retraction",
+        "Scapular protraction",
+        "Ipsilateral trunk side-bending"
+      ],
+      "answer": 2,
+      "explanation": "Coaching emphasis for Pectoralis minor: Scapular protraction.",
+      "id": 40
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "What is the primary origin region of the Vastus intermedius?",
+      "options": [
+        "Posterior tibia and fibula",
+        "Lesser trochanter of the femur",
+        "Spine of the scapula",
+        "Anterior femoral shaft"
+      ],
+      "answer": 3,
+      "explanation": "Vastus intermedius originates from: Anterior femoral shaft.",
+      "id": 41
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Where does the Biceps femoris primarily insert?",
+      "options": [
+        "Head of the fibula",
+        "Coronoid fossa of the humerus",
+        "Linea aspera and adductor tubercle of the femur",
+        "Navicular and medial foot tarsals/metatarsals"
+      ],
+      "answer": 0,
+      "explanation": "Biceps femoris inserts on: Head of the fibula.",
+      "id": 42
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Which is a primary action of the Latissimus dorsi?",
+      "options": [
+        "Shoulder extension",
+        "Ipsilateral side-bending",
+        "Hip abduction",
+        "Hip internal rotation contributions"
+      ],
+      "answer": 0,
+      "explanation": "A key action of Latissimus dorsi is Shoulder extension.",
+      "id": 43
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which muscle is best known for this primary action: Knee flexion?",
+      "options": [
+        "Teres major",
+        "Semimembranosus",
+        "Piriformis",
+        "Posterior deltoid"
+      ],
+      "answer": 1,
+      "explanation": "Semimembranosus is a key muscle for Knee flexion.",
+      "id": 44
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "During coaching, activating the Adductor longus is most associated with:",
+      "options": [
+        "Scapular downward rotation / anterior tilt contributions",
+        "Tibial external rotation",
+        "Foot inversion",
+        "Hip adduction"
+      ],
+      "answer": 3,
+      "explanation": "Coaching emphasis for Adductor longus: Hip adduction.",
+      "id": 45
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "What is the primary origin region of the Gastrocnemius? (variant 2)",
+      "options": [
+        "Ribs 3–5",
+        "Anterior distal humerus",
+        "Lateral femur / linea aspera region",
+        "Posterior femoral condyles"
+      ],
+      "answer": 3,
+      "explanation": "Gastrocnemius originates from: Posterior femoral condyles.",
+      "id": 46
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Where does the Gracilis primarily insert?",
+      "options": [
+        "Lower ribs and linea alba",
+        "Calcaneus via Achilles tendon",
+        "Proximal medial tibia (pes anserinus)",
+        "Ribs and vertebrae/cranial attachments depending on division"
+      ],
+      "answer": 2,
+      "explanation": "Gracilis inserts on: Proximal medial tibia (pes anserinus).",
+      "id": 47
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which is a primary action of the Pectineus?",
+      "options": [
+        "Ipsilateral rotation",
+        "Hip abduction",
+        "Hip flexion",
+        "Hip extension"
+      ],
+      "answer": 2,
+      "explanation": "A key action of Pectineus is Hip flexion.",
+      "id": 48
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "Which muscle is best known for this primary action: Shoulder horizontal adduction?",
+      "options": [
+        "Pectoralis major",
+        "Gluteus medius",
+        "Diaphragm",
+        "Anterior deltoid"
+      ],
+      "answer": 0,
+      "explanation": "Pectoralis major is a key muscle for Shoulder horizontal adduction.",
+      "id": 49
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "If the Soleus is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Ankle plantarflexion",
+        "Knee flexion assistance",
+        "Hip internal rotation contributions",
+        "Knee extension"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Soleus: Ankle plantarflexion.",
+      "id": 50
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "What is the primary origin region of the Tibialis anterior?",
+      "options": [
+        "Anterior surface of the sacrum",
+        "Lateral tibia and interosseous membrane",
+        "ASIS / anterior iliac crest region",
+        "Long head: infraglenoid tubercle; lateral/medial heads: posterior humerus"
+      ],
+      "answer": 1,
+      "explanation": "Tibialis anterior originates from: Lateral tibia and interosseous membrane.",
+      "id": 51
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Where does the Teres major primarily insert?",
+      "options": [
+        "Medial lip of the intertubercular groove of the humerus",
+        "Greater trochanter of the femur",
+        "Head of the fibula",
+        "Navicular and medial foot tarsals/metatarsals"
+      ],
+      "answer": 0,
+      "explanation": "Teres major inserts on: Medial lip of the intertubercular groove of the humerus.",
+      "id": 52
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "Which is a primary action of the Fibularis (peroneus) longus?",
+      "options": [
+        "Ankle dorsiflexion",
+        "Shoulder adduction",
+        "Foot eversion",
+        "Scapular elevation"
+      ],
+      "answer": 2,
+      "explanation": "A key action of Fibularis (peroneus) longus is Foot eversion.",
+      "id": 53
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "Which muscle is best known for this primary action: Shoulder horizontal adduction? (variant 2)",
+      "options": [
+        "Gastrocnemius",
+        "Serratus anterior",
+        "Posterior deltoid",
+        "Pectoralis major"
+      ],
+      "answer": 3,
+      "explanation": "Pectoralis major is a key muscle for Shoulder horizontal adduction.",
+      "id": 54
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "During coaching, activating the Anterior deltoid is most associated with:",
+      "options": [
+        "Shoulder flexion",
+        "Trunk flexion",
+        "Shoulder flexion assistance",
+        "Primary muscle of inspiration"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Anterior deltoid: Shoulder flexion.",
+      "id": 55
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "What is the primary origin region of the Serratus anterior?",
+      "options": [
+        "Lateral surfaces of the upper ribs",
+        "Sacrum, iliac crest, and lumbar/thoracic vertebrae broadly",
+        "Spinous processes of upper thoracic vertebrae (approx. T2–T5)",
+        "AIIS / ilium above acetabulum"
+      ],
+      "answer": 0,
+      "explanation": "Serratus anterior originates from: Lateral surfaces of the upper ribs.",
+      "id": 56
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Where does the Trapezius (upper) primarily insert?",
+      "options": [
+        "Iliac crest, linea alba, pubic tubercle via aponeurosis",
+        "Lesser trochanter of the femur (as iliopsoas)",
+        "Iliotibial band",
+        "Lateral clavicle / acromion"
+      ],
+      "answer": 3,
+      "explanation": "Trapezius (upper) inserts on: Lateral clavicle / acromion.",
+      "id": 57
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Which is a primary action of the Teres major?",
+      "options": [
+        "Ankle plantarflexion assistance",
+        "Scapular protraction",
+        "Shoulder extension",
+        "Shoulder horizontal abduction"
+      ],
+      "answer": 2,
+      "explanation": "A key action of Teres major is Shoulder extension.",
+      "id": 58
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "Which muscle is best known for this primary action: Scapular depression?",
+      "options": [
+        "Trapezius (lower)",
+        "Teres major",
+        "Soleus",
+        "Gluteus maximus"
+      ],
+      "answer": 0,
+      "explanation": "Trapezius (lower) is a key muscle for Scapular depression.",
+      "id": 59
+    },
+    {
+      "domain": "OIA · Scapula",
+      "question": "If the Rhomboid major is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Ipsilateral trunk side-bending",
+        "Scapular retraction",
+        "Shoulder extension",
+        "Hip abduction"
+      ],
+      "answer": 1,
+      "explanation": "Coaching emphasis for Rhomboid major: Scapular retraction.",
+      "id": 60
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "What is the primary origin region of the Anterior deltoid? (variant 2)",
+      "options": [
+        "Lateral clavicle",
+        "Ilium, sacrum, coccyx, and sacrotuberous ligament region",
+        "Lateral distal humerus (supracondylar ridge)",
+        "Pubis and ischial tuberosity (dual portions)"
+      ],
+      "answer": 0,
+      "explanation": "Anterior deltoid originates from: Lateral clavicle.",
+      "id": 61
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Where does the Latissimus dorsi primarily insert?",
+      "options": [
+        "Deltoid tuberosity of the humerus",
+        "Manubrium of the sternum only",
+        "Floor of the intertubercular groove of the humerus",
+        "Spinous processes of C1–C3 only"
+      ],
+      "answer": 2,
+      "explanation": "Latissimus dorsi inserts on: Floor of the intertubercular groove of the humerus.",
+      "id": 62
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Which is a primary action of the Teres major? (variant 2)",
+      "options": [
+        "Tibial external rotation",
+        "Scapular elevation",
+        "Shoulder extension",
+        "Scapular protraction"
+      ],
+      "answer": 2,
+      "explanation": "A key action of Teres major is Shoulder extension.",
+      "id": 63
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Which muscle is best known for this primary action: Shoulder internal rotation?",
+      "options": [
+        "Quadratus lumborum",
+        "Serratus anterior",
+        "Semimembranosus",
+        "Subscapularis"
+      ],
+      "answer": 3,
+      "explanation": "Subscapularis is a key muscle for Shoulder internal rotation.",
+      "id": 64
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "During coaching, activating the Middle deltoid is most associated with:",
+      "options": [
+        "Medial arch support",
+        "Foot eversion",
+        "Scapular upward rotation",
+        "Shoulder abduction"
+      ],
+      "answer": 3,
+      "explanation": "Coaching emphasis for Middle deltoid: Shoulder abduction.",
+      "id": 65
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "What is the primary origin region of the Posterior deltoid?",
+      "options": [
+        "Upper thoracic spinous processes",
+        "Spine of the scapula",
+        "Transverse processes of upper cervical vertebrae",
+        "Lateral distal humerus (supracondylar ridge)"
+      ],
+      "answer": 1,
+      "explanation": "Posterior deltoid originates from: Spine of the scapula.",
+      "id": 66
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "Where does the Brachialis primarily insert?",
+      "options": [
+        "Ulnar tuberosity / coronoid process of the ulna",
+        "Iliotibial band",
+        "Calcaneus via Achilles tendon",
+        "Deltoid tuberosity of the humerus"
+      ],
+      "answer": 0,
+      "explanation": "Brachialis inserts on: Ulnar tuberosity / coronoid process of the ulna.",
+      "id": 67
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Which is a primary action of the Infraspinatus?",
+      "options": [
+        "Assists elbow extension",
+        "Shoulder external rotation",
+        "Scapular protraction",
+        "Ipsilateral trunk side-bending"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Infraspinatus is Shoulder external rotation.",
+      "id": 68
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Which muscle is best known for this primary action: Shoulder external rotation?",
+      "options": [
+        "Teres minor",
+        "Tensor fasciae latae (TFL)",
+        "Internal oblique",
+        "Levator scapulae"
+      ],
+      "answer": 0,
+      "explanation": "Teres minor is a key muscle for Shoulder external rotation.",
+      "id": 69
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "If the Pectoralis minor is the target muscle, which joint action should the coach emphasize? (variant 2)",
+      "options": [
+        "Shoulder internal rotation",
+        "Pelvic hiking / lumbar stabilization",
+        "Scapular protraction",
+        "Ipsilateral side-bending"
+      ],
+      "answer": 2,
+      "explanation": "Coaching emphasis for Pectoralis minor: Scapular protraction.",
+      "id": 70
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "What is the primary origin region of the Biceps brachii?",
+      "options": [
+        "External surface of the ilium",
+        "Anterior femoral shaft",
+        "Tibial tuberosity",
+        "Long head: supraglenoid tubercle; short head: coracoid process"
+      ],
+      "answer": 3,
+      "explanation": "Biceps brachii originates from: Long head: supraglenoid tubercle; short head: coracoid process.",
+      "id": 71
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "Where does the Brachialis primarily insert? (variant 2)",
+      "options": [
+        "Posterior medial tibial condyle",
+        "Ischial tuberosity as a distal insertion",
+        "Calcaneus via Achilles tendon",
+        "Ulnar tuberosity / coronoid process of the ulna"
+      ],
+      "answer": 3,
+      "explanation": "Brachialis inserts on: Ulnar tuberosity / coronoid process of the ulna.",
+      "id": 72
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "Which is a primary action of the Pectoralis major?",
+      "options": [
+        "Shoulder adduction",
+        "Shoulder horizontal adduction",
+        "Shoulder flexion",
+        "Hip flexion assistance"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Pectoralis major is Shoulder horizontal adduction.",
+      "id": 73
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "Which muscle is best known for this primary action: Elbow extension?",
+      "options": [
+        "Serratus anterior",
+        "Triceps brachii",
+        "Pectoralis minor",
+        "Latissimus dorsi"
+      ],
+      "answer": 1,
+      "explanation": "Triceps brachii is a key muscle for Elbow extension.",
+      "id": 74
+    },
+    {
+      "domain": "OIA · Arm",
+      "question": "During coaching, activating the Anconeus is most associated with:",
+      "options": [
+        "Shoulder extension",
+        "Tongue protrusion",
+        "Shoulder horizontal abduction",
+        "Assists elbow extension"
+      ],
+      "answer": 3,
+      "explanation": "Coaching emphasis for Anconeus: Assists elbow extension.",
+      "id": 75
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "What is the primary origin region of the Quadratus lumborum?",
+      "options": [
+        "Iliac crest / iliolumbar ligament",
+        "Radial styloid only",
+        "ASIS / anterior iliac crest region",
+        "Posterior tibia/fibula and interosseous membrane"
+      ],
+      "answer": 0,
+      "explanation": "Quadratus lumborum originates from: Iliac crest / iliolumbar ligament.",
+      "id": 76
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Where does the External oblique primarily insert?",
+      "options": [
+        "Greater trochanter of the femur",
+        "Anterior superior iliac spine only as insertion",
+        "Iliac crest, linea alba, pubic tubercle via aponeurosis",
+        "Tibial tuberosity via patellar tendon"
+      ],
+      "answer": 2,
+      "explanation": "External oblique inserts on: Iliac crest, linea alba, pubic tubercle via aponeurosis.",
+      "id": 77
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "Which is a primary action of the Internal oblique?",
+      "options": [
+        "Wrist flexion as prime mover",
+        "Trunk flexion",
+        "Hip flexion",
+        "Upward rotation assistance"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Internal oblique is Trunk flexion.",
+      "id": 78
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Which muscle is best known for this primary action: Hip flexion?",
+      "options": [
+        "Psoas major",
+        "Teres minor",
+        "Anconeus",
+        "Pectoralis major"
+      ],
+      "answer": 0,
+      "explanation": "Psoas major is a key muscle for Hip flexion.",
+      "id": 79
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "If the Erector spinae is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Trunk extension",
+        "Pelvic control in single-leg stance",
+        "Hip external rotation",
+        "Shoulder horizontal abduction"
+      ],
+      "answer": 0,
+      "explanation": "Coaching emphasis for Erector spinae: Trunk extension.",
+      "id": 80
+    },
+    {
+      "domain": "OIA · Core",
+      "question": "What is the primary origin region of the Quadratus lumborum? (variant 2)",
+      "options": [
+        "ASIS / anterior iliac crest region",
+        "Iliac crest / iliolumbar ligament",
+        "Long head: ischial tuberosity; short head: linea aspera",
+        "Spine of the scapula"
+      ],
+      "answer": 1,
+      "explanation": "Quadratus lumborum originates from: Iliac crest / iliolumbar ligament.",
+      "id": 81
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "Where does the Soleus primarily insert? (variant 2)",
+      "options": [
+        "Greater trochanter of the femur",
+        "Calcaneus via Achilles tendon",
+        "Pubic symphysis only",
+        "Ulnar tuberosity / coronoid process of the ulna"
+      ],
+      "answer": 1,
+      "explanation": "Soleus inserts on: Calcaneus via Achilles tendon.",
+      "id": 82
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Which is a primary action of the Iliacus?",
+      "options": [
+        "Foot eversion",
+        "Hip flexion",
+        "Shoulder internal rotation",
+        "Trunk flexion"
+      ],
+      "answer": 1,
+      "explanation": "A key action of Iliacus is Hip flexion.",
+      "id": 83
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Which muscle is best known for this primary action: Hip flexion? (variant 2)",
+      "options": [
+        "Anterior deltoid",
+        "Psoas major",
+        "Gluteus maximus",
+        "Diaphragm"
+      ],
+      "answer": 1,
+      "explanation": "Psoas major is a key muscle for Hip flexion.",
+      "id": 84
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "During coaching, activating the Pectoralis major is most associated with:",
+      "options": [
+        "Knee flexion",
+        "Shoulder horizontal adduction",
+        "Hip external rotation",
+        "Shoulder extension"
+      ],
+      "answer": 1,
+      "explanation": "Coaching emphasis for Pectoralis major: Shoulder horizontal adduction.",
+      "id": 85
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "What is the primary origin region of the Gluteus medius?",
+      "options": [
+        "Posterior femoral condyles",
+        "External surface of the ilium",
+        "Supraspinous fossa of the scapula",
+        "Xiphoid, lower costal cartilages, and lumbar vertebrae (crura)"
+      ],
+      "answer": 1,
+      "explanation": "Gluteus medius originates from: External surface of the ilium.",
+      "id": 86
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Where does the Gluteus minimus primarily insert?",
+      "options": [
+        "Proximal medial tibia (pes anserinus)",
+        "Greater tubercle of the humerus",
+        "Occipital protuberance only",
+        "Greater trochanter of the femur"
+      ],
+      "answer": 3,
+      "explanation": "Gluteus minimus inserts on: Greater trochanter of the femur.",
+      "id": 87
+    },
+    {
+      "domain": "OIA · Back",
+      "question": "Which is a primary action of the Teres major? (variant 3)",
+      "options": [
+        "Knee extension",
+        "Shoulder extension assistance (long head)",
+        "Elbow flexion (especially in neutral grip)",
+        "Shoulder extension"
+      ],
+      "answer": 3,
+      "explanation": "A key action of Teres major is Shoulder extension.",
+      "id": 88
+    },
+    {
+      "domain": "OIA · Hip",
+      "question": "Which muscle is best known for this primary action: Hip flexion? (variant 3)",
+      "options": [
+        "Pectoralis minor",
+        "Tensor fasciae latae (TFL)",
+        "Rectus abdominis",
+        "Levator scapulae"
+      ],
+      "answer": 1,
+      "explanation": "Tensor fasciae latae (TFL) is a key muscle for Hip flexion.",
+      "id": 89
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "If the Sartorius is the target muscle, which joint action should the coach emphasize?",
+      "options": [
+        "Hip extension",
+        "Shoulder horizontal adduction",
+        "Hip flexion",
+        "Trunk flexion"
+      ],
+      "answer": 2,
+      "explanation": "Coaching emphasis for Sartorius: Hip flexion.",
+      "id": 90
+    },
+    {
+      "domain": "OIA · Shoulder",
+      "question": "What is the primary origin region of the Anterior deltoid? (variant 3)",
+      "options": [
+        "Ischial tuberosity",
+        "Lateral clavicle",
+        "Spinous processes of upper thoracic vertebrae (approx. T2–T5)",
+        "Xiphoid process only"
+      ],
+      "answer": 1,
+      "explanation": "Anterior deltoid originates from: Lateral clavicle.",
+      "id": 91
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Where does the Vastus lateralis primarily insert?",
+      "options": [
+        "Posterior medial tibial condyle",
+        "Tibial tuberosity via patellar tendon",
+        "Spine of the scapula / acromion region",
+        "Coronoid fossa of the humerus"
+      ],
+      "answer": 1,
+      "explanation": "Vastus lateralis inserts on: Tibial tuberosity via patellar tendon.",
+      "id": 92
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which is a primary action of the Vastus medialis? (variant 2)",
+      "options": [
+        "Knee extension",
+        "Hip flexion",
+        "Shoulder extension",
+        "Ankle dorsiflexion"
+      ],
+      "answer": 0,
+      "explanation": "A key action of Vastus medialis is Knee extension.",
+      "id": 93
+    },
+    {
+      "domain": "OIA · Rotator cuff",
+      "question": "Which muscle is best known for this primary action: Shoulder external rotation? (variant 2)",
+      "options": [
+        "Supraspinatus",
+        "Diaphragm",
+        "Gluteus medius",
+        "Infraspinatus"
+      ],
+      "answer": 3,
+      "explanation": "Infraspinatus is a key muscle for Shoulder external rotation.",
+      "id": 94
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "During coaching, activating the Biceps femoris is most associated with:",
+      "options": [
+        "Glenohumeral stabilization",
+        "Knee extension",
+        "Hip adduction",
+        "Knee flexion"
+      ],
+      "answer": 3,
+      "explanation": "Coaching emphasis for Biceps femoris: Knee flexion.",
+      "id": 95
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "What is the primary origin region of the Semitendinosus?",
+      "options": [
+        "Pubis and ischial tuberosity (dual portions)",
+        "Spine of the scapula",
+        "Xiphoid, lower costal cartilages, and lumbar vertebrae (crura)",
+        "Ischial tuberosity"
+      ],
+      "answer": 3,
+      "explanation": "Semitendinosus originates from: Ischial tuberosity.",
+      "id": 96
+    },
+    {
+      "domain": "OIA · Leg",
+      "question": "Where does the Soleus primarily insert? (variant 3)",
+      "options": [
+        "Middle third of the linea aspera of the femur",
+        "Navicular and medial foot tarsals/metatarsals",
+        "Calcaneus via Achilles tendon",
+        "Lesser trochanter of the femur (as iliopsoas)"
+      ],
+      "answer": 2,
+      "explanation": "Soleus inserts on: Calcaneus via Achilles tendon.",
+      "id": 97
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which is a primary action of the Adductor longus?",
+      "options": [
+        "Hip adduction",
+        "Elbow extension as sole action",
+        "Glenohumeral stabilization",
+        "Hip flexion"
+      ],
+      "answer": 0,
+      "explanation": "A key action of Adductor longus is Hip adduction.",
+      "id": 98
+    },
+    {
+      "domain": "OIA · Thigh",
+      "question": "Which muscle is best known for this primary action: Hip adduction? (variant 2)",
+      "options": [
+        "Internal oblique",
+        "Middle deltoid",
+        "Adductor magnus",
+        "Transversus abdominis"
+      ],
+      "answer": 2,
+      "explanation": "Adductor magnus is a key muscle for Hip adduction.",
+      "id": 99
+    },
+    {
+      "domain": "OIA · Chest",
+      "question": "If the Pectoralis minor is the target muscle, which joint action should the coach emphasize? (variant 3)",
+      "options": [
+        "Glenohumeral stabilization",
+        "Scapular protraction",
+        "Ankle plantarflexion",
+        "Trunk flexion"
+      ],
+      "answer": 1,
+      "explanation": "Coaching emphasis for Pectoralis minor: Scapular protraction.",
+      "id": 100
+    }
+  ],
+  "regionCounts": {
+    "OIA · Chest": 9,
+    "OIA · Scapula": 10,
+    "OIA · Back": 8,
+    "OIA · Shoulder": 8,
+    "OIA · Rotator cuff": 8,
+    "OIA · Arm": 9,
+    "OIA · Core": 11,
+    "OIA · Hip": 12,
+    "OIA · Thigh": 17,
+    "OIA · Leg": 8
+  }
+}
